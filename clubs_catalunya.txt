@@ -1,0 +1,2914 @@
+CLUB BASQUET CALELLA | https://www.basquetcatala.cat/club/10
+CLUB ESPORTIU MARISTES ADEMAR | https://www.basquetcatala.cat/club/9
+CLUB ESPORTIU LA SALLE BONANOVA DE BARCELONA | https://www.basquetcatala.cat/club/8
+UNIO DEPORTIVA I RECREATIVA PINEDA DE MAR | https://www.basquetcatala.cat/club/5
+CLUB BASQUET MOLLET | https://www.basquetcatala.cat/club/4
+CLUB BASQUET GRANOLLERS | https://www.basquetcatala.cat/club/1
+CLUB BASQUET CANET | https://www.basquetcatala.cat/club/6
+CLUB JOVENTUT BADALONA | https://www.basquetcatala.cat/club/3
+FUTBOL CLUB BARCELONA | https://www.basquetcatala.cat/club/2
+CLUB BASQUET CASTELLAR | https://www.basquetcatala.cat/club/11
+CLUB BASQUET L'HOSPITALET | https://www.basquetcatala.cat/club/7
+ASSOCIACIO ESPORTIVA LA SALLE MANRESA | https://www.basquetcatala.cat/club/12
+CLUB BASQUET SANT JOSEP BADALONA | https://www.basquetcatala.cat/club/14
+AGRUPACIO BASQUET PREMIA | https://www.basquetcatala.cat/club/16
+CLUB BASQUET SANT ADRIA | https://www.basquetcatala.cat/club/13
+CLUB ESPORTIU SANT IGNASI | https://www.basquetcatala.cat/club/17
+ASSOCIACIO ESPORTIVA CENTRE CATOLIC DE MATARO | https://www.basquetcatala.cat/club/19
+CLUB BASQUET ALISOS | https://www.basquetcatala.cat/club/18
+CLUB BASQUET CASTELLET | https://www.basquetcatala.cat/club/20
+UNIO ESPORTIVA MONTGAT | https://www.basquetcatala.cat/club/15
+CLUB ESPORTIU MOLINS DE REI | https://www.basquetcatala.cat/club/22
+CLUB BASQUET GRUP BARNA | https://www.basquetcatala.cat/club/24
+ASSOCIACIO CENTRE CATOLIC DE L' HOSPITALET DE LLOBREGAT | https://www.basquetcatala.cat/club/25
+CLUB BASQUETBOL GAVA | https://www.basquetcatala.cat/club/23
+JAC CLUB SANTS | https://www.basquetcatala.cat/club/26
+BASQUET MALGRAT CLUB | https://www.basquetcatala.cat/club/27
+CLUB NATACIO SABADELL | https://www.basquetcatala.cat/club/28
+CLUB BASQUET PEDAGOGIUM | https://www.basquetcatala.cat/club/30
+CLUB BASQUETBOL CORNELLA | https://www.basquetcatala.cat/club/21
+CLUB ESPORTIU LA SALLE GRACIA | https://www.basquetcatala.cat/club/32
+CLUB BASQUET SANTFELIUENC | https://www.basquetcatala.cat/club/33
+CLUB ESPORTIU BASQUET SANT JORDI | https://www.basquetcatala.cat/club/35
+CLUB BASQUET NAVAS | https://www.basquetcatala.cat/club/29
+UNIO ESPORTIVA D'HORTA | https://www.basquetcatala.cat/club/37
+CLUB BASQUETBOL VILADECANS | https://www.basquetcatala.cat/club/39
+UNIO ESPORTIVA GAUDI | https://www.basquetcatala.cat/club/36
+SECCIO ESPORTIVA CASAL SOCIETAT LA PRINCIPAL | https://www.basquetcatala.cat/club/40
+CLUB ESPORTIU MARISTES SANT JOAN | https://www.basquetcatala.cat/club/34
+CLUB BASQUET RIPOLLET | https://www.basquetcatala.cat/club/31
+ASSOCIACIO ESPORTIVA DE GRACIA | https://www.basquetcatala.cat/club/41
+CLUB BASQUET VIC | https://www.basquetcatala.cat/club/38
+CLUB ESPORTIU HISPANO FRANCES | https://www.basquetcatala.cat/club/42
+SECCIO ESPORTIVA SANTA EULALIA (SESE) | https://www.basquetcatala.cat/club/43
+AGRUPACIO SFERIC | https://www.basquetcatala.cat/club/44
+CLUB DE BASQUET INSTITUCIO MONTSERRAT (BIM) | https://www.basquetcatala.cat/club/45
+BASKET ALMEDA | https://www.basquetcatala.cat/club/53
+BASQUET CLUB TECLA SALA | https://www.basquetcatala.cat/club/50
+CLUB D'ESPORTS ARENYS DE MUNT | https://www.basquetcatala.cat/club/55
+SECCIO ESPORTIVA DE LLUISOS DE GRACIA | https://www.basquetcatala.cat/club/47
+CLUB BASQUETBOL SANT JOSEP OBRER | https://www.basquetcatala.cat/club/52
+CLUB BASQUET BEGUES | https://www.basquetcatala.cat/club/56
+CLUB NATACIO TERRASSA | https://www.basquetcatala.cat/club/51
+CLUB BASQUETBOL BON PASTOR | https://www.basquetcatala.cat/club/58
+CLUB ARENYS BASQUET | https://www.basquetcatala.cat/club/54
+ASSOCIACIO ESPORTIVA BASQUET BERGA | https://www.basquetcatala.cat/club/57
+UNIO ESPORTIVA CAPELLADES | https://www.basquetcatala.cat/club/60
+CLUB BASQUET CABRERA | https://www.basquetcatala.cat/club/59
+CLUB BASQUET ROSER | https://www.basquetcatala.cat/club/49
+CLUB BASQUET CARDEDEU | https://www.basquetcatala.cat/club/61
+ASSOCIACIO ESPORTIVA CASP | https://www.basquetcatala.cat/club/62
+CLUB BASQUET ARGENTONA | https://www.basquetcatala.cat/club/64
+CLUB BASQUET IGUALADA | https://www.basquetcatala.cat/club/65
+ASSOCIACIO ESPORTIVA DOSA BADALONA | https://www.basquetcatala.cat/club/46
+ASSOCIACIO ESPORTIVA L'HOSPITALET | https://www.basquetcatala.cat/club/67
+CLUB BASQUET FEMENI CERDANYOLA | https://www.basquetcatala.cat/club/63
+CLUB ESPORTIU MARISTES SANTS - LES CORTS | https://www.basquetcatala.cat/club/69
+CLUB BASQUET MANLLEU | https://www.basquetcatala.cat/club/68
+CLUB BASQUET MONTPEDROS- SANTA COLOMA DE CERVELLO | https://www.basquetcatala.cat/club/71
+ELS MONJOS BASQUET CLUB | https://www.basquetcatala.cat/club/70
+CLUB ESPORTIU BASQUET PALLEJA | https://www.basquetcatala.cat/club/72
+CLUB BASQUET RIBES | https://www.basquetcatala.cat/club/73
+CENTRE D'ESPORTS IPSI | https://www.basquetcatala.cat/club/66
+SECCIO ESPORTIVA SANT MEDIR | https://www.basquetcatala.cat/club/77
+BASKET RUBI | https://www.basquetcatala.cat/club/75
+ASSOCIACIO SANT FRUITOS D'ESPORTS | https://www.basquetcatala.cat/club/74
+CLUB DE BASQUET SENTMENAT | https://www.basquetcatala.cat/club/78
+CLUB ESPORTIU VILANOVA I LA GELTRU | https://www.basquetcatala.cat/club/79
+CLUB BASQUET ATENEU MONTSERRAT | https://www.basquetcatala.cat/club/81
+UNIO ESPORTIVA BARBERA | https://www.basquetcatala.cat/club/82
+CLUB BASQUET SANT BOI | https://www.basquetcatala.cat/club/76
+ESCOLAPIS DIPUTACIO | https://www.basquetcatala.cat/club/84
+CLUB BASQUET CALDES DE MONTBUI | https://www.basquetcatala.cat/club/83
+CLUB BASQUET ESPARREGUERA | https://www.basquetcatala.cat/club/85
+C.B. VILAFRANCA | https://www.basquetcatala.cat/club/89
+CLUB ESPORTIU LAIETA | https://www.basquetcatala.cat/club/87
+CLUB BASQUET PARETS | https://www.basquetcatala.cat/club/90
+CLUB ESPORTIU GELIDA | https://www.basquetcatala.cat/club/86
+CLUB BASQUET LLINARS | https://www.basquetcatala.cat/club/88
+CLUB BASQUET PRAT | https://www.basquetcatala.cat/club/91
+CLUB BASQUET SANT JUST | https://www.basquetcatala.cat/club/93
+SOCIETAT ATLETICA DE SURIA | https://www.basquetcatala.cat/club/94
+AGRUPACIO ESPORTIVA TEIA | https://www.basquetcatala.cat/club/95
+BASQUET THE PENJATS CLUB MATARO | https://www.basquetcatala.cat/club/96
+CLUB BASQUETBOL BETSAIDA | https://www.basquetcatala.cat/club/98
+ASSOCIACIO BASQUETBOL ESPLUGUES | https://www.basquetcatala.cat/club/97
+SECCIO ESPORTIVA SANT JOAN MATA | https://www.basquetcatala.cat/club/92
+CLUB BASQUET SANTA PERPETUA | https://www.basquetcatala.cat/club/101
+CLUB BASQUET SITGES | https://www.basquetcatala.cat/club/100
+EL MASNOU BASQUETBOL | https://www.basquetcatala.cat/club/99
+CLUB ESCOLAPIS SARRIA | https://www.basquetcatala.cat/club/102
+ESCOLA ESPORTIVA LLOR | https://www.basquetcatala.cat/club/105
+CLUB BASQUET SOLSONA | https://www.basquetcatala.cat/club/103
+ASSOCIACIO ESPORTIVA LA SALLE CONDAL | https://www.basquetcatala.cat/club/106
+CLUB ESPORTIU ESCOLA PIA DE SABADELL | https://www.basquetcatala.cat/club/104
+CLUB DE BASQUET LA FARIGOLA | https://www.basquetcatala.cat/club/109
+CLUB BASQUET TORELLO | https://www.basquetcatala.cat/club/108
+CLUB BASQUET PREMIA DE DALT | https://www.basquetcatala.cat/club/110
+ATENEU ALIANCA | https://www.basquetcatala.cat/club/113
+CLUB BALONCESTO CORAZONISTAS | https://www.basquetcatala.cat/club/112
+CLUB ESPORTIU BASQUETBOL LUZ CASANOVA | https://www.basquetcatala.cat/club/115
+ASSOCIACIO ESPORTIVA MINGUELLA | https://www.basquetcatala.cat/club/114
+F.C. MARTINENC | https://www.basquetcatala.cat/club/111
+CLUB BASQUETBOL SANT ANDREU | https://www.basquetcatala.cat/club/117
+ASSOCIACIO ESPORTIVA ESCOLAR REGINA CARMELI DE RUBI | https://www.basquetcatala.cat/club/116
+APB | https://www.basquetcatala.cat/club/118
+CLUB BASQUET MONTCADA | https://www.basquetcatala.cat/club/120
+CLUB BASQUET LA SALLE SANT CELONI | https://www.basquetcatala.cat/club/121
+UNIO ESPORTIVA SANT FOST CLUB DE FUTBOL | https://www.basquetcatala.cat/club/122
+A.D. BASQUET C.A.T. | https://www.basquetcatala.cat/club/119
+ESCOLA CARME - CARMELITES | https://www.basquetcatala.cat/club/126
+CLUB ESPORTIU LES FRANQUESES | https://www.basquetcatala.cat/club/123
+CLUB NATACIO CALDES | https://www.basquetcatala.cat/club/125
+CASA DEGLI ITALIANI - AZZURRO | https://www.basquetcatala.cat/club/127
+CLUB BASQUET ALELLA | https://www.basquetcatala.cat/club/129
+CLUB BASKETBOL FEMENI MESLEO | https://www.basquetcatala.cat/club/130
+CLUB ESPORTIU THAU | https://www.basquetcatala.cat/club/128
+ASSOCIACIO SANT MARTI ESPORT | https://www.basquetcatala.cat/club/124
+C.B. SANT RAMON NONAT | https://www.basquetcatala.cat/club/131
+CLUB BASQUET RODA | https://www.basquetcatala.cat/club/133
+CLUB BASQUET BOET MARESME MATARO | https://www.basquetcatala.cat/club/134
+SEGLE XXI | https://www.basquetcatala.cat/club/135
+SANT QUIRZE BASQUET CLUB | https://www.basquetcatala.cat/club/136
+UNIO ESPORTIVA SANT GABRIEL VILADECANS | https://www.basquetcatala.cat/club/137
+U.E. BASQUET MARTORELLES | https://www.basquetcatala.cat/club/138
+C.E. NOIA | https://www.basquetcatala.cat/club/139
+CLUB DE BASQUET SANT PERE DE TERRASSA | https://www.basquetcatala.cat/club/144
+CLUB BASQUET LA GARRIGA | https://www.basquetcatala.cat/club/142
+CLUB BALONCESTO SAN GABRIEL | https://www.basquetcatala.cat/club/141
+CLUB BASQUET BUFALA | https://www.basquetcatala.cat/club/145
+C.E.S. BOSCO-HORTA | https://www.basquetcatala.cat/club/146
+ATLETIC TERRASSA HOCKEY CLUB | https://www.basquetcatala.cat/club/147
+ASSOCIACIO CENTRE CULTURAL EL SOCIAL | https://www.basquetcatala.cat/club/140
+ASSOCIACIO DEPORTIVA ESCOLAR FUSTER | https://www.basquetcatala.cat/club/143
+CLUB BASQUET JOVENTUT SANT VICENC | https://www.basquetcatala.cat/club/151
+CLUB BASQUET ARTES | https://www.basquetcatala.cat/club/154
+CIRCOL CATOLIC DE BADALONA | https://www.basquetcatala.cat/club/155
+CLUB ESPORTIU MARISTES RUBI | https://www.basquetcatala.cat/club/153
+UNIO ESPORTIVA CLARET | https://www.basquetcatala.cat/club/148
+ASSOCIACIO ESPORTIVA BADALONES | https://www.basquetcatala.cat/club/150
+CLUB BASQUET MARTORELL | https://www.basquetcatala.cat/club/157
+ASSOCIACIO ESPORTIVA ESCOLAR ESCOLA PIA GRANOLLERS | https://www.basquetcatala.cat/club/158
+GRUP ESPORTIU GRANOLLERS | https://www.basquetcatala.cat/club/156
+CLUB BASQUET CIUTAT VELLA | https://www.basquetcatala.cat/club/159
+APA COL. MARE DE DEU DEL ROSER | https://www.basquetcatala.cat/club/149
+CLUB BASQUET TONA | https://www.basquetcatala.cat/club/160
+CLUB BASQUET IMMA | https://www.basquetcatala.cat/club/162
+CLUB DE BASQUET VILASSAR DE MAR | https://www.basquetcatala.cat/club/161
+ASSOCIACIO ESPORTIVA BELLSPORT | https://www.basquetcatala.cat/club/163
+ARIS B.C. | https://www.basquetcatala.cat/club/152
+CLUB BASQUET CASTELLDEFELS | https://www.basquetcatala.cat/club/164
+BASQUET CLUB BONAIRE TERRASSA | https://www.basquetcatala.cat/club/166
+CLUB ESPORTIU JESUS MARIA SANT ANDREU | https://www.basquetcatala.cat/club/170
+CLUB BASQUET SANTA COLOMA | https://www.basquetcatala.cat/club/168
+CLUB ESPORTIU JESUS MARIA | https://www.basquetcatala.cat/club/171
+SEC.ESP. DE BASQUETBOL DE LA FUNDACIO CULTURAL PRIVADA PALCAM | https://www.basquetcatala.cat/club/169
+FUNDACIO PRIVADA CLAROR | https://www.basquetcatala.cat/club/172
+ASSOCIACIO ESPORTIVA JOVENTUT RIERA CORNELLA | https://www.basquetcatala.cat/club/173
+CLUB ESPORTIU XAMBA | https://www.basquetcatala.cat/club/165
+CLUB BASQUET CENTELLES | https://www.basquetcatala.cat/club/174
+C.B. SANTA ROSA DE LIMA HORTA | https://www.basquetcatala.cat/club/176
+CLUB ESPORTIU VALLDEMIA - MARISTES | https://www.basquetcatala.cat/club/178
+CLUB BASQUET ABRERA | https://www.basquetcatala.cat/club/179
+CLUB JOVENTUT LES CORTS | https://www.basquetcatala.cat/club/175
+CLUB DE BASQUET L'AMETLLA DEL VALLES | https://www.basquetcatala.cat/club/177
+C.D. OLIMPIC ACYS | https://www.basquetcatala.cat/club/167
+C.B. SANT VICENC MONTALT | https://www.basquetcatala.cat/club/182
+BASQUET DRAFT GRAMENET | https://www.basquetcatala.cat/club/185
+CLUB BASQUET ELVIRA CUYAS | https://www.basquetcatala.cat/club/181
+ASSOCIACIO ESPORTIVA CENTRE SANFELIU | https://www.basquetcatala.cat/club/189
+CLUB ESPORTIU MARISTES SABADELL | https://www.basquetcatala.cat/club/184
+CLUB BASQUET SAMA VILANOVA I LA GELTRU | https://www.basquetcatala.cat/club/183
+CLUB ESPORTIU ESCOLA SANT GERVASI | https://www.basquetcatala.cat/club/187
+CLUB BASQUET LA SALLE MONTCADA | https://www.basquetcatala.cat/club/188
+SECCIO ESPORTIVA ESCOLA PIA SANT ANTONI | https://www.basquetcatala.cat/club/190
+CLUB BASQUET COLL | https://www.basquetcatala.cat/club/191
+A.P.A. LA SALLE CONGRES | https://www.basquetcatala.cat/club/194
+BASQUET FEMENI CORNELLA | https://www.basquetcatala.cat/club/192
+C.D. CAN PARELLADA | https://www.basquetcatala.cat/club/180
+CLUB  BASQUET VILANOVA DEL CAMI | https://www.basquetcatala.cat/club/198
+UNIO ESPORTIVA SANT CUGAT | https://www.basquetcatala.cat/club/195
+CLUB ESPORTIU UNIVERSITARI | https://www.basquetcatala.cat/club/196
+C.B. SANT JORDI CALLUS | https://www.basquetcatala.cat/club/200
+CLUB DE BASQUET VILANOVA DEL VALLES | https://www.basquetcatala.cat/club/199
+CENTRE CULTURAL I RECREATIU COLLBLANC-TORRASSA | https://www.basquetcatala.cat/club/197
+CLUB POLIESPORTIU FONT CASTELLANA | https://www.basquetcatala.cat/club/204
+AGRUPACION DEPORTIVA RONDA | https://www.basquetcatala.cat/club/201
+LA LLAGOSTA ESPORTIU BASQUET CLUB | https://www.basquetcatala.cat/club/186
+C.B. SINGUERLIN | https://www.basquetcatala.cat/club/202
+BASQUET CLUB SANT JOAN DESPI | https://www.basquetcatala.cat/club/203
+CLUB BASQUET SANT FELIU DE CODINES | https://www.basquetcatala.cat/club/208
+CLUB ESPORTIU SITGETA DE BASQUETBOL | https://www.basquetcatala.cat/club/207
+CLUB BASQUETBOL SANT CLIMENT | https://www.basquetcatala.cat/club/205
+AGRUPACIO ESPORTIVA SANTA EULALIA | https://www.basquetcatala.cat/club/206
+CLUB BASQUET EMMA-GASSO | https://www.basquetcatala.cat/club/209
+COL.LEGI SAGRADA FAMILIA HORTA | https://www.basquetcatala.cat/club/214
+ESCOLA TECNICA PROFESIONAL DEL CLOT | https://www.basquetcatala.cat/club/212
+CLUB HANDBOL JURASSIC | https://www.basquetcatala.cat/club/210
+APA JOSEP TOUS | https://www.basquetcatala.cat/club/215
+FUNDACIO PRIVADA VORAMAR | https://www.basquetcatala.cat/club/213
+COL·LEGI IMMACULADA CONCEPCIO HORTA | https://www.basquetcatala.cat/club/211
+FUNDACIO JOVIAT | https://www.basquetcatala.cat/club/218
+CLUB HANDBOL SANT LLORENC | https://www.basquetcatala.cat/club/219
+CLUB BASQUET LA SALLE HORTA | https://www.basquetcatala.cat/club/217
+CLUB BASQUET VILADECAVALLS | https://www.basquetcatala.cat/club/221
+AMPA COL·LEGI SANT GABRIEL DE RIPOLLET | https://www.basquetcatala.cat/club/224
+CLUB ESPORTIU UNIO BASQUET SABADELL | https://www.basquetcatala.cat/club/223
+CLUB ESPORTIU ESCOLAPIS IGUALADA | https://www.basquetcatala.cat/club/220
+CLUB BASKET GRACIA | https://www.basquetcatala.cat/club/225
+UNIO DEPORTIVA  ATLETICA GRAMENET | https://www.basquetcatala.cat/club/226
+CLUB BASQUET CASTELLBISBAL | https://www.basquetcatala.cat/club/229
+ESCOLA ESPORTIVA BRAFA (FUNDACIO BRAFA) | https://www.basquetcatala.cat/club/227
+MONTMELO CLUB BASQUET | https://www.basquetcatala.cat/club/231
+APA ESCOLA SALESIANS SANT JOSEP ROCAFORT | https://www.basquetcatala.cat/club/233
+ATHLETIC CLUB BASQUET PALAU DE PLEGAMANS | https://www.basquetcatala.cat/club/228
+CLUB BASQUET LLAVANERES | https://www.basquetcatala.cat/club/230
+A.E. SAGRAT COR DIPUTACIO | https://www.basquetcatala.cat/club/216
+CLUB BASQUET GREGAL | https://www.basquetcatala.cat/club/232
+CLUB DE BASQUET VILATORRADA | https://www.basquetcatala.cat/club/236
+CLUB ATLETIC ESPORTIU SALLENT | https://www.basquetcatala.cat/club/234
+CLUB JOVENTUT ESPORTIVA DE TERRASSA | https://www.basquetcatala.cat/club/235
+CLUB BASQUET MASQUEFA | https://www.basquetcatala.cat/club/237
+CLUB GIMNAS GIMBE | https://www.basquetcatala.cat/club/238
+COL.LEGI LA MERCE | https://www.basquetcatala.cat/club/240
+CLUB BASKET PAPIOL | https://www.basquetcatala.cat/club/242
+SANT ESTANISLAU | https://www.basquetcatala.cat/club/239
+CLUB BASQUET FEMENI SANT ADRIA ADEDI 104 | https://www.basquetcatala.cat/club/244
+ASSOCIACIO ESPORTIVA BASQUET PRATENC | https://www.basquetcatala.cat/club/243
+ASSOCIACIO ESPORTIVA SANT ANDREU DE NATZARET | https://www.basquetcatala.cat/club/241
+CLUB DE BASQUET CA N'ORIOL | https://www.basquetcatala.cat/club/248
+ASSOCIACIO DE PARES D' ALUMNES DEL COL·LEGI PARE MANYANET | https://www.basquetcatala.cat/club/247
+COL·LECTIU D'ESPORT PER A TOTHOM "10" CLUB | https://www.basquetcatala.cat/club/246
+CLUB BASQUET CORBERA | https://www.basquetcatala.cat/club/252
+CLUB BALONCESTO CIC | https://www.basquetcatala.cat/club/251
+CANOVELLES BASKET CLUB | https://www.basquetcatala.cat/club/253
+CLUB BASQUET GUINARDO | https://www.basquetcatala.cat/club/255
+PENYA BARCELONISTA CASTELLTERCOL | https://www.basquetcatala.cat/club/254
+CLUB BASQUET LA UNIO | https://www.basquetcatala.cat/club/250
+C.B. PENYA CULE | https://www.basquetcatala.cat/club/258
+BADALONA BASQUET CLUB | https://www.basquetcatala.cat/club/256
+ASSOCIACIO ESPORTIVA  AULA | https://www.basquetcatala.cat/club/257
+ASSOCIACIO ESPORTIVA ESCOLAR MANYANET MOLINS | https://www.basquetcatala.cat/club/259
+PENYA BARCELONISTA LA PALMA | https://www.basquetcatala.cat/club/249
+CLUB BASQUET PERE DE TERA | https://www.basquetcatala.cat/club/260
+CLUB DE BASQUET CANYELLES DE NOU BARRIS DE BARCELONA | https://www.basquetcatala.cat/club/264
+A.E. THALASSA | https://www.basquetcatala.cat/club/261
+C.P. PUIGCERDA | https://www.basquetcatala.cat/club/263
+CLUB BASQUET CERVELLO | https://www.basquetcatala.cat/club/267
+CLUB BASQUET FEMENI VILADECANS SPORTS | https://www.basquetcatala.cat/club/266
+AA.VV. FONDO-SISTRELLS | https://www.basquetcatala.cat/club/269
+CLUB ESPORTIU OSONA | https://www.basquetcatala.cat/club/268
+CLUB ESCOLA BASQUET CAN SANT JOAN MONTCADA | https://www.basquetcatala.cat/club/270
+CLUB BASQUET SANTPEDOR | https://www.basquetcatala.cat/club/271
+CLUB BASQUET LLICA D'AMUNT | https://www.basquetcatala.cat/club/272
+CLUB BASQUET ROQUETES | https://www.basquetcatala.cat/club/273
+COL.LEGI L'AVE MARIA | https://www.basquetcatala.cat/club/274
+CREU ALTA SABADELL BASQUET CLUB | https://www.basquetcatala.cat/club/275
+ESCOLA TABOR-INSTITUCIO BELLSOLA | https://www.basquetcatala.cat/club/276
+CLUB BASQUET CUBELLES | https://www.basquetcatala.cat/club/245
+APA COL·LEGI SANT BONAVENTURA | https://www.basquetcatala.cat/club/277
+BASQUET SANT CUGAT | https://www.basquetcatala.cat/club/278
+CLUB BASQUET VOLTREGA | https://www.basquetcatala.cat/club/280
+CASINO DEL CENTRE DE L'HOSPITALET | https://www.basquetcatala.cat/club/282
+CLUB FUTBOL FREDERIC MISTRAL | https://www.basquetcatala.cat/club/281
+CLUB BASQUET SANT CEBRIA | https://www.basquetcatala.cat/club/285
+C.B. I UNIO MANRESANA DEL FOMENT DEL BASQUET FUNDACIO PRIVADA | https://www.basquetcatala.cat/club/279
+CLUB BASQUET VEDRUNA | https://www.basquetcatala.cat/club/287
+AMPA LOLA ANGLADA | https://www.basquetcatala.cat/club/291
+CLUB DE BASQUET BIGUES-RIELLS | https://www.basquetcatala.cat/club/290
+ASSOCIACIO ESPORTIVA MARTORELL | https://www.basquetcatala.cat/club/293
+A.M.P.A. ESCOLA VEDRUNA GRACIA | https://www.basquetcatala.cat/club/288
+CLUB ESCOLA DE BASQUET NAVARCLES | https://www.basquetcatala.cat/club/289
+A.P.A.D.A. SAGRAT COR STA. COLOMA | https://www.basquetcatala.cat/club/286
+CLUB BELLVITGE | https://www.basquetcatala.cat/club/292
+CLUB ESPORTIU VILATORTA | https://www.basquetcatala.cat/club/294
+CAN COLAPI DE TERRASSA | https://www.basquetcatala.cat/club/297
+COL.LEGI SAGRADA FAMILIA | https://www.basquetcatala.cat/club/295
+BASQUETBOL VILAFRANCA | https://www.basquetcatala.cat/club/300
+ESCOLA CLUB BASQUET CANIGO | https://www.basquetcatala.cat/club/296
+APA COL.LEGI LESTONNAC MOLLET | https://www.basquetcatala.cat/club/298
+C.B. SINERA | https://www.basquetcatala.cat/club/299
+CLUB BASQUETBOL SANTIAGO | https://www.basquetcatala.cat/club/301
+A.E. VALLIRANA | https://www.basquetcatala.cat/club/305
+ASSOCIACIO DE VEINS GORG-MAR | https://www.basquetcatala.cat/club/304
+BERLIN'99 C.B. | https://www.basquetcatala.cat/club/302
+COL.LEGI INTERNACIONAL SEK CATALUNYA | https://www.basquetcatala.cat/club/306
+C.B. TORRAS I BAGES | https://www.basquetcatala.cat/club/303
+STAR 4 C.B. | https://www.basquetcatala.cat/club/308
+ESCOLA IPSE | https://www.basquetcatala.cat/club/307
+ASSOCIACIO ESPORTIVA BASQUET MVP CERVELLO | https://www.basquetcatala.cat/club/309
+CLUB BASQUET SANTA EUGENIA DE BERGA | https://www.basquetcatala.cat/club/310
+CLUB BASQUET BLANES | https://www.basquetcatala.cat/club/311
+CLUB BASQUET AMER | https://www.basquetcatala.cat/club/313
+CLUB BASQUET BANYOLES | https://www.basquetcatala.cat/club/315
+CLUB ESPORTIU SANTA EUGENIA DE TER | https://www.basquetcatala.cat/club/317
+CLUB BASQUET CAMPDEVANOL | https://www.basquetcatala.cat/club/316
+CLUB BASQUET OLOT | https://www.basquetcatala.cat/club/314
+CLUB BASQUET ADEPAF FIGUERES | https://www.basquetcatala.cat/club/312
+CLUB CULTURAL ESPORTIU MONTESSORI-PALAU | https://www.basquetcatala.cat/club/318
+CLUB BASQUET GRIFEU DE LLANCA | https://www.basquetcatala.cat/club/319
+CLUB BASQUET SANT FELIU | https://www.basquetcatala.cat/club/320
+BASQUET CLUB PALAFRUGELL | https://www.basquetcatala.cat/club/322
+CLUB BASQUET LLORET | https://www.basquetcatala.cat/club/321
+CLUB BASQUETBOL FARNERS | https://www.basquetcatala.cat/club/326
+FOMENT DEPORTIU CASSANENC | https://www.basquetcatala.cat/club/325
+CLUB BASQUET CELLERA | https://www.basquetcatala.cat/club/329
+BASQUET CLUB FONTAJAU | https://www.basquetcatala.cat/club/328
+CLUB BASQUET SALT | https://www.basquetcatala.cat/club/323
+CLUB BASQUETBOL ARBUCIES | https://www.basquetcatala.cat/club/324
+CLUB BASQUET LLAGOSTERA | https://www.basquetcatala.cat/club/330
+CLUB ESPORTIU MARISTES GIRONA | https://www.basquetcatala.cat/club/327
+BASQUET CLUB TORROELLA | https://www.basquetcatala.cat/club/331
+BASQUET CLUB MACANET SELVA | https://www.basquetcatala.cat/club/333
+CLUB BASQUET VEDRUNA GIRONA | https://www.basquetcatala.cat/club/332
+UNIO ATLETICA TOSSA | https://www.basquetcatala.cat/club/334
+APA DEL DEL COLEGIO CORAZON MARIA-MARIA REINA | https://www.basquetcatala.cat/club/335
+ASSOCIACIO ESPORTIVA ESCOLAR PETIT PLANCO D'OLOT | https://www.basquetcatala.cat/club/342
+CLUB BASQUET L'ESCALA | https://www.basquetcatala.cat/club/336
+CLUB BASQUETBOL HOSTALRIC | https://www.basquetcatala.cat/club/338
+CLUB BASQUET SANT HILARI | https://www.basquetcatala.cat/club/337
+UNIO ESPORTIVA LA SALLE GIRONA | https://www.basquetcatala.cat/club/339
+ESCOLA PIA D'OLOT | https://www.basquetcatala.cat/club/341
+CLUB POLIESPORTIU SANTJOANENC | https://www.basquetcatala.cat/club/343
+CLUB DE BASQUET ROSES | https://www.basquetcatala.cat/club/340
+CLUB BASQUET VILAGRAN | https://www.basquetcatala.cat/club/348
+GRUP EXCURSIONISTA I ESPORTIU GIRONI (GEIEG) | https://www.basquetcatala.cat/club/344
+CLUB ESPORTIU BASQUET ESPLAIS CASTELLO D'EMPURIES | https://www.basquetcatala.cat/club/345
+CLUB BASQUET TORDERA | https://www.basquetcatala.cat/club/346
+COL.LEGI LA SALLE SANTA COLOMA | https://www.basquetcatala.cat/club/349
+CLUB BALONCESTO PALAFOLLS | https://www.basquetcatala.cat/club/347
+CLUB INDEPENDENT BASQUET LLORET | https://www.basquetcatala.cat/club/350
+ASSOCIACIO DE MARES, PARES I TUTORS D'ALUMNES DEL COL·LEGI DR. MASMITJA | https://www.basquetcatala.cat/club/351
+CLUB DE BASQUET VERGES | https://www.basquetcatala.cat/club/355
+APA COL·LEGI VEDRUNA DE PALAMOS | https://www.basquetcatala.cat/club/352
+CLUB ESPORTIU PALAMOS | https://www.basquetcatala.cat/club/354
+ASS. PARES FAMILIA SANT HILARI SACALM | https://www.basquetcatala.cat/club/353
+CLUB ESPORTIU POMPEU FABRA | https://www.basquetcatala.cat/club/356
+CLUB DE BASQUET SARRIA DE TER | https://www.basquetcatala.cat/club/357
+CLUB BASQUET BLANES CARGOLS | https://www.basquetcatala.cat/club/362
+AGRUPACIO ESPORTIVA FORNELLS | https://www.basquetcatala.cat/club/358
+CLUB BASQUET GIRONA SAD | https://www.basquetcatala.cat/club/359
+CLUB BASQUET LLIVIA | https://www.basquetcatala.cat/club/361
+CLUB BASQUET QUART | https://www.basquetcatala.cat/club/360
+AMPA COL·LEGI PARE COLL | https://www.basquetcatala.cat/club/364
+CLUB BASQUET CORNELLA DEL TERRI | https://www.basquetcatala.cat/club/366
+AGRUPACIO ESPORTIVA LA CANYA | https://www.basquetcatala.cat/club/365
+SPORTING CAULES | https://www.basquetcatala.cat/club/368
+CLUB UNIO ESPORTIVA RIPOLL | https://www.basquetcatala.cat/club/367
+CLUB BASQUET BESCANO | https://www.basquetcatala.cat/club/370
+CLUB DE BASQUET LA JONQUERA | https://www.basquetcatala.cat/club/363
+C.B. SANT ESTEVE | https://www.basquetcatala.cat/club/373
+CLUB BASQUET SANT GREGORI | https://www.basquetcatala.cat/club/371
+CLUB ESPORTIU JOVENTUT CELRA | https://www.basquetcatala.cat/club/372
+CLUB ESPORTIU ONYAR | https://www.basquetcatala.cat/club/369
+BASQUET PORQUERES ASSOCIACIO ESPORTIVA | https://www.basquetcatala.cat/club/374
+CLUB BASQUET BESALU | https://www.basquetcatala.cat/club/375
+CLUB BASQUET SANTA SUSANNA | https://www.basquetcatala.cat/club/376
+CLUB ESPORTIU BISBAL BASQUET | https://www.basquetcatala.cat/club/378
+CLUB BASQUET ESPORTIU SANT NARCIS | https://www.basquetcatala.cat/club/379
+BASQUET CLUB PALS | https://www.basquetcatala.cat/club/382
+CENTRE L'AVENIR FANALENC | https://www.basquetcatala.cat/club/377
+UNIO ESPORTIVA RIUDARENES | https://www.basquetcatala.cat/club/380
+CLUB BASKET PALAU-SACOSTA | https://www.basquetcatala.cat/club/385
+NOU CAULES CLUB DE BASQUET | https://www.basquetcatala.cat/club/383
+ASSOCIACIO ESPORTIVA BEGUR | https://www.basquetcatala.cat/club/384
+CLUB BASQUET ESCOLAPIES DE FIGUERES | https://www.basquetcatala.cat/club/381
+ASSOCIACIO BASQUETBOL SANT JULIA DE RAMIS | https://www.basquetcatala.cat/club/386
+CLUB BASQUET CORCA | https://www.basquetcatala.cat/club/387
+CLUB FUTBOL SALA VILABLAREIX | https://www.basquetcatala.cat/club/388
+CLUB BASQUET LLEIDA | https://www.basquetcatala.cat/club/390
+CLUB BASQUET CERVERA | https://www.basquetcatala.cat/club/389
+CLUB BASQUET PARDINYES | https://www.basquetcatala.cat/club/392
+BASQUET AGRAMUNT CLUB | https://www.basquetcatala.cat/club/393
+SICORIS CLUB | https://www.basquetcatala.cat/club/394
+CLUB BASQUET BELLVIS | https://www.basquetcatala.cat/club/395
+CLUB BASQUET SANT GUIM | https://www.basquetcatala.cat/club/396
+CLUB BASQUET ALMACELLES | https://www.basquetcatala.cat/club/397
+BASQUET CLUB ANDORRA | https://www.basquetcatala.cat/club/398
+CLUB BASQUET BELL-LLOC | https://www.basquetcatala.cat/club/391
+CLUB BASQUET BELLPUIG | https://www.basquetcatala.cat/club/399
+CLUB BASQUET BALAGUER | https://www.basquetcatala.cat/club/402
+CLUB BASQUET SECA SANT PERE | https://www.basquetcatala.cat/club/404
+CENTRE EXCURSIONISTA NOVA GENT (C.E.N.G.) | https://www.basquetcatala.cat/club/401
+CLUB NATACIO TARREGA | https://www.basquetcatala.cat/club/403
+ASSOCIACIO ESPORTIVA SEDIS-BASQUET | https://www.basquetcatala.cat/club/400
+CLUB DE BASQUET TREMP | https://www.basquetcatala.cat/club/406
+CLUB BASQUET CALAF | https://www.basquetcatala.cat/club/405
+CLUB BASQUET BORGES-GARRIGUES | https://www.basquetcatala.cat/club/407
+CLUB ESPORTIU CEP | https://www.basquetcatala.cat/club/408
+CLUB ESPORTIU MARISTES MONTSERRAT LLEIDA | https://www.basquetcatala.cat/club/409
+CLUB BASQUET PALAU D'ANGLESOLA | https://www.basquetcatala.cat/club/411
+CLUB BALONCESTO PENA FRAGATINA | https://www.basquetcatala.cat/club/410
+CLUB BASQUET TORREGROSSA | https://www.basquetcatala.cat/club/412
+CLUB ESCOLA FUTBOL URGELL | https://www.basquetcatala.cat/club/415
+CLUB FUTBOL LINYOLA | https://www.basquetcatala.cat/club/420
+CLUB BASQUET TAMARITE | https://www.basquetcatala.cat/club/418
+CLUB DE BASQUET TERRES DE PONENT | https://www.basquetcatala.cat/club/417
+CLUB BASQUET MOLLERUSSA | https://www.basquetcatala.cat/club/413
+CLUB ESPORTIU CIUTAT I PROVINCIA LLEIDA BASQUETBOL | https://www.basquetcatala.cat/club/416
+CLUB BASQUET CAPPONT | https://www.basquetcatala.cat/club/419
+C. ATLETIC SEGRE | https://www.basquetcatala.cat/club/414
+CLUB BASQUET ARACENA | https://www.basquetcatala.cat/club/422
+CLUB  BASQUET L'ALT URGELL | https://www.basquetcatala.cat/club/421
+CLUB BASQUET VALLS | https://www.basquetcatala.cat/club/424
+CLUB BASQUET TARRAGONA | https://www.basquetcatala.cat/club/423
+C.D. VENDRELL | https://www.basquetcatala.cat/club/425
+CLUB NATACIO REUS PLOMS | https://www.basquetcatala.cat/club/428
+CLUB GIMNASTIC DE TARRAGONA | https://www.basquetcatala.cat/club/427
+CLUB BASQUET AGUILES | https://www.basquetcatala.cat/club/433
+CLUB BASQUETBOL LA SALLE REUS | https://www.basquetcatala.cat/club/429
+C.B. CANTAIRES DE L'EBRE-DELTA | https://www.basquetcatala.cat/club/426
+REUS DEPORTIU | https://www.basquetcatala.cat/club/431
+CLUB BASQUET L'HOSPITALET DE L'INFANT | https://www.basquetcatala.cat/club/430
+ASSOCIACIO ESPORTIVA CLARET | https://www.basquetcatala.cat/club/434
+AA.EE.T. VALLS | https://www.basquetcatala.cat/club/439
+ASSOCIACIO DE BASQUET LA SALLE TARRAGONA | https://www.basquetcatala.cat/club/435
+CLUB BASQUET CALAFELL | https://www.basquetcatala.cat/club/436
+CLUB BASQUET VILA-SECA | https://www.basquetcatala.cat/club/437
+CLUB DE BASQUET LA SELVA | https://www.basquetcatala.cat/club/442
+CLUB BASQUET L'ARBOC | https://www.basquetcatala.cat/club/440
+CLUB BASQUETBOL CAMBRILS | https://www.basquetcatala.cat/club/438
+ASSOCIACIO DEPORTIVA TORREFORTA | https://www.basquetcatala.cat/club/441
+CLUB BASQUET SALOU | https://www.basquetcatala.cat/club/444
+CLUB BASQUET SANT PERE I SANT PAU | https://www.basquetcatala.cat/club/446
+AMPA COL·LEGI SANTA TERESA DE JESUS DE TARRAGONA | https://www.basquetcatala.cat/club/448
+APA COL.LEGI SANT PAU APOSTOL DE TARRAGONA | https://www.basquetcatala.cat/club/449
+ASS. DE PARES D'ALUMNES DEL COL.LEGI SAGRAT COR DE TARRAGONA | https://www.basquetcatala.cat/club/447
+CLUB BASQUET ALCANAR | https://www.basquetcatala.cat/club/443
+ASSOCIACIO ESPORTIVA PARE MANYANET | https://www.basquetcatala.cat/club/451
+CLUB BASQUET MONT-ROIG | https://www.basquetcatala.cat/club/445
+CLUB JOVENTUT ULLDECONA | https://www.basquetcatala.cat/club/450
+CLUB BASQUET MORA D'EBRE | https://www.basquetcatala.cat/club/452
+OLIMPIA CAMBRILS | https://www.basquetcatala.cat/club/453
+UNIO DEPORTIVA TORREDEMBARRA | https://www.basquetcatala.cat/club/454
+TGN BASQUET CLUB | https://www.basquetcatala.cat/club/455
+KAIXO B.C. | https://www.basquetcatala.cat/club/918
+CLUB DE BASQUET VALLDOREIX | https://www.basquetcatala.cat/club/913
+C.B. INCOMA | https://www.basquetcatala.cat/club/914
+CAJA DE ALAVA | https://www.basquetcatala.cat/club/915
+C.B. CALPE | https://www.basquetcatala.cat/club/916
+ESCLAVAS | https://www.basquetcatala.cat/club/917
+PATRONATO MALLORCA | https://www.basquetcatala.cat/club/921
+SANT JOSEP | https://www.basquetcatala.cat/club/922
+C.B. UNIVERSITAT D'ALACANT | https://www.basquetcatala.cat/club/919
+CLUB DEPORTIVO ALCAZAR | https://www.basquetcatala.cat/club/923
+PATRONATO DEPORTES BADAJOZ | https://www.basquetcatala.cat/club/920
+C.B. LOS BOSCOS - CIUTADELLA | https://www.basquetcatala.cat/club/924
+C.D. FERRERIES | https://www.basquetcatala.cat/club/927
+BONS AIRES | https://www.basquetcatala.cat/club/928
+JOVENTUT MARIANA | https://www.basquetcatala.cat/club/926
+GESA - ALCUDIA | https://www.basquetcatala.cat/club/929
+C.B. LA SALLE MAHON | https://www.basquetcatala.cat/club/925
+ORISBA PALMA | https://www.basquetcatala.cat/club/932
+LA GLORIA - SAN JOSE | https://www.basquetcatala.cat/club/930
+JOVENT | https://www.basquetcatala.cat/club/931
+CASINO PATRONATO MALLORCA | https://www.basquetcatala.cat/club/935
+PUIG D'EN VALLS | https://www.basquetcatala.cat/club/934
+C.D. 30 DE MAIG | https://www.basquetcatala.cat/club/937
+JOVENTUT D'ALAIOR | https://www.basquetcatala.cat/club/933
+LA GLORIA- MIRET | https://www.basquetcatala.cat/club/938
+COM. FESTES PCA. MANE FLAQUER | https://www.basquetcatala.cat/club/940
+C.B. LA SALLE MAO | https://www.basquetcatala.cat/club/936
+C.D. FERRERIES | https://www.basquetcatala.cat/club/939
+BASQUET C.C. SANTA COLOMA | https://www.basquetcatala.cat/club/942
+CENTRE LA TORRASSA | https://www.basquetcatala.cat/club/948
+BASQUET MANRESA SAD | https://www.basquetcatala.cat/club/943
+GRANOLLERS ESPORTIU BASQUET | https://www.basquetcatala.cat/club/944
+COLEGIO BOIX | https://www.basquetcatala.cat/club/945
+CLUB DEPORTIVO MATARO | https://www.basquetcatala.cat/club/947
+CLUB BALONCESTO MANRESA | https://www.basquetcatala.cat/club/946
+BASQUET L'AVENC DE L'ESPORT | https://www.basquetcatala.cat/club/952
+ASSOC. EX-ALUMNES J. VERDAGUER | https://www.basquetcatala.cat/club/949
+FEDERACIO CATALANA BASQUETBOL | https://www.basquetcatala.cat/club/941
+C. BASQUET FEMENI BARCELONA | https://www.basquetcatala.cat/club/950
+COOPERATIVA CONSTRUCC.EL HOGAR | https://www.basquetcatala.cat/club/951
+C.B. METROPOLITANO | https://www.basquetcatala.cat/club/954
+CLUB BASKET SANT CUGAT | https://www.basquetcatala.cat/club/955
+JUNIOR FUTBOL CLUB | https://www.basquetcatala.cat/club/956
+A.D. CONGRESO | https://www.basquetcatala.cat/club/953
+ESCOLES SAL. S. JOSEP BOSCO R. | https://www.basquetcatala.cat/club/962
+CLUB BASQUET BADIA | https://www.basquetcatala.cat/club/958
+CLUB BASQUET MOMTMELO | https://www.basquetcatala.cat/club/957
+BASQUET MANRESA FEMENI | https://www.basquetcatala.cat/club/959
+C.B. MANENT | https://www.basquetcatala.cat/club/960
+BASKET B. B. | https://www.basquetcatala.cat/club/961
+COL·LEGI JESUS MARIA I JOSEP | https://www.basquetcatala.cat/club/963
+INSTITUCIO CULTURAL LAIETANIA | https://www.basquetcatala.cat/club/964
+EPIC CASINO DEL COMERC | https://www.basquetcatala.cat/club/965
+ESCOLES MARIA WARD | https://www.basquetcatala.cat/club/967
+ASOCIACION DEPORTIVA ALEMANA | https://www.basquetcatala.cat/club/966
+C.B. CERCLE CATOLIC DE GRACIA | https://www.basquetcatala.cat/club/968
+CLUB BASQUET SANT CELONI | https://www.basquetcatala.cat/club/969
+BASQUET LA LLAGOSTA | https://www.basquetcatala.cat/club/970
+C.B. PROVENSALS | https://www.basquetcatala.cat/club/976
+CLUB FELIU I VEGUES | https://www.basquetcatala.cat/club/971
+COL.LEGI MONTSERRAT | https://www.basquetcatala.cat/club/973
+CLUB DE FUTBOL MONTANESA | https://www.basquetcatala.cat/club/974
+JOVENT CASTELLDEFELS B.C. | https://www.basquetcatala.cat/club/975
+CASAL CATOLIC DE SANT ANDREU | https://www.basquetcatala.cat/club/977
+CLUB BASQUET SALLENT | https://www.basquetcatala.cat/club/978
+ESCOLA ARTUR MARTORELL | https://www.basquetcatala.cat/club/982
+COLEGIO ACADEMIA AVESAN | https://www.basquetcatala.cat/club/979
+C.B. SEBA'S | https://www.basquetcatala.cat/club/980
+G.C.R. LA SEDA DE BARCELONA | https://www.basquetcatala.cat/club/981
+CLUB BALONCESTO CAN VIDALET | https://www.basquetcatala.cat/club/983
+BASQUET CLUB SANT JOAN | https://www.basquetcatala.cat/club/985
+ALFA-5 | https://www.basquetcatala.cat/club/984
+CLUB BASQUET CERDANYOLA | https://www.basquetcatala.cat/club/986
+A.P.V. MAS GUINARDO | https://www.basquetcatala.cat/club/987
+C.B. EMILIA PARDO BAZAN | https://www.basquetcatala.cat/club/988
+C SAGRADOS CORAZONES BARCELONA | https://www.basquetcatala.cat/club/989
+ASOVEEN | https://www.basquetcatala.cat/club/991
+COL.LEGI NTRA. SRA. MERCE. | https://www.basquetcatala.cat/club/992
+C.D. CAN ORIAC | https://www.basquetcatala.cat/club/993
+SEC.BALONCESTO SALLE MONTCADA | https://www.basquetcatala.cat/club/990
+S. COOPERATIVA LA MORAL | https://www.basquetcatala.cat/club/995
+C.D. BARCELONETA | https://www.basquetcatala.cat/club/994
+C.P. SANT JORDI POMAR | https://www.basquetcatala.cat/club/996
+F.C. COSMOS DE BARCELONA | https://www.basquetcatala.cat/club/997
+COL·LEGI SANTISIMA TRINITAT | https://www.basquetcatala.cat/club/998
+B.C. PALAUTORDERA | https://www.basquetcatala.cat/club/1000
+L'ESCOLA JUNGFRAU | https://www.basquetcatala.cat/club/1002
+A.P.A. LOPEZ TORREJON | https://www.basquetcatala.cat/club/1003
+COLEGIO BLANQUERNA | https://www.basquetcatala.cat/club/999
+A.P.A. C.P. JACINT VERDAGUER | https://www.basquetcatala.cat/club/1005
+ASSOCIACIO ESPORTIVA ESCOLAR PAIDOS DE SANT FRUITOS DE BAGES | https://www.basquetcatala.cat/club/1004
+ASOCIACION DE VECINOS POMAR | https://www.basquetcatala.cat/club/1008
+UNIO ESPORTIVA PALAUDALBA | https://www.basquetcatala.cat/club/1007
+A.P.A. SANT ANDREU NATZARET | https://www.basquetcatala.cat/club/1006
+AA.VV. JOAQUIM RUYRA | https://www.basquetcatala.cat/club/1009
+C.E. EL MUNT | https://www.basquetcatala.cat/club/1010
+S Q U A D R A | https://www.basquetcatala.cat/club/1012
+C.P. PERE DE TERA | https://www.basquetcatala.cat/club/1011
+C.P. MARCEL·LI ANTICH | https://www.basquetcatala.cat/club/1014
+U.D. PAPIOL | https://www.basquetcatala.cat/club/1013
+COLEGIO ACADEMIA FABRA | https://www.basquetcatala.cat/club/1015
+C.B. BIGUES I RIELLS | https://www.basquetcatala.cat/club/1016
+AA.VV. MORERA | https://www.basquetcatala.cat/club/1001
+A.E. D'HORTA - GUINARDO | https://www.basquetcatala.cat/club/1018
+CLUB BASQUET PUIG-REIG | https://www.basquetcatala.cat/club/1017
+C.B. SABADELL | https://www.basquetcatala.cat/club/1019
+ESCOLA GITANJALI | https://www.basquetcatala.cat/club/1020
+CLUB BASQUET FEMENI BADALONA | https://www.basquetcatala.cat/club/1021
+COL·LEGI SANT PERE NOLASC | https://www.basquetcatala.cat/club/1025
+C.S.Y.C. DE C.N.P. | https://www.basquetcatala.cat/club/1022
+PENYA BARCELONISTA MONTSERRAT | https://www.basquetcatala.cat/club/1030
+CENTRE ESPORTIU CA N'ANGLADA | https://www.basquetcatala.cat/club/1027
+A.P.A. BERNAT METGE SECC.ESP. | https://www.basquetcatala.cat/club/1029
+CLUB DE TENIS MOLLET | https://www.basquetcatala.cat/club/1028
+MIUSTONS-SODOMA | https://www.basquetcatala.cat/club/1026
+CLUB BASQUET MARTORELLES | https://www.basquetcatala.cat/club/1033
+A.P.A. DOMINIQUES MANRESA | https://www.basquetcatala.cat/club/1031
+SANTA TERESA | https://www.basquetcatala.cat/club/1035
+C.E. CASTELLBELL I VILAR | https://www.basquetcatala.cat/club/1023
+C.P. JOSE MONTSERRAT | https://www.basquetcatala.cat/club/1024
+CLUB NATACIO PIERA | https://www.basquetcatala.cat/club/1034
+C.P. SANT JOAN BAPTISTA | https://www.basquetcatala.cat/club/1036
+COL·LEGI SANTA CATERINA SIENA | https://www.basquetcatala.cat/club/1037
+C.N. VERGE SOL DEL PONT | https://www.basquetcatala.cat/club/1039
+SEGLE XX COOPERATIVA | https://www.basquetcatala.cat/club/1040
+E.P. VERGE DEL ROSER | https://www.basquetcatala.cat/club/1038
+C.E. MERIDIANA | https://www.basquetcatala.cat/club/1045
+AA.VV. SAN CRISTOBAL | https://www.basquetcatala.cat/club/1041
+C.B. SANTA ROSA | https://www.basquetcatala.cat/club/1043
+C.P. MIGUEL HERNANDEZ | https://www.basquetcatala.cat/club/1042
+SDAD. COOP. C. LTDA. C. ROMA | https://www.basquetcatala.cat/club/1048
+C.P. JULIA MINGUELL | https://www.basquetcatala.cat/club/1044
+C.P. JOAN LLONGUERES | https://www.basquetcatala.cat/club/1047
+C.P. ARGENTONA | https://www.basquetcatala.cat/club/1046
+BASQUET LLICA DE VALL | https://www.basquetcatala.cat/club/1049
+CLUB ESPORTIU MEDITERRANI | https://www.basquetcatala.cat/club/1051
+COL·LEGI REGINA CARMELI HORTA | https://www.basquetcatala.cat/club/1053
+ESCOLA BETULIA | https://www.basquetcatala.cat/club/1050
+COL.LEGI NTRA. SRA. FATIMA | https://www.basquetcatala.cat/club/1052
+C.P. LLIBERTAT | https://www.basquetcatala.cat/club/1055
+C.P. JAUME BALMES DE VIC | https://www.basquetcatala.cat/club/1060
+C. SANT MIQUEL DELS SANTS | https://www.basquetcatala.cat/club/1058
+CARDONA B.C. | https://www.basquetcatala.cat/club/1057
+ESCOLA COMARCAL DE BASQUET | https://www.basquetcatala.cat/club/1059
+CLUB CARENA | https://www.basquetcatala.cat/club/1054
+E.P. GUILLEM MONT-RODON | https://www.basquetcatala.cat/club/1062
+A.P.A. COLEGIO BUEN PASTOR | https://www.basquetcatala.cat/club/1056
+CLUB OBENC | https://www.basquetcatala.cat/club/1061
+A.P. C.P. LOLA ANGLADA | https://www.basquetcatala.cat/club/1064
+C.N. PUIG - AGUT | https://www.basquetcatala.cat/club/1063
+I.N.B. RAFAEL CASANOVA | https://www.basquetcatala.cat/club/1065
+DOMINIQUES DE L'ANUNCIATA | https://www.basquetcatala.cat/club/1066
+A.P.A. SANT JOSEP GRACIA | https://www.basquetcatala.cat/club/1068
+COLEGIO NTRA. SRA. ASUNCION | https://www.basquetcatala.cat/club/1070
+DIVINA PROVIDENCIA | https://www.basquetcatala.cat/club/1069
+A.P.A. ESCOLA MARE NOSTRUM | https://www.basquetcatala.cat/club/1067
+CLUB BASQUET LA SALLE PREMIA | https://www.basquetcatala.cat/club/1072
+COL.LEGI NEN JESUS DE PRAGA | https://www.basquetcatala.cat/club/1073
+ESCOLA JOAN XXIII | https://www.basquetcatala.cat/club/1075
+C.P. LLOREDA FIGUERAS | https://www.basquetcatala.cat/club/1074
+A.E. SANTA ISABEL | https://www.basquetcatala.cat/club/1071
+COL·LEGI SAGRAT COR DE TONA | https://www.basquetcatala.cat/club/1076
+A.P. COL·LEGI DEL CARME | https://www.basquetcatala.cat/club/1079
+C.P. MONTSENY | https://www.basquetcatala.cat/club/1077
+SAGRAT COR VIC | https://www.basquetcatala.cat/club/1078
+C.D. CARMELO | https://www.basquetcatala.cat/club/1082
+A.P.A  C.N. MIXTO LES TERMES | https://www.basquetcatala.cat/club/1081
+COL·LEGI LESTONNAC | https://www.basquetcatala.cat/club/1085
+E.P. SEGIMON COMAS | https://www.basquetcatala.cat/club/1086
+L'ESCOLA DOMINGO | https://www.basquetcatala.cat/club/1083
+JOSEP Mª XANDRI | https://www.basquetcatala.cat/club/1087
+A.P.A. E.P. LES FONTETES | https://www.basquetcatala.cat/club/1084
+AYUNTAMIENTO CANOVELLES | https://www.basquetcatala.cat/club/1080
+COLEGIO ESCALADA | https://www.basquetcatala.cat/club/1089
+RECANVIS NIUBO | https://www.basquetcatala.cat/club/1088
+ASSEGURANCES PUENTE | https://www.basquetcatala.cat/club/1091
+ASSOCIACIO ESPORTIVA MALLA | https://www.basquetcatala.cat/club/1090
+C.P. PALIKENOS | https://www.basquetcatala.cat/club/1093
+COL.LEGI  S.I.L. | https://www.basquetcatala.cat/club/1096
+C.B. GAVINA | https://www.basquetcatala.cat/club/1094
+C.B. DUE | https://www.basquetcatala.cat/club/1092
+C.B. BONANOVA | https://www.basquetcatala.cat/club/1100
+CLUB BASQUET BASSOLS | https://www.basquetcatala.cat/club/1097
+LLUIS MILLET (OLIVERAS) | https://www.basquetcatala.cat/club/1099
+C.E. I.N.E.F. | https://www.basquetcatala.cat/club/1098
+UNIO ESPORTIVA SANT PAU ORDAL | https://www.basquetcatala.cat/club/1101
+AA.VV. SERRAPARERA C.B. | https://www.basquetcatala.cat/club/1102
+A.P.A. E.P. RAFAEL CASANOVAS | https://www.basquetcatala.cat/club/1095
+AS. DEPORTIVA NICOLAS LONGARON | https://www.basquetcatala.cat/club/1103
+ESCOLA PIA SITGES | https://www.basquetcatala.cat/club/1104
+CLUB BALONCESTO LEON XIII | https://www.basquetcatala.cat/club/1105
+C.B. GEMINIS | https://www.basquetcatala.cat/club/1107
+C.P. ENRIC BORRAS | https://www.basquetcatala.cat/club/1106
+SEMINARI MENOR DIOCESA | https://www.basquetcatala.cat/club/1109
+CLUB BALONCESTO SANT JOAN | https://www.basquetcatala.cat/club/1111
+AA.VV. SANT JAUME | https://www.basquetcatala.cat/club/1110
+A.A.A. MARISTES SANTS | https://www.basquetcatala.cat/club/1115
+C.E. MIREIA | https://www.basquetcatala.cat/club/1112
+PENYA DE BASQUET CATALUNYA | https://www.basquetcatala.cat/club/1108
+CLUB BASQUET MONTORNES | https://www.basquetcatala.cat/club/1116
+BIBLIOTECA | https://www.basquetcatala.cat/club/1114
+INMACULADA CASTELLAR | https://www.basquetcatala.cat/club/1113
+MODELFOM | https://www.basquetcatala.cat/club/1118
+A.P.A. C. LESTONNAC | https://www.basquetcatala.cat/club/1119
+C.F. BRUCH | https://www.basquetcatala.cat/club/1121
+CENTRE D'ESPORTS D'OLESA | https://www.basquetcatala.cat/club/1122
+BRIGADA A. | https://www.basquetcatala.cat/club/1120
+AYUNTAMENT D'ESPLUGUES LLOB. | https://www.basquetcatala.cat/club/1123
+C.B. TIANA | https://www.basquetcatala.cat/club/1129
+C.B. ABRAXAS | https://www.basquetcatala.cat/club/1125
+C.E. VALLDAURA | https://www.basquetcatala.cat/club/1127
+CLUB DE TENIS BARCINO | https://www.basquetcatala.cat/club/1126
+TALLERES M.A.P. | https://www.basquetcatala.cat/club/1124
+SPORT PRINT | https://www.basquetcatala.cat/club/1128
+CENTRO RECREATIVO C. COOP. | https://www.basquetcatala.cat/club/1130
+C.B. BELLVITGE | https://www.basquetcatala.cat/club/1132
+ESCOLA GARBI | https://www.basquetcatala.cat/club/1131
+VIARO C.E. | https://www.basquetcatala.cat/club/1135
+ABAT OLIBA | https://www.basquetcatala.cat/club/1133
+CLUB EX-ALUMNES PIUS XII | https://www.basquetcatala.cat/club/1134
+ASS.D'EX-ALUMNES COL.MODOLELL | https://www.basquetcatala.cat/club/1138
+CLIP'S BAR CLUB DE BASQUET | https://www.basquetcatala.cat/club/1137
+CLUB DEPORTIVO SANT ADRIA 104 | https://www.basquetcatala.cat/club/1141
+C.E. VIROLAI | https://www.basquetcatala.cat/club/1136
+AA.VV. BALCONADA | https://www.basquetcatala.cat/club/1140
+C.B. NUMANCIA | https://www.basquetcatala.cat/club/1139
+C.B. ANTONI GAUDI | https://www.basquetcatala.cat/club/1142
+C.E. RAMAR | https://www.basquetcatala.cat/club/1143
+COL·LEGI CARDENAL SPINOLA | https://www.basquetcatala.cat/club/1145
+CLUB DE BASQUET S.I.P. | https://www.basquetcatala.cat/club/1148
+C.E. CATALONIA-SANT MARTI | https://www.basquetcatala.cat/club/1146
+ORFEO BADALONI | https://www.basquetcatala.cat/club/1149
+ESPORTS GALLIFA | https://www.basquetcatala.cat/club/1150
+C.B. FANEU | https://www.basquetcatala.cat/club/1151
+A.P.A. COL·LEGI LA MERCE | https://www.basquetcatala.cat/club/1144
+C.B. LA SINIA | https://www.basquetcatala.cat/club/1153
+C.B. FALCO PELEGRI | https://www.basquetcatala.cat/club/1154
+A.P.A. RUBIO I ORS | https://www.basquetcatala.cat/club/1147
+C.B. MANANET | https://www.basquetcatala.cat/club/1152
+C.B. SANT MAMET | https://www.basquetcatala.cat/club/1156
+RADIO CIUTAT DE BADALONA | https://www.basquetcatala.cat/club/1155
+C.B. ARGENTONA | https://www.basquetcatala.cat/club/1159
+PATRONAT MUNICIPAL JOVENTUT | https://www.basquetcatala.cat/club/1157
+APA COL·LEGI AMOR DE DIOS | https://www.basquetcatala.cat/club/1158
+OLIMPIC VILASSAR | https://www.basquetcatala.cat/club/1160
+C.B. L'ESTROP | https://www.basquetcatala.cat/club/1161
+C.P. ANTONI TAPIES | https://www.basquetcatala.cat/club/1162
+JESUS MARIA BADALONA | https://www.basquetcatala.cat/club/1164
+INSTITUTO PERE VERGES | https://www.basquetcatala.cat/club/1163
+BADAGRES AUTOEUROPA | https://www.basquetcatala.cat/club/1166
+ASSOCIACION VECINOS CANYADO | https://www.basquetcatala.cat/club/1167
+TROPSEX BADALONA | https://www.basquetcatala.cat/club/1165
+COL·LEGI SANT JOSEP | https://www.basquetcatala.cat/club/1171
+ESCOLA CANIGO | https://www.basquetcatala.cat/club/1172
+LLEFIA C.B. | https://www.basquetcatala.cat/club/1168
+A.P.A. COLEGIO LLEFIA | https://www.basquetcatala.cat/club/1174
+SAFRI LLEFIA | https://www.basquetcatala.cat/club/1169
+BAR "EL MANO" | https://www.basquetcatala.cat/club/1173
+I.B. PAU CASALS | https://www.basquetcatala.cat/club/1176
+ATENEU SANTBOIA | https://www.basquetcatala.cat/club/1170
+A.P.A. C.P. ALEXANDRE GALI | https://www.basquetcatala.cat/club/1175
+ESCOLA PROF. SALES. SAGRAT COR | https://www.basquetcatala.cat/club/1177
+BASQUET AMICS | https://www.basquetcatala.cat/club/1178
+CLUB LIBERTY | https://www.basquetcatala.cat/club/1184
+C.B. CATALONIA | https://www.basquetcatala.cat/club/1181
+I.E.S. BADALONA-7 ELS BONS | https://www.basquetcatala.cat/club/1185
+IMSS ESPORTIU | https://www.basquetcatala.cat/club/1182
+C.B. CYLON'S | https://www.basquetcatala.cat/club/1183
+GUARDIA URBANA DE BADALONA | https://www.basquetcatala.cat/club/1180
+ESCOLA COSSETANIA | https://www.basquetcatala.cat/club/1187
+ESPORTS J.B. | https://www.basquetcatala.cat/club/1179
+INSTITUT BATXILLER M. CABANYES | https://www.basquetcatala.cat/club/1186
+AA.VV. SANT JOAN VILANOVA | https://www.basquetcatala.cat/club/1188
+PENYA BARCELONISTA SANT POL | https://www.basquetcatala.cat/club/1189
+C.B. SAN JUAN BOSCO | https://www.basquetcatala.cat/club/1190
+COL·LEGI MARIA AUXILIADORA | https://www.basquetcatala.cat/club/1193
+COL·LEGI SAGRADA FAMILIA | https://www.basquetcatala.cat/club/1192
+COL·LEGI SANT FRANCESC | https://www.basquetcatala.cat/club/1191
+MARE DEL DIVI PASTOR | https://www.basquetcatala.cat/club/1195
+C.P. JACINT VERDAGUER (BERGA) | https://www.basquetcatala.cat/club/1197
+AA.VV. SAN MORI-LLEFIA | https://www.basquetcatala.cat/club/1196
+JESUS SALVADOR | https://www.basquetcatala.cat/club/1194
+C.B. TOTEM | https://www.basquetcatala.cat/club/1199
+C. P. VICTOR CATALA | https://www.basquetcatala.cat/club/1198
+COL·LEGI L'INMACULADA | https://www.basquetcatala.cat/club/1200
+GRANOLLERS BASQUET VALLES | https://www.basquetcatala.cat/club/1201
+C.D. LA FARGA | https://www.basquetcatala.cat/club/1203
+CASAL DE JOVES DE L'EIXAMPLE | https://www.basquetcatala.cat/club/1204
+AGRUPACIO DE BASQUET EUROVENT | https://www.basquetcatala.cat/club/1202
+S.E. A.P.A. COL·LEGI S. ISABEL | https://www.basquetcatala.cat/club/1208
+BASKET "VIATGES CELTOUR" | https://www.basquetcatala.cat/club/1205
+S.D.R. BARRIO LA PAZ | https://www.basquetcatala.cat/club/1206
+A.P.A. SAN ANTONIO Mª. CLARET | https://www.basquetcatala.cat/club/1207
+COOP. ENS. RIBES BLAVES | https://www.basquetcatala.cat/club/1209
+COLEGIO  I.P.A. | https://www.basquetcatala.cat/club/1210
+SOCIETAT CULTURAL GRAN PENYA | https://www.basquetcatala.cat/club/1212
+EX-ALUMNES FONTETES-BUIGUES | https://www.basquetcatala.cat/club/1211
+C.B. SANTPERENC | https://www.basquetcatala.cat/club/1214
+ASSOCIACIO BASQUET GRACIA | https://www.basquetcatala.cat/club/1217
+E.S.B.A.R. | https://www.basquetcatala.cat/club/1215
+ESCOLA BETANIA | https://www.basquetcatala.cat/club/1220
+MARE DEL DIVI PASTOR | https://www.basquetcatala.cat/club/1219
+SALESIANAS SEPULVEDA | https://www.basquetcatala.cat/club/1218
+PENYA BLANC BLAVA | https://www.basquetcatala.cat/club/1216
+C.E.S. CATALUNYA | https://www.basquetcatala.cat/club/1222
+SAN FRANCISCO JAVIER | https://www.basquetcatala.cat/club/1221
+C.D. DRACKS BOYS | https://www.basquetcatala.cat/club/1224
+MIRASOL BASQUET | https://www.basquetcatala.cat/club/1213
+A. D. PRAT | https://www.basquetcatala.cat/club/1223
+C.B. CISNEROS | https://www.basquetcatala.cat/club/1225
+COL·LEGI SANT BONAVENTURA | https://www.basquetcatala.cat/club/1227
+ESCOLA MONTSERRAT | https://www.basquetcatala.cat/club/1228
+TOURING CLUB F.C. | https://www.basquetcatala.cat/club/1226
+BASQUET LES ROQUETES 87 | https://www.basquetcatala.cat/club/1231
+COLEGIO LA MILAGROSA | https://www.basquetcatala.cat/club/1229
+COLEGIO IMMACULADA | https://www.basquetcatala.cat/club/1233
+C.B. ROQUETAS | https://www.basquetcatala.cat/club/1232
+C.B. PROVIDENCIA VILANOVA | https://www.basquetcatala.cat/club/1235
+ESCOLA ENRIC CRISTOFOL RICART | https://www.basquetcatala.cat/club/1237
+ESCOLA LLEBETX | https://www.basquetcatala.cat/club/1230
+COL·LEGI SANTA TERESA | https://www.basquetcatala.cat/club/1236
+TIPLAY | https://www.basquetcatala.cat/club/1238
+C.B. AUDINOVA | https://www.basquetcatala.cat/club/1234
+A.E. TRINIDAD VELLA | https://www.basquetcatala.cat/club/1239
+COL·LEGI COR DE MARIA | https://www.basquetcatala.cat/club/1241
+BASQUET GELTRU | https://www.basquetcatala.cat/club/1242
+A.E. TALAIA | https://www.basquetcatala.cat/club/1240
+C.P. POMPEU FABRA (VILANOVA) | https://www.basquetcatala.cat/club/1243
+I.N.E.M. | https://www.basquetcatala.cat/club/1244
+C.P. SANT JORDI | https://www.basquetcatala.cat/club/1247
+S.S. DANSAIRES VILANOVINS | https://www.basquetcatala.cat/club/1245
+ESCOLA LA PAU | https://www.basquetcatala.cat/club/1246
+A.P.A. ESCOLA ASSIS | https://www.basquetcatala.cat/club/1250
+COL.LEGI CLARET | https://www.basquetcatala.cat/club/1249
+ESCOLA MARGALLO | https://www.basquetcatala.cat/club/1248
+ESCOLA INFANT JESUS | https://www.basquetcatala.cat/club/1251
+C.P. JOSEP CARNER | https://www.basquetcatala.cat/club/1253
+C.B. CALZADOS MIRBEN | https://www.basquetcatala.cat/club/1252
+BASQUET PIKE'S | https://www.basquetcatala.cat/club/1255
+GRUP D'AMICS BADAL | https://www.basquetcatala.cat/club/1254
+PERGRAFIC | https://www.basquetcatala.cat/club/1256
+SADMI S.A. | https://www.basquetcatala.cat/club/1257
+C.B. BRANDO | https://www.basquetcatala.cat/club/1259
+AA.VV. CAN CLARIS | https://www.basquetcatala.cat/club/1258
+LES MALLORQUINES MONTGAT | https://www.basquetcatala.cat/club/1262
+PERRUQUERIA A. ALBERT | https://www.basquetcatala.cat/club/1261
+C.D. MAS-RAM | https://www.basquetcatala.cat/club/1260
+C.P. FOLCH I TORRES | https://www.basquetcatala.cat/club/1263
+COLEGIO ACADEMIA CULTURAL ART. | https://www.basquetcatala.cat/club/1264
+INFORMATICA CENTER CORP. | https://www.basquetcatala.cat/club/1266
+C.P. JOAN CORET | https://www.basquetcatala.cat/club/1265
+PENYA CAN SOLER | https://www.basquetcatala.cat/club/1268
+P.M.E. PABELLON | https://www.basquetcatala.cat/club/1267
+CASAL JOVES SANT CRIST | https://www.basquetcatala.cat/club/1274
+VIDEO CLUB SANT JORDI | https://www.basquetcatala.cat/club/1272
+A.P.A. COL. NTRA. SRA. SALUT | https://www.basquetcatala.cat/club/1271
+LE COQ SPORTIF | https://www.basquetcatala.cat/club/1270
+EUROLOTES S.A. | https://www.basquetcatala.cat/club/1275
+C.P. LLORENS ARTIGAS | https://www.basquetcatala.cat/club/1276
+C.P. JOSEP BOADA | https://www.basquetcatala.cat/club/1269
+C.B. MASCULI BADALONA | https://www.basquetcatala.cat/club/1273
+CLUB BASQUET LA MINA | https://www.basquetcatala.cat/club/1277
+1 I 2 DE MAIG | https://www.basquetcatala.cat/club/1278
+ADEMAR MATARO | https://www.basquetcatala.cat/club/1280
+IMMACULADA CONCEPCIO MATARO | https://www.basquetcatala.cat/club/1281
+PENYA VERD I NEGRE | https://www.basquetcatala.cat/club/1279
+RIERA C.B. | https://www.basquetcatala.cat/club/1282
+COL·LEGI CASALS GRACIA | https://www.basquetcatala.cat/club/1284
+C.N. GASSO I VIDAL | https://www.basquetcatala.cat/club/1287
+SPORTS MAURI | https://www.basquetcatala.cat/club/1286
+PATR.LOCAL E.F. ESP.CENTELLES | https://www.basquetcatala.cat/club/1283
+C.P. SALVADOR ESPRIU | https://www.basquetcatala.cat/club/1285
+B. XOP "1" | https://www.basquetcatala.cat/club/1290
+E.B. CASSERRAS | https://www.basquetcatala.cat/club/1289
+CIPSA OLIVETTI | https://www.basquetcatala.cat/club/1291
+P.C. ELS XIQUETS | https://www.basquetcatala.cat/club/1292
+M.M. CONCEPCIONISTAS | https://www.basquetcatala.cat/club/1288
+I.P.F.P. ESART | https://www.basquetcatala.cat/club/1295
+NOU BASQUET CANET | https://www.basquetcatala.cat/club/1294
+C.P. ARAGAI | https://www.basquetcatala.cat/club/1297
+C.B. AVENIDA | https://www.basquetcatala.cat/club/1299
+CA L'AVI | https://www.basquetcatala.cat/club/1293
+CLUB BASQUET BALSARENY | https://www.basquetcatala.cat/club/1300
+C.P. SANTA EULALIA | https://www.basquetcatala.cat/club/1296
+BRUC'S - BANANAS | https://www.basquetcatala.cat/club/1301
+ESCOLA CANIGO | https://www.basquetcatala.cat/club/1298
+BYG'S - GYM - LOCTITE | https://www.basquetcatala.cat/club/1302
+C.B. CALAF | https://www.basquetcatala.cat/club/1303
+CINE FOTO | https://www.basquetcatala.cat/club/1305
+LA GUIA | https://www.basquetcatala.cat/club/1309
+AA.VV. FONT DELS CAPELLANS | https://www.basquetcatala.cat/club/1306
+B.M. GALA | https://www.basquetcatala.cat/club/1307
+C.B. CATALUNYA | https://www.basquetcatala.cat/club/1304
+BASQUET MOIA | https://www.basquetcatala.cat/club/1311
+JOVENTUT FONT | https://www.basquetcatala.cat/club/1310
+IDIOMAS CRAMER | https://www.basquetcatala.cat/club/1308
+C.B. NAVARCLES | https://www.basquetcatala.cat/club/1312
+PASTISSERIA EL CIGNE | https://www.basquetcatala.cat/club/1313
+RESTAURANT YING-YANG | https://www.basquetcatala.cat/club/1315
+S.J. 81 | https://www.basquetcatala.cat/club/1316
+C.N. MANRESA | https://www.basquetcatala.cat/club/1314
+XUP | https://www.basquetcatala.cat/club/1318
+C.F. VILOMARA | https://www.basquetcatala.cat/club/1317
+C.B. CAMPDEVANOL | https://www.basquetcatala.cat/club/1320
+COL·LEGI SALESIANS | https://www.basquetcatala.cat/club/1322
+J.M. ARTES | https://www.basquetcatala.cat/club/1319
+ESC. GRAD. PUBL. VILADRAU | https://www.basquetcatala.cat/club/1323
+COL·LEGI NATZARET | https://www.basquetcatala.cat/club/1325
+E.P. LES PINEDIQUES | https://www.basquetcatala.cat/club/1321
+MANOLO FLORES | https://www.basquetcatala.cat/club/1327
+ACADEMIA LUX | https://www.basquetcatala.cat/club/1324
+C. CULTURAL I ESPORTIU XALOC | https://www.basquetcatala.cat/club/1326
+C.P. PROVENCANA | https://www.basquetcatala.cat/club/1328
+PENYA BARCELONISTA GOL 3.000 | https://www.basquetcatala.cat/club/1333
+COLEGIO SAGRADA FAMILIA SANTS | https://www.basquetcatala.cat/club/1329
+C.P. IGNASI IGLESIAS | https://www.basquetcatala.cat/club/1331
+C.B. PALAU DE PLEGAMANS | https://www.basquetcatala.cat/club/1334
+PENYA BARCELONISTA NOVA GENT | https://www.basquetcatala.cat/club/1336
+ESCOLA MONTSERRAT XAVIER | https://www.basquetcatala.cat/club/1330
+C.B. ARGENTONA | https://www.basquetcatala.cat/club/1335
+ESCOLA BETANIA PATMOS | https://www.basquetcatala.cat/club/1337
+C.B. COROLEU | https://www.basquetcatala.cat/club/1332
+CASA DE ANDALUCIA LA LLAGOSTA | https://www.basquetcatala.cat/club/1339
+C.P. JOANOT ALISANDA | https://www.basquetcatala.cat/club/1338
+A.P.A. SAGRATS CORS | https://www.basquetcatala.cat/club/1340
+SALESIANS MATARO | https://www.basquetcatala.cat/club/1344
+A.E. CERDANYOLA-CARLES BUIGAS | https://www.basquetcatala.cat/club/1341
+ASS. ESPORTIVA NOU BARRIS | https://www.basquetcatala.cat/club/1343
+U.E. SANTA MARGARIDA MONTBUI | https://www.basquetcatala.cat/club/1342
+C.B. SANT JORDI | https://www.basquetcatala.cat/club/1349
+C.P. PRACTIQUES - 2 | https://www.basquetcatala.cat/club/1348
+POLIDEPORTIVO MET | https://www.basquetcatala.cat/club/1346
+ASOCIAC. DEL PERSONAL CPVE | https://www.basquetcatala.cat/club/1345
+C.E.B. ARGOS | https://www.basquetcatala.cat/club/1350
+C.P. LLUIS VIVES | https://www.basquetcatala.cat/club/1347
+UNION SPORT BELLAVISTA | https://www.basquetcatala.cat/club/1351
+C.B. LAS ROQUETAS | https://www.basquetcatala.cat/club/1352
+COLEGIO SAN JOSE MATARO | https://www.basquetcatala.cat/club/1353
+BASQUET POBLE NOU | https://www.basquetcatala.cat/club/1358
+ADORATRICES C.B. | https://www.basquetcatala.cat/club/1355
+UNIO ESPORTIVA CALASSANCI | https://www.basquetcatala.cat/club/1356
+CLUB BASQUET ALDEA | https://www.basquetcatala.cat/club/1354
+JOVENTUT FONT LA PALMERA | https://www.basquetcatala.cat/club/1360
+A.P.A. ANTONI DOLTRA | https://www.basquetcatala.cat/club/1359
+JOANENC B.C. | https://www.basquetcatala.cat/club/1357
+VIVENDES PARE IGNASI PUIG | https://www.basquetcatala.cat/club/1361
+REGIO - 7 | https://www.basquetcatala.cat/club/1362
+I.B. ALBENIZ | https://www.basquetcatala.cat/club/1363
+AA.VV. JUAN VALERA | https://www.basquetcatala.cat/club/1366
+AA.VV. SANT CRIST | https://www.basquetcatala.cat/club/1367
+LOS SULTANES | https://www.basquetcatala.cat/club/1368
+C.B. PAKO'S | https://www.basquetcatala.cat/club/1365
+C.B. TAURO | https://www.basquetcatala.cat/club/1364
+COL·LEGI DAURADELL | https://www.basquetcatala.cat/club/1369
+LES LIONESES | https://www.basquetcatala.cat/club/1372
+A.VV. IRIS CASAGEMAS | https://www.basquetcatala.cat/club/1370
+PINZELL | https://www.basquetcatala.cat/club/1374
+AA.VV. DOCTOR ROBERT | https://www.basquetcatala.cat/club/1373
+C.B. ABANDERADO | https://www.basquetcatala.cat/club/1371
+C.P. PLANAS I CASALS | https://www.basquetcatala.cat/club/1375
+C.N. BADALONA | https://www.basquetcatala.cat/club/1376
+AIFELL'S BASKET C.B. | https://www.basquetcatala.cat/club/1377
+ESCOLA CASAGEMES | https://www.basquetcatala.cat/club/1380
+A.P.A. C.P. BORI I FONTESTA | https://www.basquetcatala.cat/club/1379
+A.P.A. ESCOLES BAETULO | https://www.basquetcatala.cat/club/1378
+DOS I BANDA | https://www.basquetcatala.cat/club/1381
+BAR GRANJA SAN FRANCISCO | https://www.basquetcatala.cat/club/1382
+KORTATU BASQUET CLUB | https://www.basquetcatala.cat/club/1384
+BASQUET RADIORAMA | https://www.basquetcatala.cat/club/1383
+C.B. LEPANTO | https://www.basquetcatala.cat/club/1385
+AUTO ESCOLA LOTUS | https://www.basquetcatala.cat/club/1386
+COLEGIO ACADEMIA MILAN | https://www.basquetcatala.cat/club/1387
+C.P. RAFAEL ALBERTI | https://www.basquetcatala.cat/club/1388
+GIMNAS BODY GYM | https://www.basquetcatala.cat/club/1389
+C.B. CENTRE | https://www.basquetcatala.cat/club/1393
+ASSOCIACIO ESPORTIVA LYCEE FRANCAIS DE BARCELONA | https://www.basquetcatala.cat/club/1394
+C.B. RONDA LLEFIA | https://www.basquetcatala.cat/club/1392
+AUTO-ESCUELAS CENTAURO'S | https://www.basquetcatala.cat/club/1395
+SPORTS MARYMUNT | https://www.basquetcatala.cat/club/1390
+GIMNAS OLIMPIA | https://www.basquetcatala.cat/club/1396
+SNUGGLES BASKET | https://www.basquetcatala.cat/club/1398
+SEGMA S.A. | https://www.basquetcatala.cat/club/1391
+ROCOVA, S.A. | https://www.basquetcatala.cat/club/1397
+NO PASSA RES | https://www.basquetcatala.cat/club/1399
+A.P.A. COL·LEGI MONTESORI | https://www.basquetcatala.cat/club/1402
+SANTA DOROTEA SALESIANESSARRIA | https://www.basquetcatala.cat/club/1401
+GRUP TANDEM | https://www.basquetcatala.cat/club/1400
+BEN - NET | https://www.basquetcatala.cat/club/1408
+CANSIO | https://www.basquetcatala.cat/club/1403
+VALLS SPORT | https://www.basquetcatala.cat/club/1404
+VIENA | https://www.basquetcatala.cat/club/1405
+INST. POL. FORM. PROF. DE VIC | https://www.basquetcatala.cat/club/1409
+NEW BOND'S | https://www.basquetcatala.cat/club/1406
+E.P. DR. JOAQUIN SALARICH | https://www.basquetcatala.cat/club/1413
+MECA RAPID "MECADATA" | https://www.basquetcatala.cat/club/1410
+MARANATA | https://www.basquetcatala.cat/club/1411
+ZIGA - ZAGA | https://www.basquetcatala.cat/club/1412
+COL·LEGI CASAL DELS ANGELS | https://www.basquetcatala.cat/club/1415
+AGRUPACIO DEPORTIVA CORCO | https://www.basquetcatala.cat/club/1414
+C.P. LOLA ANGLADA HOSPITALET | https://www.basquetcatala.cat/club/1416
+I.B. APEL·LES MESTRES | https://www.basquetcatala.cat/club/1418
+C.P. AUSIAS MARCH | https://www.basquetcatala.cat/club/1419
+APA COLEGIO ASUNCION | https://www.basquetcatala.cat/club/1417
+MOBLES RIBALTA | https://www.basquetcatala.cat/club/1407
+ESCOLA AZORIN | https://www.basquetcatala.cat/club/1421
+A.S.I.S.A. | https://www.basquetcatala.cat/club/1420
+C. INFANTIL JUVENIL BELLVITGE | https://www.basquetcatala.cat/club/1423
+C.E. JAUME BALMES  HOSPITALET | https://www.basquetcatala.cat/club/1422
+APA. C.P. BUSQUETS I PUNSET | https://www.basquetcatala.cat/club/1425
+C.A. CATALONIA | https://www.basquetcatala.cat/club/1429
+C.P. LES BOBILES | https://www.basquetcatala.cat/club/1424
+C.P. LA CARPA | https://www.basquetcatala.cat/club/1428
+I.B. CAN VILUMARA | https://www.basquetcatala.cat/club/1427
+C.P. CAN BORI | https://www.basquetcatala.cat/club/1426
+C.O.A. CECOM | https://www.basquetcatala.cat/club/1430
+MILAGROS CONSARNAU | https://www.basquetcatala.cat/club/1431
+C.P. CHARLIE RIVEL | https://www.basquetcatala.cat/club/1433
+ACADEMIA CULTURA | https://www.basquetcatala.cat/club/1432
+C.E. DOLMEN | https://www.basquetcatala.cat/club/1434
+C.P. EUGENI D'ORS | https://www.basquetcatala.cat/club/1436
+COL·LEGI PARE ENRIC D'OSSO | https://www.basquetcatala.cat/club/1435
+C.E. JOAN XXIII | https://www.basquetcatala.cat/club/1439
+ERRI BERRI  (G.D.E.E.) | https://www.basquetcatala.cat/club/1437
+CLUB GIMNASIO GALLEGO PRADA | https://www.basquetcatala.cat/club/1438
+COLEGIO LOPE DE VEGA | https://www.basquetcatala.cat/club/1443
+ESCOLES LACINIA | https://www.basquetcatala.cat/club/1442
+C.P. JOSEP JANES | https://www.basquetcatala.cat/club/1440
+C.P. PERE LLISCART | https://www.basquetcatala.cat/club/1444
+CLUB DE JOVES SANFELIU | https://www.basquetcatala.cat/club/1441
+I.F.P. LLOBREGAT | https://www.basquetcatala.cat/club/1445
+C.P. JOANOT MARTORELL HOSPIT. | https://www.basquetcatala.cat/club/1449
+C.P. FRANCESC MACIA | https://www.basquetcatala.cat/club/1446
+A.D.A.P.A. C.N. LA MARINA | https://www.basquetcatala.cat/club/1447
+A.P.A. MARIUS TORRES | https://www.basquetcatala.cat/club/1448
+A.P.A. COLEGIO MENENDEZ PIDAL | https://www.basquetcatala.cat/club/1450
+A.P.A. C.P. JOAN MIRO | https://www.basquetcatala.cat/club/1451
+C.P. MUNTANYA | https://www.basquetcatala.cat/club/1452
+NTRA. SRA. DESAMPARADOS | https://www.basquetcatala.cat/club/1453
+C.P. PAU CASALS | https://www.basquetcatala.cat/club/1455
+ESCOLA PATUFET SANT JORDI | https://www.basquetcatala.cat/club/1454
+C.P. PAU PICASSO | https://www.basquetcatala.cat/club/1457
+I.F.P. PEDRAFORCA | https://www.basquetcatala.cat/club/1460
+C.P. PAU ESTEVE | https://www.basquetcatala.cat/club/1456
+ESCOLA POMPEU FABRA HOSPITALET | https://www.basquetcatala.cat/club/1462
+COL·LEGI PUBLIC PAU SANS | https://www.basquetcatala.cat/club/1458
+A.P.A. RAMON I CAJAL | https://www.basquetcatala.cat/club/1465
+C.P. RAMON MUNTANER | https://www.basquetcatala.cat/club/1466
+C.P. PAU VILA L'HOSPITALET | https://www.basquetcatala.cat/club/1459
+CENTRE D'ESPORTS PUBILLA CASAS | https://www.basquetcatala.cat/club/1463
+CENTRE CULTURAL PINEDA | https://www.basquetcatala.cat/club/1461
+I.F.P. PROVENCANA | https://www.basquetcatala.cat/club/1464
+A.E. L'HOSPITALET-CENTRE | https://www.basquetcatala.cat/club/1467
+COLEGIO ACADEMIA SAN LORENZO | https://www.basquetcatala.cat/club/1471
+C.P. SANT ROC | https://www.basquetcatala.cat/club/1473
+C.P. SANT JOSEP - EL PI | https://www.basquetcatala.cat/club/1472
+CENTRE ESTUDIS SALLA | https://www.basquetcatala.cat/club/1468
+ESCOLA SANFELIU | https://www.basquetcatala.cat/club/1469
+A.P.A. SANTA MARTA | https://www.basquetcatala.cat/club/1474
+COLEGIO SAN JAIME | https://www.basquetcatala.cat/club/1470
+A.P.A. RUBIO I ORS HOSPITALET | https://www.basquetcatala.cat/club/1477
+C.B. LLICA D'AMUNT | https://www.basquetcatala.cat/club/1478
+I.B. TORRAS I BAGES | https://www.basquetcatala.cat/club/1475
+C.P. ANSELM TURMEDA | https://www.basquetcatala.cat/club/1476
+C.P. PAU BOADA | https://www.basquetcatala.cat/club/1482
+I.B. BELLVITGE | https://www.basquetcatala.cat/club/1479
+C.P. NTRA. SRA. BELLVITGE | https://www.basquetcatala.cat/club/1480
+COL·LEGI EL CARME (SANT ELIES) | https://www.basquetcatala.cat/club/1487
+ESCOLA MONTAGUT | https://www.basquetcatala.cat/club/1485
+ESCOLA SANT JERONI | https://www.basquetcatala.cat/club/1484
+C.P. PAU TORRES I PICORNELL | https://www.basquetcatala.cat/club/1488
+ESCOLA GRAD. MIXTA MEDIONA | https://www.basquetcatala.cat/club/1486
+I.F. PROFESIONAL VILAFRANCA | https://www.basquetcatala.cat/club/1481
+COL·LEGI S. RAMON DE PENYAFORT | https://www.basquetcatala.cat/club/1483
+ESCOLA PUBLICA AVINYONET | https://www.basquetcatala.cat/club/1489
+COL·LEGI SANTA ANNA | https://www.basquetcatala.cat/club/1490
+C.P. BALTA ELIES | https://www.basquetcatala.cat/club/1491
+ESCOLA ACADEMIA ALMI | https://www.basquetcatala.cat/club/1492
+ESCOLA INTERMUNICIPAL PENEDES | https://www.basquetcatala.cat/club/1494
+ABDON I SENEN | https://www.basquetcatala.cat/club/1495
+ESCOLA PUBLICA DR. SAMARANCH | https://www.basquetcatala.cat/club/1493
+E.GRAD.MIXTA SANT PERE MULANTA | https://www.basquetcatala.cat/club/1501
+ESCOLA NAC. MIXTA J.J. RAFOLS | https://www.basquetcatala.cat/club/1497
+C.P. FONT-RUBIA | https://www.basquetcatala.cat/club/1500
+C.P. JAUME BALMES SANT MARTI | https://www.basquetcatala.cat/club/1496
+C.P. CRISTOFOL MESTRE | https://www.basquetcatala.cat/club/1499
+C.B. TORRASSA | https://www.basquetcatala.cat/club/1502
+C.P. JACINT VERDAGUER | https://www.basquetcatala.cat/club/1504
+ESCOLA SANT JOSEP SANT SADURNI | https://www.basquetcatala.cat/club/1498
+COL·LEGI PUBLIC DE MOJA | https://www.basquetcatala.cat/club/1503
+MN. JACINT VERDAGUER S.SADURNI | https://www.basquetcatala.cat/club/1505
+NTRA. SRA. DEL CARME SALLENT | https://www.basquetcatala.cat/club/1506
+C.P. RENAIXENCA | https://www.basquetcatala.cat/club/1507
+COL·LEGI GUILLEM DE BALSARENY | https://www.basquetcatala.cat/club/1508
+COL·LEGI SAGRAT COR DE SURIA | https://www.basquetcatala.cat/club/1509
+COL·LEGI MONTSERRAT S. VICENC | https://www.basquetcatala.cat/club/1511
+MARE DE DEU DEL ROSER | https://www.basquetcatala.cat/club/1510
+COL·LEGI RIAL | https://www.basquetcatala.cat/club/1514
+COL·LEGI CATALUNYA DE MANRESA | https://www.basquetcatala.cat/club/1512
+MARE DE DEU DEL CARME | https://www.basquetcatala.cat/club/1516
+A.E. CASTELLTERCOL | https://www.basquetcatala.cat/club/1515
+COL·LEGI SAGRAT COR MONISTROL | https://www.basquetcatala.cat/club/1513
+COL·LEGI OMS I DE PRAT | https://www.basquetcatala.cat/club/1519
+SITGES - OMEDES | https://www.basquetcatala.cat/club/1521
+COL·LEGI SANT ANTONI Mª CLARET | https://www.basquetcatala.cat/club/1520
+I.B. LLUIS DE PEGUERA | https://www.basquetcatala.cat/club/1517
+COLEGIO SERRA I HUNTER | https://www.basquetcatala.cat/club/1518
+COL·LEGI BAGES | https://www.basquetcatala.cat/club/1522
+COL·LEGI ACADEMIA FONT | https://www.basquetcatala.cat/club/1523
+COL·LEGI AVE MARIA MANRESA | https://www.basquetcatala.cat/club/1526
+ESCOLA PUBLICA BARNOLA | https://www.basquetcatala.cat/club/1527
+A.E.S.M.A. | https://www.basquetcatala.cat/club/1525
+COL·LEGI TORRES I AMAT | https://www.basquetcatala.cat/club/1524
+E.P. MONSENYOR GIBERT | https://www.basquetcatala.cat/club/1530
+SANT JOSEP DE CALASANC | https://www.basquetcatala.cat/club/1528
+I.F.P. POMPEU FABRA | https://www.basquetcatala.cat/club/1532
+SAGRAT COR MANRESA | https://www.basquetcatala.cat/club/1529
+AGRUPACIO ESPORTIVA MOIA | https://www.basquetcatala.cat/club/1531
+G.C.R. COURTELLE | https://www.basquetcatala.cat/club/1533
+CLUB DE FUTBOL BOI SANT | https://www.basquetcatala.cat/club/1534
+BASQUET A.VV. BACHS BUFALA | https://www.basquetcatala.cat/club/1535
+C.E. JOAN XXIII | https://www.basquetcatala.cat/club/1538
+AA.VV. DE OCATA | https://www.basquetcatala.cat/club/1537
+A.P.A. COL. PUBLIC LES CORTS | https://www.basquetcatala.cat/club/1536
+ESCOLA VIROLAI | https://www.basquetcatala.cat/club/1539
+CENTRE D'ESPORTS NAJERA | https://www.basquetcatala.cat/club/1544
+C.E. FARGAIXELL | https://www.basquetcatala.cat/club/1540
+COLECTIVO OBRERO POPULAR | https://www.basquetcatala.cat/club/1541
+ASSOCIACIO ESPORT. L'EIXAMPLE | https://www.basquetcatala.cat/club/1542
+CASINO DE TIANA | https://www.basquetcatala.cat/club/1543
+CLUB TENIS CAN AMAT -7 | https://www.basquetcatala.cat/club/1545
+C.B. TITUS | https://www.basquetcatala.cat/club/1546
+ESCOLA LAIA | https://www.basquetcatala.cat/club/1549
+ATHOS SPORT CLUB | https://www.basquetcatala.cat/club/1552
+SAGRAT COR - VEDRUNA | https://www.basquetcatala.cat/club/1548
+COL·LEGI SAGRADA FAMILIA | https://www.basquetcatala.cat/club/1551
+PENYA BLAUGRANA DE VALLIRANA | https://www.basquetcatala.cat/club/1547
+E.P. PAU VILA | https://www.basquetcatala.cat/club/1550
+COL·LEGI SANTA TERESA JESUS | https://www.basquetcatala.cat/club/1554
+C.B. SANT CEBRIA | https://www.basquetcatala.cat/club/1553
+C.B. ESMERALDA | https://www.basquetcatala.cat/club/1555
+RADIO CUBELLES | https://www.basquetcatala.cat/club/1557
+REDDIS MUTUA ASSEGURANCES | https://www.basquetcatala.cat/club/1556
+CENTRE SANT MIQUEL | https://www.basquetcatala.cat/club/1559
+PENYA BARCELONISTA VILANOVA | https://www.basquetcatala.cat/club/1558
+AUTO ESCUELA MONTECARLO | https://www.basquetcatala.cat/club/1564
+C.B. QUINTA - 67 | https://www.basquetcatala.cat/club/1561
+C.B. ORIO - 04 | https://www.basquetcatala.cat/club/1563
+C.P. PAU CASALS | https://www.basquetcatala.cat/club/1562
+C.B. RADIO SANT ADRIA | https://www.basquetcatala.cat/club/1560
+C.B. SPORT ALELLA | https://www.basquetcatala.cat/club/1567
+SOM - HI | https://www.basquetcatala.cat/club/1566
+MONTAJES ELECTRICOS MILSA S.A. | https://www.basquetcatala.cat/club/1565
+C.P. MARGARIDA XIRGU | https://www.basquetcatala.cat/club/1568
+AUTO-ESCOLA JOVENTUT | https://www.basquetcatala.cat/club/1570
+CLUB DEPORTIVO 191 | https://www.basquetcatala.cat/club/1569
+C.B. HURRICANE | https://www.basquetcatala.cat/club/1572
+HORA 3 | https://www.basquetcatala.cat/club/1573
+C.B. JOVENTUT - 60 | https://www.basquetcatala.cat/club/1571
+GOLDEN TOURS, S.A. | https://www.basquetcatala.cat/club/1575
+C.B. GROC | https://www.basquetcatala.cat/club/1574
+CRACK | https://www.basquetcatala.cat/club/1578
+GIMNAS INDEPENDENCIA S.A. | https://www.basquetcatala.cat/club/1576
+FIMON'S | https://www.basquetcatala.cat/club/1577
+C.P. BALDOMERO SOLA | https://www.basquetcatala.cat/club/1581
+ESCOLA BADIANA | https://www.basquetcatala.cat/club/1580
+MARE DE DEU DEL CARME S. JOAN | https://www.basquetcatala.cat/club/1584
+C.B. CAN ZAN | https://www.basquetcatala.cat/club/1579
+C.P. JAUME SALVATELLA | https://www.basquetcatala.cat/club/1582
+COL·LEGI RAMONA CALVET I PICAS | https://www.basquetcatala.cat/club/1585
+ESCOLA PUBLICA RIU D'OR | https://www.basquetcatala.cat/club/1583
+ESCOLA CAMPS I FABRES | https://www.basquetcatala.cat/club/1589
+COL·LEGI FRANCESC BARJAU | https://www.basquetcatala.cat/club/1590
+C.N. SANT IGNASI | https://www.basquetcatala.cat/club/1586
+FHETOKY MATHOYOH | https://www.basquetcatala.cat/club/1591
+C.P. PUIG BERENGUER | https://www.basquetcatala.cat/club/1592
+C.B. JOVES | https://www.basquetcatala.cat/club/1596
+COL·LEGI ANSELM CABANES | https://www.basquetcatala.cat/club/1594
+ELS LLAUNAS | https://www.basquetcatala.cat/club/1587
+COVESA FORD | https://www.basquetcatala.cat/club/1588
+THE PINK PANTHER | https://www.basquetcatala.cat/club/1597
+BASQUET FEMENI SURIA | https://www.basquetcatala.cat/club/1593
+B.C. RAVAL | https://www.basquetcatala.cat/club/1595
+C.D. LAFU | https://www.basquetcatala.cat/club/1601
+J.B. LIPHIAN | https://www.basquetcatala.cat/club/1598
+C.D. DALMAU | https://www.basquetcatala.cat/club/1599
+COLEGIO RAMIRO DE MAEZTU | https://www.basquetcatala.cat/club/1604
+C.B. DYNAMIC | https://www.basquetcatala.cat/club/1600
+PENYA CAN SOLEY | https://www.basquetcatala.cat/club/1603
+ATO - IRIS | https://www.basquetcatala.cat/club/1606
+CENTRE CULTURAL LA SALUD | https://www.basquetcatala.cat/club/1605
+C.E. MARESME | https://www.basquetcatala.cat/club/1602
+C.F.P. LLEFIA | https://www.basquetcatala.cat/club/1607
+CLUB BASQUET JUNIOR | https://www.basquetcatala.cat/club/1609
+C.D. SODOMA | https://www.basquetcatala.cat/club/1608
+BALBOA | https://www.basquetcatala.cat/club/1610
+C.E. VOLTREGA | https://www.basquetcatala.cat/club/1611
+ESCOLA VILARNAU | https://www.basquetcatala.cat/club/1614
+C.P. SUBIRATS | https://www.basquetcatala.cat/club/1615
+E.P. MAS I PERERA | https://www.basquetcatala.cat/club/1616
+CLUB DEL PARC D'ESPORTS | https://www.basquetcatala.cat/club/1612
+COL·LEGI EL CARME SANT SADURNI | https://www.basquetcatala.cat/club/1617
+E.P. ANTONI GRAU MINGUELL | https://www.basquetcatala.cat/club/1613
+COLEGIO AMAPOLA "LA PUBILLA" | https://www.basquetcatala.cat/club/1620
+I.E. ALEGRE | https://www.basquetcatala.cat/club/1619
+ESCOLA SAGRADA FAMILIA VILAF. | https://www.basquetcatala.cat/club/1618
+AUSIAS C.B. | https://www.basquetcatala.cat/club/1621
+I.B. MARGARIDA XIRGU | https://www.basquetcatala.cat/club/1626
+E.E. MUNICIPAL ESPLUGUES | https://www.basquetcatala.cat/club/1623
+C.P. OBISPO BERENGUER | https://www.basquetcatala.cat/club/1628
+I.F.P. HOSPITALET III | https://www.basquetcatala.cat/club/1624
+A.P.A. C.P. JOAN MARAGALL | https://www.basquetcatala.cat/club/1625
+CENTRO CULTURAL PINEDA | https://www.basquetcatala.cat/club/1629
+INALTA C.B. | https://www.basquetcatala.cat/club/1622
+A.E. MONTJUIC | https://www.basquetcatala.cat/club/1627
+ASSOCIACIO SANT MARTI SPORT | https://www.basquetcatala.cat/club/1631
+C.B. MACCABI DE LEVANTAR | https://www.basquetcatala.cat/club/1630
+AMERICAN SCHOOL OF BARCELONA | https://www.basquetcatala.cat/club/1633
+RR.ESCLAVAS SGDO.CORAZON JESUS | https://www.basquetcatala.cat/club/1637
+COMVEMO, S.A. | https://www.basquetcatala.cat/club/1638
+C.P. SANT ROC | https://www.basquetcatala.cat/club/1632
+APA TERESIANAS DE GRACIA | https://www.basquetcatala.cat/club/1639
+I.B. JAUME BALMES BARCELONA | https://www.basquetcatala.cat/club/1636
+ESCOLA PIA BALMES | https://www.basquetcatala.cat/club/1641
+C.E. MERCAT DE SANTS | https://www.basquetcatala.cat/club/1634
+C.E. HERMES | https://www.basquetcatala.cat/club/1635
+COLEGIO SALESIANO SANTO ANGEL | https://www.basquetcatala.cat/club/1642
+COLEGIO SANTA DOROTEA | https://www.basquetcatala.cat/club/1640
+I.B.A. MUNDET | https://www.basquetcatala.cat/club/1643
+COL·LEGI IMMACULADA CONCEPCIO | https://www.basquetcatala.cat/club/1644
+COLEGIO SAN MIGUEL | https://www.basquetcatala.cat/club/1645
+COL·LEGI ESTEL·LA | https://www.basquetcatala.cat/club/1647
+OAK HOUSE SCHOOL | https://www.basquetcatala.cat/club/1648
+A.E. SANT ANDREU (DISTRICTE 9) | https://www.basquetcatala.cat/club/1646
+C.P. PERE VILA | https://www.basquetcatala.cat/club/1652
+VEDRUNA  ANGELS | https://www.basquetcatala.cat/club/1654
+I. NARCIS MONTUROL | https://www.basquetcatala.cat/club/1649
+C.E. MONTSENY | https://www.basquetcatala.cat/club/1651
+CLUB HERZEGOVINO | https://www.basquetcatala.cat/club/1650
+E.P. VIRREI AMAT | https://www.basquetcatala.cat/club/1655
+COLEGIO LOPE DE VEGA POBLE NOU | https://www.basquetcatala.cat/club/1658
+INSTITUCIO PINADELL | https://www.basquetcatala.cat/club/1656
+ESCOLA SANT JOAN BOSCO | https://www.basquetcatala.cat/club/1653
+COLEGIO SAGRADO CORAZON | https://www.basquetcatala.cat/club/1659
+ESCOLA PERE POVEDA | https://www.basquetcatala.cat/club/1657
+I.B. CASTELLDEFELS | https://www.basquetcatala.cat/club/1660
+CLUB DAUMAR | https://www.basquetcatala.cat/club/1661
+C.C.R. OLIVERAS | https://www.basquetcatala.cat/club/1662
+EGARA BASQUET CLUB | https://www.basquetcatala.cat/club/1664
+A.E. LA SALLE BARCELONETA | https://www.basquetcatala.cat/club/1663
+COL·LEGI VEDRUNA TERRASSA | https://www.basquetcatala.cat/club/1665
+C.B. FRUITOSENC | https://www.basquetcatala.cat/club/1668
+BASQUET CAL MANEL | https://www.basquetcatala.cat/club/1667
+C.B. QUARKS | https://www.basquetcatala.cat/club/1670
+RESTAURANT CAL TON | https://www.basquetcatala.cat/club/1669
+ADHESIUS ESPARBE | https://www.basquetcatala.cat/club/1671
+C.B. RAMON I CAJAL | https://www.basquetcatala.cat/club/1673
+C.P. GUERAU DE PEGUERA | https://www.basquetcatala.cat/club/1666
+C.B. SADIB | https://www.basquetcatala.cat/club/1672
+MENJADOR ESCOLAR LA TORRE | https://www.basquetcatala.cat/club/1674
+M.D.P. MONOBOCATA | https://www.basquetcatala.cat/club/1675
+NUOVO CARS | https://www.basquetcatala.cat/club/1676
+COL·LEGI MARE DE DEU DEL CARME | https://www.basquetcatala.cat/club/1681
+B. KOLOMA | https://www.basquetcatala.cat/club/1678
+C.B. TRASAL | https://www.basquetcatala.cat/club/1679
+A.E. SALLENT | https://www.basquetcatala.cat/club/1682
+A.E.E. SANTPEDOR | https://www.basquetcatala.cat/club/1683
+LA SALLE MANLLEU | https://www.basquetcatala.cat/club/1684
+C.B. F.SANTA COLOMA | https://www.basquetcatala.cat/club/1677
+I.E.S. GUERCUS | https://www.basquetcatala.cat/club/1680
+PENYA BLAUGRANA DE RIPOLL | https://www.basquetcatala.cat/club/1685
+E.P. POMPEU FABRA | https://www.basquetcatala.cat/club/1689
+C.B. ABADESSENC | https://www.basquetcatala.cat/club/1686
+L'ESCOLA ESTEL | https://www.basquetcatala.cat/club/1688
+COL·LEGI CASSA | https://www.basquetcatala.cat/club/1690
+CLUB DEL PARC D'ESPORTS | https://www.basquetcatala.cat/club/1687
+ESCOLA VEDRUNA | https://www.basquetcatala.cat/club/1691
+ALLSKRUSPIKENKUITSMAIKOVEN | https://www.basquetcatala.cat/club/1692
+C.B. MOLI DE VENT | https://www.basquetcatala.cat/club/1696
+GIMNAS BELMAR | https://www.basquetcatala.cat/club/1694
+I.F.P. ALT PENEDES | https://www.basquetcatala.cat/club/1695
+COL·LEGI PRESENTACIO | https://www.basquetcatala.cat/club/1693
+PNEUMATICS SURIOL | https://www.basquetcatala.cat/club/1697
+AJUNTAMENT CALDES D'ESTRAC | https://www.basquetcatala.cat/club/1703
+C.P. SANT JORDI | https://www.basquetcatala.cat/club/1699
+PENYA BETICH ROQUETES | https://www.basquetcatala.cat/club/1698
+LA UNIO VILANOVINA | https://www.basquetcatala.cat/club/1700
+COL·LEGI LESTONNAC | https://www.basquetcatala.cat/club/1705
+E.P. SANT MIQUEL DEL CROS | https://www.basquetcatala.cat/club/1702
+ESCOLA PIA CALELLA | https://www.basquetcatala.cat/club/1704
+COL·LEGI IGLESIAS | https://www.basquetcatala.cat/club/1707
+E.E. ARGENTONA | https://www.basquetcatala.cat/club/1701
+C.P. LA MINERVA | https://www.basquetcatala.cat/club/1706
+COL·LEGI SANT PERE CHANEL | https://www.basquetcatala.cat/club/1708
+ESCOLA FONLLADOSA | https://www.basquetcatala.cat/club/1709
+MARE DE DEU DE MONTSERRAT | https://www.basquetcatala.cat/club/1711
+C.P. MARIA CUBI | https://www.basquetcatala.cat/club/1710
+COL·LEGI VEDRUNA | https://www.basquetcatala.cat/club/1712
+MIXTO OCATA | https://www.basquetcatala.cat/club/1714
+E.G.B. BALMES | https://www.basquetcatala.cat/club/1716
+C.P. ANXANETA | https://www.basquetcatala.cat/club/1715
+C.P. ANGELA BRANSUELA | https://www.basquetcatala.cat/club/1717
+ESCOLA DIVINA PROVIDENCIA | https://www.basquetcatala.cat/club/1718
+COL·LEGI FERRER I GUARDIA | https://www.basquetcatala.cat/club/1713
+C.E. FRETA | https://www.basquetcatala.cat/club/1719
+ELS INCOGNITS | https://www.basquetcatala.cat/club/1720
+E.P. MENENDEZ PELAYO | https://www.basquetcatala.cat/club/1722
+ESCOLA MERITXELL | https://www.basquetcatala.cat/club/1723
+C.P. MARE DE DEU DEL PILAR | https://www.basquetcatala.cat/club/1725
+E.P. ROCAFONDA | https://www.basquetcatala.cat/club/1726
+SAGRAT COR DE MARIA | https://www.basquetcatala.cat/club/1727
+C.P. LA LLANTIA | https://www.basquetcatala.cat/club/1721
+COL·LEGI NTRA. SRA. LOURDES | https://www.basquetcatala.cat/club/1724
+SAGRAT COR DE JESUS | https://www.basquetcatala.cat/club/1728
+ESCOLA SOL IXENT | https://www.basquetcatala.cat/club/1729
+C.P. TOMAS VINAS | https://www.basquetcatala.cat/club/1730
+ESCOLA "EL TURO" | https://www.basquetcatala.cat/club/1732
+C.P. TORRE LLAUDER | https://www.basquetcatala.cat/club/1731
+COL·LEGI D.G.B. U.T.E.M. | https://www.basquetcatala.cat/club/1733
+COL·LEGI MARE DE DEU DEL ROSER | https://www.basquetcatala.cat/club/1735
+COL·LEGI JAUME I | https://www.basquetcatala.cat/club/1734
+ESCOLA SANT JORDI DE PINEDA | https://www.basquetcatala.cat/club/1736
+C.P. VORAMAR DE PREMIA | https://www.basquetcatala.cat/club/1738
+CENTRE D.G.B. FIBRACOLOR | https://www.basquetcatala.cat/club/1742
+A.P.A. ESCOLA ASSIS | https://www.basquetcatala.cat/club/1737
+E.P. MARIA MANENT | https://www.basquetcatala.cat/club/1739
+COL·LEGI IGNASI IGLESIAS | https://www.basquetcatala.cat/club/1743
+COL·LEGI SANT JOSEP | https://www.basquetcatala.cat/club/1744
+C.P. SANTA SUSANNA | https://www.basquetcatala.cat/club/1741
+TOP SECRET | https://www.basquetcatala.cat/club/1746
+ESCOLA VERGE DEL PILAR | https://www.basquetcatala.cat/club/1740
+I.B. MONTJUIC | https://www.basquetcatala.cat/club/1745
+C.P. BERNAT METGE | https://www.basquetcatala.cat/club/1747
+C.B.F. MATARO | https://www.basquetcatala.cat/club/1751
+C.P. RAMON LLULL | https://www.basquetcatala.cat/club/1750
+BALALAIKA SANT JOSEP | https://www.basquetcatala.cat/club/1748
+C.P. PAU CASALS | https://www.basquetcatala.cat/club/1752
+APEK SPIK | https://www.basquetcatala.cat/club/1749
+C.B. MARAGALL | https://www.basquetcatala.cat/club/1753
+COL·LEGI CALASANC | https://www.basquetcatala.cat/club/1756
+I.B. MENENDEZ PIDAL | https://www.basquetcatala.cat/club/1757
+SCALA DEI | https://www.basquetcatala.cat/club/1755
+I. P. S. E. | https://www.basquetcatala.cat/club/1754
+COLEGIO ALEMAN | https://www.basquetcatala.cat/club/1760
+SANT JOSEP DE CALASANC | https://www.basquetcatala.cat/club/1759
+COL·LEGI SANT MIQUEL ARCANGEL | https://www.basquetcatala.cat/club/1762
+A U L A | https://www.basquetcatala.cat/club/1763
+A.E. MARE DE DEU DEL COLL | https://www.basquetcatala.cat/club/1758
+CENTRE D'ESTUDIS GREVOL | https://www.basquetcatala.cat/club/1761
+COLEGIO S.P.E.H. | https://www.basquetcatala.cat/club/1764
+C.P. ORLANDAI | https://www.basquetcatala.cat/club/1768
+COL·LEGI CLOSA | https://www.basquetcatala.cat/club/1765
+NTRA. SRA. DE LOURDES | https://www.basquetcatala.cat/club/1769
+ESTUDIOS NELLY | https://www.basquetcatala.cat/club/1766
+ESCOLA MIREIA | https://www.basquetcatala.cat/club/1767
+JESUS MARIA CLAUDINA THEVENET | https://www.basquetcatala.cat/club/1770
+SANT ESTANISLAU DE KOSTKA | https://www.basquetcatala.cat/club/1771
+SANTA COLOMA BASQUET | https://www.basquetcatala.cat/club/1774
+JAUME I | https://www.basquetcatala.cat/club/1773
+CLUB ESPORTIU SALESIANS | https://www.basquetcatala.cat/club/1776
+ESCOLAPIS LLURIA | https://www.basquetcatala.cat/club/1772
+C.B. FINSOBE DERBI | https://www.basquetcatala.cat/club/1779
+MARCH FOTOGRAF B.C. LLINARS | https://www.basquetcatala.cat/club/1777
+AGRUPACIO FUNCIONARIS SS.SS. | https://www.basquetcatala.cat/club/1778
+A.E.C. PIRINEO | https://www.basquetcatala.cat/club/1775
+C.B. PROGRESO | https://www.basquetcatala.cat/club/1780
+C.B. BELLERA | https://www.basquetcatala.cat/club/1783
+A.P.A.M. ANNA MOGAS | https://www.basquetcatala.cat/club/1784
+C.D.B. PENITENTES SAN GENIS | https://www.basquetcatala.cat/club/1785
+A.P.A.C. SIERVAS DE SAN JOSE | https://www.basquetcatala.cat/club/1791
+PENYA BARCELONISTA SANT ANDREU | https://www.basquetcatala.cat/club/1786
+I.F.P. ESCOLA INDUSTRIAL | https://www.basquetcatala.cat/club/1790
+U.E. TORRELAVIT | https://www.basquetcatala.cat/club/1781
+C.E. SANT VICENC | https://www.basquetcatala.cat/club/1782
+COL·LEGI EL PINAR | https://www.basquetcatala.cat/club/1787
+C.B. LLIBERTAT | https://www.basquetcatala.cat/club/1789
+C. PETANCA CAN PARELLADA | https://www.basquetcatala.cat/club/1788
+PENYA GRANOLLERINA AMICS BASQ. | https://www.basquetcatala.cat/club/1792
+C.B. CATALUNYA | https://www.basquetcatala.cat/club/1793
+VETERANS BASQUET CALDETES | https://www.basquetcatala.cat/club/1795
+U.R. LARU | https://www.basquetcatala.cat/club/1794
+C E BARCELONES NORD IV | https://www.basquetcatala.cat/club/1800
+ESCOLA MARYA WARD | https://www.basquetcatala.cat/club/1799
+C.E. BARCELONES NORD I | https://www.basquetcatala.cat/club/1802
+C.E. BARCELONES NORD III | https://www.basquetcatala.cat/club/1801
+CRISTALERIAS DE MATARO | https://www.basquetcatala.cat/club/1796
+ACADEMIA MARAGALL | https://www.basquetcatala.cat/club/1805
+DRACS VERMELLS | https://www.basquetcatala.cat/club/1798
+A L A R O N A | https://www.basquetcatala.cat/club/1797
+COL·LEGI SAGRADA FAMILIA | https://www.basquetcatala.cat/club/1804
+ANUNCIATA | https://www.basquetcatala.cat/club/1806
+C.E. BARCELONES NORD II | https://www.basquetcatala.cat/club/1803
+C.P. BANUS | https://www.basquetcatala.cat/club/1808
+ASOCIACION DEPORTIVA CAN DEU | https://www.basquetcatala.cat/club/1809
+C.P. ANTONIO UBACH SOLER | https://www.basquetcatala.cat/club/1807
+E.P. CAN LLOBET | https://www.basquetcatala.cat/club/1811
+I.B. CAN JOFRESA | https://www.basquetcatala.cat/club/1810
+E.P. CAN PLANAS | https://www.basquetcatala.cat/club/1812
+C.P. CAN SERRA | https://www.basquetcatala.cat/club/1813
+SALESIANS DOSA | https://www.basquetcatala.cat/club/1814
+E.P. ELISA BADIA | https://www.basquetcatala.cat/club/1815
+E.P. ESCOLA BOSC | https://www.basquetcatala.cat/club/1816
+C.P. GENESCA | https://www.basquetcatala.cat/club/1821
+SERVEI D'ESPORTS MUNICIPAL | https://www.basquetcatala.cat/club/1819
+ESCOLA PIA TERRASSA | https://www.basquetcatala.cat/club/1818
+ESCOLA EL CIM | https://www.basquetcatala.cat/club/1817
+CENTRE D'ESTUDIS GRADUATS | https://www.basquetcatala.cat/club/1820
+C.P. JONQUERES | https://www.basquetcatala.cat/club/1826
+C.P. GERMANS AMAT | https://www.basquetcatala.cat/club/1822
+HERMANAS DOMINICAS | https://www.basquetcatala.cat/club/1823
+C.P. JOAN XXIII | https://www.basquetcatala.cat/club/1824
+LA MANCHA | https://www.basquetcatala.cat/club/1827
+COL·LEGI NTRA. SRA. MONTSERRAT | https://www.basquetcatala.cat/club/1830
+COL·LEGI MARE DE DEU DEL CARME | https://www.basquetcatala.cat/club/1828
+C.P. JOAN MARQUES CASALS | https://www.basquetcatala.cat/club/1825
+C.P. ELS MERINALS | https://www.basquetcatala.cat/club/1829
+C.P. NOSTRA LLAR | https://www.basquetcatala.cat/club/1831
+COL·LEGI RAMON PONT | https://www.basquetcatala.cat/club/1835
+C.P. PERE VIVER | https://www.basquetcatala.cat/club/1834
+NTRA. SRA. DEL ROSER | https://www.basquetcatala.cat/club/1832
+COL·LEGI ACADEMIA PALENZUELA | https://www.basquetcatala.cat/club/1833
+C.P. REIXAC | https://www.basquetcatala.cat/club/1836
+COL·LEGI SANTA TERESA DE JESUS | https://www.basquetcatala.cat/club/1840
+COL·LEGI SAGRAT COR TERRASSA | https://www.basquetcatala.cat/club/1838
+C.P. LA RODA | https://www.basquetcatala.cat/club/1837
+C.P. SALVADOR VINYALS I GALI | https://www.basquetcatala.cat/club/1839
+SANT JOSEP CALASANC SABADELL | https://www.basquetcatala.cat/club/1841
+C.P. EL VALLES | https://www.basquetcatala.cat/club/1843
+ESCOLA TECNOS | https://www.basquetcatala.cat/club/1842
+COL·LEGI VEDRUNA | https://www.basquetcatala.cat/club/1844
+PATRONAT MUNICIPAL DE SITGES | https://www.basquetcatala.cat/club/1845
+C.B. COLLBLANC | https://www.basquetcatala.cat/club/1846
+ESCOLA CULTURA PRACTICA | https://www.basquetcatala.cat/club/1851
+C.P. ABAT MARCET | https://www.basquetcatala.cat/club/1852
+COL.LEGI SAGRADA FAMILIA GAVA | https://www.basquetcatala.cat/club/1847
+PENA BETICA LA PAZ | https://www.basquetcatala.cat/club/1848
+LUMEN SAILE - COL.LEGI | https://www.basquetcatala.cat/club/1849
+COLEGIO MARIA AUXILIADORA | https://www.basquetcatala.cat/club/1850
+A N D E R S E N | https://www.basquetcatala.cat/club/1854
+C.P. MITJA COSTA | https://www.basquetcatala.cat/club/1853
+COL·LEGI PUBLIC FRANCA | https://www.basquetcatala.cat/club/1855
+I.E.S. PAU PICASSO | https://www.basquetcatala.cat/club/1856
+C.P. SANT JULIA | https://www.basquetcatala.cat/club/1858
+LA SARDANA | https://www.basquetcatala.cat/club/1860
+C.P. FLORESTA | https://www.basquetcatala.cat/club/1857
+FONT ROSELLA | https://www.basquetcatala.cat/club/1862
+C.P. CONCORDIA | https://www.basquetcatala.cat/club/1861
+SAN JUAN DE LA CRUZ | https://www.basquetcatala.cat/club/1859
+SAKE ESPORTIU | https://www.basquetcatala.cat/club/1865
+LA MUNEIRA | https://www.basquetcatala.cat/club/1863
+CONSELL DEL GARRAF | https://www.basquetcatala.cat/club/1867
+C.B. SANT ESTEVE PALAUTORDERA | https://www.basquetcatala.cat/club/1866
+SOCIETAT CORAL LA LIRA | https://www.basquetcatala.cat/club/1864
+C.E. BARRI SAGRADA FAMILIA | https://www.basquetcatala.cat/club/1868
+NEW SPORT | https://www.basquetcatala.cat/club/1872
+C.E.C. RAGASOL | https://www.basquetcatala.cat/club/1874
+CENTRE MORAL INSTRUCTIU GRACIA | https://www.basquetcatala.cat/club/1869
+B.C. SANTA MARIA PALAUTODERA | https://www.basquetcatala.cat/club/1870
+PENYA BARCELONISTA PEP VENTURA | https://www.basquetcatala.cat/club/1871
+MEIBANS C.B. | https://www.basquetcatala.cat/club/1877
+ARTIGAS ESPORTIVA | https://www.basquetcatala.cat/club/1876
+C.E. TOCS CRAK'S | https://www.basquetcatala.cat/club/1880
+C.B. VILOMARA | https://www.basquetcatala.cat/club/1875
+POMPEIA GRUPS CDAD. CRISTIANA | https://www.basquetcatala.cat/club/1878
+BASQUET ATENEU FAMILIAR | https://www.basquetcatala.cat/club/1883
+C.F. POBLET | https://www.basquetcatala.cat/club/1882
+STOPPE C.B. | https://www.basquetcatala.cat/club/1881
+C.P. ESTEBAN BARRACHINA | https://www.basquetcatala.cat/club/1884
+C.P. MIQUEL UTRILLO | https://www.basquetcatala.cat/club/1885
+P I R I N E O | https://www.basquetcatala.cat/club/1889
+C.C. BLACKESTER STA. COLOMA | https://www.basquetcatala.cat/club/1873
+COL.LEGI CALASSANC | https://www.basquetcatala.cat/club/1886
+PENALVER | https://www.basquetcatala.cat/club/1888
+C.P. EL SAGRER | https://www.basquetcatala.cat/club/1887
+E.T.P. XAVIER | https://www.basquetcatala.cat/club/1890
+EX. REP. ARGENTINA URUGUAY | https://www.basquetcatala.cat/club/1891
+MARE DE DEU DE LA CONSOLACIO | https://www.basquetcatala.cat/club/1893
+ESCOLES PIES LLURIA | https://www.basquetcatala.cat/club/1894
+C. NTRA. SRA. DE LOS ANGELES | https://www.basquetcatala.cat/club/1892
+ASUNCION NTRA. SRA. | https://www.basquetcatala.cat/club/1896
+I.B. JOAN COROMINES | https://www.basquetcatala.cat/club/1897
+CENTRE MONTSERRAT XAVIER | https://www.basquetcatala.cat/club/1899
+C.P. MILA I FONTANALS | https://www.basquetcatala.cat/club/1898
+I.B. AUSIAS MARCH | https://www.basquetcatala.cat/club/1895
+BARCELONES I | https://www.basquetcatala.cat/club/1900
+C.E. BARCELONES SUD | https://www.basquetcatala.cat/club/1901
+A.B.C. L'ESCOLA | https://www.basquetcatala.cat/club/1902
+C.P. JONCADELLA | https://www.basquetcatala.cat/club/1904
+E.E. MONISTROL DE MONTSERRAT | https://www.basquetcatala.cat/club/1905
+I.B. PIUS FONT I QUER | https://www.basquetcatala.cat/club/1906
+COM FESTES P. MANE I FLAQUER | https://www.basquetcatala.cat/club/1879
+ESCOLA LA FLAMA | https://www.basquetcatala.cat/club/1903
+COL·LEGI LA INMACULADA MASNOU | https://www.basquetcatala.cat/club/1911
+BARCELONES II | https://www.basquetcatala.cat/club/1907
+C.P. ROSA SENSAT | https://www.basquetcatala.cat/club/1909
+I.B. ALEXANDRE SATORRAS | https://www.basquetcatala.cat/club/1910
+C.E. MARESME | https://www.basquetcatala.cat/club/1913
+C.P. RAVALET | https://www.basquetcatala.cat/club/1912
+COL·LEGI SANTA ROSA DE LIMA | https://www.basquetcatala.cat/club/1908
+SANT JOSE ORIOL DE BARCELONA | https://www.basquetcatala.cat/club/1914
+B E R G U E D A | https://www.basquetcatala.cat/club/1916
+SAN JUAN BAUTISTA DE BARCELONA | https://www.basquetcatala.cat/club/1915
+CLUB CORNELLA BASQUETBOL | https://www.basquetcatala.cat/club/1918
+C.E. GARRAF | https://www.basquetcatala.cat/club/1917
+SOCIETAT CULTURAL SANT JAUME | https://www.basquetcatala.cat/club/1919
+BASQUET LOS PORCHES | https://www.basquetcatala.cat/club/1924
+CLUB BASQUET GIRONELLA | https://www.basquetcatala.cat/club/1921
+BASQUET BADALONA | https://www.basquetcatala.cat/club/1923
+CLUB BASQUET CANOVELLES | https://www.basquetcatala.cat/club/1920
+UNIO ESPORTIVA TOUS BASQUET | https://www.basquetcatala.cat/club/1922
+SALESIANOS HORTA | https://www.basquetcatala.cat/club/1925
+C.B. SANTS | https://www.basquetcatala.cat/club/1926
+AA.VV. BARRIO POMAR | https://www.basquetcatala.cat/club/1930
+MINYONS DE TERRASSA | https://www.basquetcatala.cat/club/1931
+G.B. PULMONS | https://www.basquetcatala.cat/club/1929
+CLUB DE BASQUET VALLGORGUINA | https://www.basquetcatala.cat/club/1928
+CLUB BASQUET BERTI | https://www.basquetcatala.cat/club/1932
+BAIX LLOBREGAT | https://www.basquetcatala.cat/club/1937
+ESCOLA PIA SANTA ANNA | https://www.basquetcatala.cat/club/1933
+A N O I A | https://www.basquetcatala.cat/club/1935
+CLUB BASQUET ESCOLA MONTSERRAT | https://www.basquetcatala.cat/club/1927
+C.P. MEDITERRANEA DE PINEDA | https://www.basquetcatala.cat/club/1934
+VALLES ORIENTAL | https://www.basquetcatala.cat/club/1936
+VALLES OCCIDENTAL | https://www.basquetcatala.cat/club/1938
+MARTINEL.LI C.B. | https://www.basquetcatala.cat/club/1941
+B A G ES | https://www.basquetcatala.cat/club/1939
+COVESA FORD | https://www.basquetcatala.cat/club/1942
+BAIX LLOBREGAT | https://www.basquetcatala.cat/club/1940
+C. VETERANS MAJOC | https://www.basquetcatala.cat/club/1944
+PENYA VERD I NEGRE CORNELLA | https://www.basquetcatala.cat/club/1945
+CENTRO EXTREMENO MUNOZ TORRERO | https://www.basquetcatala.cat/club/1946
+SALESIANS MATARO | https://www.basquetcatala.cat/club/1948
+CLUB BASQUET CARMEL | https://www.basquetcatala.cat/club/1950
+MARISTES LES CORTS | https://www.basquetcatala.cat/club/1943
+A.E. VERGE DE LA PAU | https://www.basquetcatala.cat/club/1951
+A.P.A.COL.SA.FA.SABADELL | https://www.basquetcatala.cat/club/1953
+CLUB ARGENTONA BOCS | https://www.basquetcatala.cat/club/1947
+FUTBOL CLUB MONISTROL | https://www.basquetcatala.cat/club/1952
+A.C.R. EL JARDI | https://www.basquetcatala.cat/club/1949
+A.P.A. COLEGIO SAGRADO CORAZON | https://www.basquetcatala.cat/club/1954
+O  S  O  N  A | https://www.basquetcatala.cat/club/1956
+E.B.N.S. | https://www.basquetcatala.cat/club/1955
+CENTRE EULALIENC | https://www.basquetcatala.cat/club/1960
+C.B. LA FONT | https://www.basquetcatala.cat/club/1959
+A.E. ALEXANDRE GALI | https://www.basquetcatala.cat/club/1961
+ASOCIOACIO CLUB SANFELIU | https://www.basquetcatala.cat/club/1957
+SOCIETAT ESPORTIVA MERCAT NOU | https://www.basquetcatala.cat/club/1964
+ASS.M.P.A. EL VIVER | https://www.basquetcatala.cat/club/1963
+C.B. BARCELONETA | https://www.basquetcatala.cat/club/1962
+C.B. CASTELLBELL | https://www.basquetcatala.cat/club/1966
+COL.LEGI ESTEL.LA | https://www.basquetcatala.cat/club/1958
+AE GRAMAJOVE | https://www.basquetcatala.cat/club/1967
+HOTEL MELIA BARCELONA | https://www.basquetcatala.cat/club/1965
+COL.LEGI SANT BONAVENTURA | https://www.basquetcatala.cat/club/1968
+MAS - RAM | https://www.basquetcatala.cat/club/1970
+C.B. SANT JAUME | https://www.basquetcatala.cat/club/1971
+DIPEX BA CARGO | https://www.basquetcatala.cat/club/1972
+RODA B.C. | https://www.basquetcatala.cat/club/1975
+A.B.F. SABADELL DEL VALLES | https://www.basquetcatala.cat/club/1978
+PENYA BARCELONISTA MONTSERRAT | https://www.basquetcatala.cat/club/1977
+C.F. FREDERIC MISTRAL | https://www.basquetcatala.cat/club/1969
+C.E. GIRONELLA | https://www.basquetcatala.cat/club/1973
+BARCELONA B.C. | https://www.basquetcatala.cat/club/1976
+C.E. BEETH-FONS | https://www.basquetcatala.cat/club/1974
+C.E. YGLESIAS | https://www.basquetcatala.cat/club/1980
+GRUP ESPORTIU UNIO MANRESANA | https://www.basquetcatala.cat/club/1979
+BAETULO F.C.S. | https://www.basquetcatala.cat/club/1981
+A.E. POBLE SEC | https://www.basquetcatala.cat/club/1983
+C.E. CAN RAFEL | https://www.basquetcatala.cat/club/1987
+I.E.S. VALLES | https://www.basquetcatala.cat/club/1982
+C.E. MONALCO | https://www.basquetcatala.cat/club/1985
+P. BLAUGRANA SANT CUGAT | https://www.basquetcatala.cat/club/1986
+C.E. ACESCO PARETS | https://www.basquetcatala.cat/club/1984
+C.B. 96 | https://www.basquetcatala.cat/club/1990
+E.E.M. CASTELLVI DE ROSANES | https://www.basquetcatala.cat/club/1988
+MONTJUIC BASQUET CLUB | https://www.basquetcatala.cat/club/1989
+CLUB BASQUET PUJOLET MANRESA | https://www.basquetcatala.cat/club/1991
+A.D. SAN CIPRIANO | https://www.basquetcatala.cat/club/1992
+ESCOLA ARRELS | https://www.basquetcatala.cat/club/1995
+COL.LEGI SANT MIQUEL | https://www.basquetcatala.cat/club/1994
+SARRIA  B.C. | https://www.basquetcatala.cat/club/1997
+AT. BARRIO PUEBLO SECO | https://www.basquetcatala.cat/club/1996
+APA COL·LEGI JESUS-MARIA BADALONA | https://www.basquetcatala.cat/club/2000
+C.B. ARACENA | https://www.basquetcatala.cat/club/1998
+C.B. PRATS LLUCANES | https://www.basquetcatala.cat/club/1993
+ELFE SPORTS | https://www.basquetcatala.cat/club/1999
+C.B. EL PUNT MARESME | https://www.basquetcatala.cat/club/2002
+B.C. STA. M. PALAUTORDERA | https://www.basquetcatala.cat/club/2003
+COL.LEGI APA PRESENTACIO | https://www.basquetcatala.cat/club/2001
+ESPORTIU MARISTES IGUALADA | https://www.basquetcatala.cat/club/2005
+C. JOVENTUT VILAFRANCA | https://www.basquetcatala.cat/club/2007
+ASSOCIACIO ESPORTIVA ESCOLAR VERGE LES NEUS SANTA COLOMA DE GRAMENET | https://www.basquetcatala.cat/club/2004
+AMPA CEIP FONT D'EN FARGAS | https://www.basquetcatala.cat/club/2011
+C.E. RIBAS | https://www.basquetcatala.cat/club/2009
+SANT QUINTI BASQUET | https://www.basquetcatala.cat/club/2013
+FRANCISCANES DE SANT JOSEP | https://www.basquetcatala.cat/club/2008
+ESCOLA ANOIA | https://www.basquetcatala.cat/club/2012
+CASINO DE MASNOU | https://www.basquetcatala.cat/club/2014
+DOLESA AMATEUR CLUB BASQUET | https://www.basquetcatala.cat/club/2015
+CLUB DE PROVES | https://www.basquetcatala.cat/club/2016
+C.N. BETULO | https://www.basquetcatala.cat/club/2006
+TIZONA C.B. | https://www.basquetcatala.cat/club/2017
+C.E.B. CASTELLBELL | https://www.basquetcatala.cat/club/2010
+CAJA DE ALAVA | https://www.basquetcatala.cat/club/2018
+CAJA DE ALAVA | https://www.basquetcatala.cat/club/2019
+C.B. CASTELLBELL | https://www.basquetcatala.cat/club/2021
+DIARIO DE CORDOBA | https://www.basquetcatala.cat/club/2022
+BOSCO | https://www.basquetcatala.cat/club/2023
+CLESA FERROL | https://www.basquetcatala.cat/club/2024
+C.B. FEMENI BENICARLO | https://www.basquetcatala.cat/club/2020
+COMPANIA DE MARIA | https://www.basquetcatala.cat/club/2026
+CLUB BASQUET SANT JOSEP | https://www.basquetcatala.cat/club/2027
+FEIRACO - C.A.B. | https://www.basquetcatala.cat/club/2025
+C.E. BESALU | https://www.basquetcatala.cat/club/2032
+UNION DEPORTIVA CALONGE | https://www.basquetcatala.cat/club/2030
+C.B.J. ANGLES | https://www.basquetcatala.cat/club/2031
+C.P. RUIZ AMADA | https://www.basquetcatala.cat/club/2033
+C. ESCOLAPIES | https://www.basquetcatala.cat/club/2034
+LA SALLE FIGUERES | https://www.basquetcatala.cat/club/2036
+C.B.FEMENI LLORET | https://www.basquetcatala.cat/club/2039
+P.M. L'ESCALA | https://www.basquetcatala.cat/club/2040
+COL·LEGI POUS I PAGES | https://www.basquetcatala.cat/club/2042
+COL·LEGI JOSEP PALLACH | https://www.basquetcatala.cat/club/2041
+PENYA BLAU-GRANA DE ROSES | https://www.basquetcatala.cat/club/2044
+SANT GABRIEL TORROELLA | https://www.basquetcatala.cat/club/2046
+C.B. BIANYA | https://www.basquetcatala.cat/club/2048
+U.E. SARRIA | https://www.basquetcatala.cat/club/2047
+C.B. CALDES | https://www.basquetcatala.cat/club/2049
+CLUB FUTBOL SILS | https://www.basquetcatala.cat/club/2050
+C.P. SANT VICENC DE PAUL | https://www.basquetcatala.cat/club/2051
+COL·LEGI INMACULADA | https://www.basquetcatala.cat/club/2055
+MESTRE ANDREU | https://www.basquetcatala.cat/club/2056
+COL·LEGI PIRINEU | https://www.basquetcatala.cat/club/2054
+ABADESSA EMMA | https://www.basquetcatala.cat/club/2057
+COL·LEGI SANT JOAN | https://www.basquetcatala.cat/club/2053
+C.P. SANT ESTEVE | https://www.basquetcatala.cat/club/2060
+COL·LEGI DR. CARULLA | https://www.basquetcatala.cat/club/2058
+A.E. PALAU | https://www.basquetcatala.cat/club/2059
+C.P. MOSSEN JOAN BATLLE | https://www.basquetcatala.cat/club/2062
+INSTITUT MONTSACOPA | https://www.basquetcatala.cat/club/2067
+C.P. NAPOLEO SOLIVA | https://www.basquetcatala.cat/club/2065
+COL·LEGI ESTEVE CARLES | https://www.basquetcatala.cat/club/2063
+C.P. JUNCADELLA | https://www.basquetcatala.cat/club/2064
+ESCOLA CASTANYER | https://www.basquetcatala.cat/club/2070
+COL·LEGI SANT PERE MARTIR | https://www.basquetcatala.cat/club/2072
+C.P. RUIZ GIMENEZ | https://www.basquetcatala.cat/club/2071
+C.P. POMPEU FABRA | https://www.basquetcatala.cat/club/2066
+COL·LEGI SANT ROC | https://www.basquetcatala.cat/club/2074
+COL·LEGI VOLCA BISEROQUES | https://www.basquetcatala.cat/club/2076
+COL·LEGI SALVADOR VILARRASA | https://www.basquetcatala.cat/club/2073
+C.B. LA SALLE CASSA | https://www.basquetcatala.cat/club/2075
+COL·LEGI JOAN MARAGALL | https://www.basquetcatala.cat/club/2077
+COL·LEGI TOMAS RAGUER | https://www.basquetcatala.cat/club/2082
+COL·LEGI CORCA | https://www.basquetcatala.cat/club/2079
+ESCOLA MOLLO | https://www.basquetcatala.cat/club/2078
+COL·LEGI PRAT DE LA RIBA | https://www.basquetcatala.cat/club/2084
+A.E. BLANES | https://www.basquetcatala.cat/club/2081
+SALESIANS | https://www.basquetcatala.cat/club/2080
+COL·LEGI JOAN BRUGUERA | https://www.basquetcatala.cat/club/2085
+COL·LEGI MIGDIA | https://www.basquetcatala.cat/club/2083
+COL·LEGI DOMINIQUES PONT MAJOR | https://www.basquetcatala.cat/club/2086
+COL·LEGI MONTJUIC | https://www.basquetcatala.cat/club/2087
+COL·LEGI VILAROJA | https://www.basquetcatala.cat/club/2089
+COL·LEGI FONT POLVORA | https://www.basquetcatala.cat/club/2088
+ESCOLA PANEXA | https://www.basquetcatala.cat/club/2092
+COL·LEGI J. PENUELOS DEL RIO | https://www.basquetcatala.cat/club/2094
+COL·LEGI SANT SALVADOR | https://www.basquetcatala.cat/club/2093
+COL·LEGI MONTSERRAT | https://www.basquetcatala.cat/club/2091
+COL·LEGI L'AULET | https://www.basquetcatala.cat/club/2090
+COL·LEGI JOAN CUSI | https://www.basquetcatala.cat/club/2098
+C.E. EMPORDA | https://www.basquetcatala.cat/club/2096
+COL·LEGI COR DE MARIA LLORET | https://www.basquetcatala.cat/club/2095
+COL·LEGI SANT PAU | https://www.basquetcatala.cat/club/2097
+COL·LEGI SAUS CAMALLERA | https://www.basquetcatala.cat/club/2099
+COL·LEGI PERELADA | https://www.basquetcatala.cat/club/2103
+COL·LEGI CARITAT SERINYANA | https://www.basquetcatala.cat/club/2100
+E.P. QUART | https://www.basquetcatala.cat/club/2105
+COL·LEGI JOAN REGLA | https://www.basquetcatala.cat/club/2104
+COL·LEGI CAN PUIG | https://www.basquetcatala.cat/club/2106
+COL·LEGI VILAFANT | https://www.basquetcatala.cat/club/2102
+COL·LEGI PORQUERES | https://www.basquetcatala.cat/club/2109
+COL·LEGI ESPONELLA | https://www.basquetcatala.cat/club/2108
+COL·LEGI PORT DE LA SELVA | https://www.basquetcatala.cat/club/2101
+0AMOS B.C. | https://www.basquetcatala.cat/club/2107
+C.P. VERGE REMEI | https://www.basquetcatala.cat/club/2111
+C.B. FONTCUBERTA | https://www.basquetcatala.cat/club/2112
+E.S. MATA | https://www.basquetcatala.cat/club/2110
+DOMINIQUES SANT NARCIS | https://www.basquetcatala.cat/club/2115
+COL·LEGI CORNELLA DE TERRI | https://www.basquetcatala.cat/club/2113
+COL·LEGI BALDIRI REIXACH | https://www.basquetcatala.cat/club/2114
+COL·LEGI SAGRAT COR DE JESUS | https://www.basquetcatala.cat/club/2120
+COL·LEGI ANNEXA | https://www.basquetcatala.cat/club/2119
+E.P. MONTFALGARS | https://www.basquetcatala.cat/club/2118
+COL·LEGI SERINYA | https://www.basquetcatala.cat/club/2116
+P.M. LLAGOSTERA | https://www.basquetcatala.cat/club/2122
+COL·LEGI SANT JOSEP LLEDONERS | https://www.basquetcatala.cat/club/2117
+P.M. SALT | https://www.basquetcatala.cat/club/2123
+BALDIRI REIXACH SANT FELIU | https://www.basquetcatala.cat/club/2126
+P.M. LA BISBAL | https://www.basquetcatala.cat/club/2125
+COL·LEGI DALMAU CARLES | https://www.basquetcatala.cat/club/2124
+SANT MIQUEL | https://www.basquetcatala.cat/club/2129
+SANT JOSEP | https://www.basquetcatala.cat/club/2128
+GAZIEL | https://www.basquetcatala.cat/club/2127
+COL·LEGI VILAROMA | https://www.basquetcatala.cat/club/2133
+COR MARIA LA BISBAL | https://www.basquetcatala.cat/club/2130
+COR MARIA SANT FELIU | https://www.basquetcatala.cat/club/2131
+COL·LEGI L'ESTACIO | https://www.basquetcatala.cat/club/2132
+VERTALLAT | https://www.basquetcatala.cat/club/2136
+COL·LEGI DOCTOR ARRUGA | https://www.basquetcatala.cat/club/2135
+GASPART DE QUERALT | https://www.basquetcatala.cat/club/2140
+COL·LEGI SANTA MARIA BLANES | https://www.basquetcatala.cat/club/2141
+JOSEP BOADA | https://www.basquetcatala.cat/club/2139
+FRANCESC CAMBO | https://www.basquetcatala.cat/club/2134
+VERGE DELS SOCORS | https://www.basquetcatala.cat/club/2137
+VEDRUNA D'ARBUCIES | https://www.basquetcatala.cat/club/2138
+COL·LEGI MONTSENY | https://www.basquetcatala.cat/club/2142
+ESCOLA SANT PAU | https://www.basquetcatala.cat/club/2147
+PERE TORRENT | https://www.basquetcatala.cat/club/2143
+NTRA. SRA. DEL CARME | https://www.basquetcatala.cat/club/2145
+IGNASI MELE | https://www.basquetcatala.cat/club/2144
+COL·LEGI NARCIS MONTURIOL | https://www.basquetcatala.cat/club/2148
+C.B. BORRASSA | https://www.basquetcatala.cat/club/2149
+SOCIETAT RECREATIVA S. JORDI | https://www.basquetcatala.cat/club/2152
+CASSIA COSTAL | https://www.basquetcatala.cat/club/2153
+CLUB ESPORTIU VILAFANT | https://www.basquetcatala.cat/club/2159
+C.B.D. LAS BANDERAS | https://www.basquetcatala.cat/club/2166
+ASKATUAK | https://www.basquetcatala.cat/club/2164
+JUVEN | https://www.basquetcatala.cat/club/2165
+PULEVA BALONCESTO | https://www.basquetcatala.cat/club/2162
+GUADALAJARA | https://www.basquetcatala.cat/club/2163
+MAGIA DE HUESCA | https://www.basquetcatala.cat/club/2169
+C.B.D. LAS BANDERAS | https://www.basquetcatala.cat/club/2167
+CAJA HUELVA | https://www.basquetcatala.cat/club/2168
+U.E. LLEIDA | https://www.basquetcatala.cat/club/2171
+C.B. ELOSUA-LEON | https://www.basquetcatala.cat/club/2170
+SPORT DRET | https://www.basquetcatala.cat/club/2176
+COL.LEGI ALBERT VIVES | https://www.basquetcatala.cat/club/2172
+BASQUET CLUB ALMENAR | https://www.basquetcatala.cat/club/2174
+JOVENTUT ATLETICA ARBECA | https://www.basquetcatala.cat/club/2181
+A.L.B.E. - VETERANS | https://www.basquetcatala.cat/club/2182
+C.B. ALCOLETGE | https://www.basquetcatala.cat/club/2184
+AITONA BASQUET | https://www.basquetcatala.cat/club/2183
+COL.LEGI NTRA. SRA. DEL CARME | https://www.basquetcatala.cat/club/2186
+UNIO ESPORTIVA BARBENS | https://www.basquetcatala.cat/club/2192
+C.B. BARBENS | https://www.basquetcatala.cat/club/2187
+C.E. INEF LLEIDA | https://www.basquetcatala.cat/club/2189
+ARJERIZ - XUNCAS | https://www.basquetcatala.cat/club/2204
+CLUB BASQUET PRINCIPAT | https://www.basquetcatala.cat/club/2200
+C.F. ARTESA DE LLEIDA | https://www.basquetcatala.cat/club/2202
+REAL MADRID C.F. | https://www.basquetcatala.cat/club/2206
+ESTUDIANTES CAJA POSTAL | https://www.basquetcatala.cat/club/2205
+C.D. CAJAMADRID | https://www.basquetcatala.cat/club/2211
+C. B. LAS ROZAS | https://www.basquetcatala.cat/club/2209
+A L C A L A | https://www.basquetcatala.cat/club/2207
+EL ALMENDRO J. MAESTRO | https://www.basquetcatala.cat/club/2213
+BREOGAN LECHE RIO | https://www.basquetcatala.cat/club/2203
+BANCOBAO COLLADO VILLALBA | https://www.basquetcatala.cat/club/2210
+C.B. TORREJON | https://www.basquetcatala.cat/club/2212
+M A Y O R A L | https://www.basquetcatala.cat/club/2217
+TINTORETTO | https://www.basquetcatala.cat/club/2214
+CLUB ATLETICO DE MADRID | https://www.basquetcatala.cat/club/2215
+A.D. JUVER BASKET | https://www.basquetcatala.cat/club/2218
+U.D.C. CHANTREA | https://www.basquetcatala.cat/club/2222
+C.B. ARCHENA | https://www.basquetcatala.cat/club/2219
+ARGARAY | https://www.basquetcatala.cat/club/2220
+CAIXA ORENSE | https://www.basquetcatala.cat/club/2223
+GRAN CANARIA | https://www.basquetcatala.cat/club/2227
+CAJANAVARRA | https://www.basquetcatala.cat/club/2221
+C.B. OVIEDO | https://www.basquetcatala.cat/club/2225
+LAGISA BALONCESTO | https://www.basquetcatala.cat/club/2224
+SALESIANO | https://www.basquetcatala.cat/club/2228
+C.B. CELTA DE VIGO | https://www.basquetcatala.cat/club/2229
+GUADALAJARA | https://www.basquetcatala.cat/club/2231
+TENERIFE  NUMERO UNO | https://www.basquetcatala.cat/club/2233
+C.B. CAFES CARIOCA | https://www.basquetcatala.cat/club/2236
+CORONAS LIGTHS TENERIFE | https://www.basquetcatala.cat/club/2235
+C.B. CANARIAS | https://www.basquetcatala.cat/club/2232
+A.D. TEN - SUR | https://www.basquetcatala.cat/club/2234
+GALEONES  R.C. CELTA | https://www.basquetcatala.cat/club/2230
+C.B. TENERIFE SUR | https://www.basquetcatala.cat/club/2237
+U.B. SANTA CRUZ | https://www.basquetcatala.cat/club/2238
+C.B. MANISES | https://www.basquetcatala.cat/club/2240
+CLUBASA | https://www.basquetcatala.cat/club/2242
+JESUITINAS DE SEGOVIA | https://www.basquetcatala.cat/club/2239
+PMDA.SPORTIU-XE D'ALAQUA | https://www.basquetcatala.cat/club/2241
+DOMINICAS TARRAGONA | https://www.basquetcatala.cat/club/2245
+CASAL MONTBLANQUI SECCIO BASQUET | https://www.basquetcatala.cat/club/2244
+C. MEDICINA OXIMPER | https://www.basquetcatala.cat/club/2243
+CLUB PATI RAPITENC | https://www.basquetcatala.cat/club/2251
+C.B. MASDENVERGE | https://www.basquetcatala.cat/club/2249
+CLUB BASQUET AMPOSTA | https://www.basquetcatala.cat/club/2246
+C.B. FALSET | https://www.basquetcatala.cat/club/2252
+CLUB ESPORTIU ALCOVER | https://www.basquetcatala.cat/club/2247
+C.B. SANT RAFAEL | https://www.basquetcatala.cat/club/2250
+CLUB BASQUET MORELL | https://www.basquetcatala.cat/club/2253
+COL·LEGI SANT PAU APOSTOL | https://www.basquetcatala.cat/club/2258
+NTRA. SRA. DEL MIRACLE | https://www.basquetcatala.cat/club/2259
+NTRA. SRA. DELS ANGELS | https://www.basquetcatala.cat/club/2257
+I.P. COMPTE RIUS DE F.P. A.P.A | https://www.basquetcatala.cat/club/2254
+CESAR AUGUSTO | https://www.basquetcatala.cat/club/2260
+FUNDACIO CULTURAL PRIVADA MARE DE DEU DEL LLEDO | https://www.basquetcatala.cat/club/2255
+C.P. PAU DELCLOS | https://www.basquetcatala.cat/club/2256
+C.E. TURO | https://www.basquetcatala.cat/club/2261
+ESCOLA PAX | https://www.basquetcatala.cat/club/2262
+C.P. "GUAL VILLALVI" | https://www.basquetcatala.cat/club/2264
+COL·LEGI MARE NOSTRUM | https://www.basquetcatala.cat/club/2265
+C.P. SERRALLO | https://www.basquetcatala.cat/club/2263
+C.P. VENTURA GASSOL | https://www.basquetcatala.cat/club/2267
+SANT JOSEP OBRER | https://www.basquetcatala.cat/club/2269
+COL·LEGI SANTA TERESA DE JESUS | https://www.basquetcatala.cat/club/2273
+C.P. SAAVEDRA | https://www.basquetcatala.cat/club/2274
+C.P. LA CANONJA | https://www.basquetcatala.cat/club/2268
+APMA CEIP PRACTIQUES TARRAGONA | https://www.basquetcatala.cat/club/2270
+COL·LEGI AURA | https://www.basquetcatala.cat/club/2272
+ASSOCIACIO DE MARES I PARES D'ALUMNES EL CARME | https://www.basquetcatala.cat/club/2266
+C.P. CAMPOCLARO | https://www.basquetcatala.cat/club/2271
+C.P. BONAVISTA | https://www.basquetcatala.cat/club/2277
+APA COL. LESTONNAC L'ENSENYANCA | https://www.basquetcatala.cat/club/2275
+COL·LEGI MARCEL·LI DOMINGO | https://www.basquetcatala.cat/club/2276
+P.M.E .L'AMETLLA DE MAR | https://www.basquetcatala.cat/club/2282
+TOLEDO - 92 | https://www.basquetcatala.cat/club/2290
+C.B. LLIRIA | https://www.basquetcatala.cat/club/2291
+VALENCIA C.F. | https://www.basquetcatala.cat/club/2292
+BETERA - SAMOA | https://www.basquetcatala.cat/club/2294
+C.B. ALMASSERA | https://www.basquetcatala.cat/club/2293
+C.B. L'HORTA | https://www.basquetcatala.cat/club/2297
+A.C.B. LLIRIA | https://www.basquetcatala.cat/club/2296
+C.B. GANDIA | https://www.basquetcatala.cat/club/2295
+UNIVERSIDAD VALLADOLID | https://www.basquetcatala.cat/club/2299
+XEROX-GETXO | https://www.basquetcatala.cat/club/2302
+FORUM FILATELICO-VALLADOLID | https://www.basquetcatala.cat/club/2298
+KAIXO B.C. | https://www.basquetcatala.cat/club/2301
+CAJABILBAO | https://www.basquetcatala.cat/club/2300
+REAL ZARAGOZA C.D. | https://www.basquetcatala.cat/club/2304
+C.A.I. ZARAGOZA | https://www.basquetcatala.cat/club/2303
+OLIVAR | https://www.basquetcatala.cat/club/2306
+C.N. HELIOS | https://www.basquetcatala.cat/club/2307
+STADIUM CASABLANCA | https://www.basquetcatala.cat/club/2305
+VIROLAI ESPORTIU CLUB | https://www.basquetcatala.cat/club/2311
+FEDERACIO CATALANA BASQUETBOL | https://www.basquetcatala.cat/club/2310
+C.B. NEW TEAM | https://www.basquetcatala.cat/club/2315
+COL.LEGI DEL ROSER | https://www.basquetcatala.cat/club/2316
+PROVA | https://www.basquetcatala.cat/club/2317
+BASQUET MURO | https://www.basquetcatala.cat/club/2321
+C.B. MONZON | https://www.basquetcatala.cat/club/2322
+CLUB ATHLETIC SILENC | https://www.basquetcatala.cat/club/2325
+CLUB DE BASQUET VILOBI D'ONYAR | https://www.basquetcatala.cat/club/2324
+CLUB DE BASQUET SANT QUIRZE DE BESORA | https://www.basquetcatala.cat/club/2327
+ESCOLA MONTSERRAT | https://www.basquetcatala.cat/club/2331
+ASSOCIACIO ESPORTIVA BASQUET DE LLEURE DE SABADELL | https://www.basquetcatala.cat/club/2332
+A.P.A. ELS LLORERS "CREC" | https://www.basquetcatala.cat/club/2329
+TOT BASQUET | https://www.basquetcatala.cat/club/2340
+FUNDACIO PRIVADA LLEIDA BASQUET | https://www.basquetcatala.cat/club/2344
+FUNDACIO INSTITUT JAUME VICENS VIVES DE GIRONA | https://www.basquetcatala.cat/club/2348
+ASSOCIACIO DE BASQUET EL VENDRELL | https://www.basquetcatala.cat/club/2346
+VEDRUNA ANGELS | https://www.basquetcatala.cat/club/2356
+DOMINIQUES MALLORCA | https://www.basquetcatala.cat/club/2355
+PORT DE BARCELONA | https://www.basquetcatala.cat/club/2366
+ASSOCIACIO ESPORTIVA STAR 2000 | https://www.basquetcatala.cat/club/2360
+C.M.X. 1904 EL REBOST IBERIC C.E. | https://www.basquetcatala.cat/club/2367
+CLUB BASQUET SANT ANTONI - POBLE SEC | https://www.basquetcatala.cat/club/2365
+CLUB BASKET DEL FAI | https://www.basquetcatala.cat/club/2369
+BASQUET UNIO ESPORTIVA VILANOVENCA | https://www.basquetcatala.cat/club/2370
+CLUB ESPORTIU ESCOLA DEL CARME SABADELL | https://www.basquetcatala.cat/club/2368
+COLEGIO NATZARET ESPLUGUES | https://www.basquetcatala.cat/club/2371
+CLUB BASQUET OLESA | https://www.basquetcatala.cat/club/2364
+CLUB ESCOLA DE BASQUET RONCANA | https://www.basquetcatala.cat/club/2376
+C.E. MOIA | https://www.basquetcatala.cat/club/2379
+BALONMANO POLINYA | https://www.basquetcatala.cat/club/2377
+CLUB DEL PARC D'ESPORTS TARADELL | https://www.basquetcatala.cat/club/2383
+ESCOLA DE SECUNDARIA ELS ARCS | https://www.basquetcatala.cat/club/2386
+CLUB NATACIO IGUALADA | https://www.basquetcatala.cat/club/2384
+CLUB BASQUET SANT VICENC DE TORELLO | https://www.basquetcatala.cat/club/2389
+CLUB BASQUET PUIG-REIG | https://www.basquetcatala.cat/club/2387
+APA LA SALLE PALAMOS | https://www.basquetcatala.cat/club/2390
+A.P.A. SAGRAT COR BESOS | https://www.basquetcatala.cat/club/2391
+CLUB ESPORTIU ALHENA | https://www.basquetcatala.cat/club/2395
+CLUB ATLETIC TARREGA | https://www.basquetcatala.cat/club/2396
+CENTRE ESTUDIS MIREIA | https://www.basquetcatala.cat/club/2399
+APA COL·LEGI SAGRADA FAMILIA DEL PATRONAT CASA ASIL DE SANT ANDREU (SA.FA) | https://www.basquetcatala.cat/club/2400
+ASSOCIACIO ESPORTIVA ESCOLAR COL·LEGI CULTURAL DE BADALONA | https://www.basquetcatala.cat/club/2402
+CLUB BASQUET FEMENI UNIVERSITARI DE BARCELONA | https://www.basquetcatala.cat/club/2404
+A.E. BASQUETBOL MALGRAT 2000 | https://www.basquetcatala.cat/club/2401
+A.P.A. C. SANTA CATERINA SIENA | https://www.basquetcatala.cat/club/2403
+CLUB BASQUET LLICA DE VALL | https://www.basquetcatala.cat/club/2407
+HISPANO BASKET | https://www.basquetcatala.cat/club/2408
+ASSOCIACIO ESPORTIVA L'ESQUITX | https://www.basquetcatala.cat/club/2406
+CLUB BASQUET FEMENI SARRIA | https://www.basquetcatala.cat/club/2409
+CLUB DE BASQUET AESC-RAMON LLULL | https://www.basquetcatala.cat/club/2411
+CLUB ESPORTIU SANT NICOLAU | https://www.basquetcatala.cat/club/2413
+CLUB INICIACIO ESPORTIVA ALCANAR | https://www.basquetcatala.cat/club/2412
+C.B. IMPRENTA BAHIA | https://www.basquetcatala.cat/club/2414
+ASS. JUV. CULTURAL ESPORTIVA SHOW BOYS | https://www.basquetcatala.cat/club/2420
+CLUB BASQUET ARENYS DE MUNT | https://www.basquetcatala.cat/club/2417
+CLUB ESPORTIU CALDES DE MALAVELLA | https://www.basquetcatala.cat/club/2421
+CLUB POLIESPORTIU BELL-LLOC | https://www.basquetcatala.cat/club/2419
+ASS. DE PARES ALUMNES COL.LEGI LES ALZINES | https://www.basquetcatala.cat/club/2422
+CLUB BASQUET CALDES D'ESTRAC | https://www.basquetcatala.cat/club/2424
+ASSOCIACIO ESPORTIVA MONTBLANC | https://www.basquetcatala.cat/club/2427
+CLUB BASQUET VALLIRANA | https://www.basquetcatala.cat/club/2425
+CASAL LA MIRANDA | https://www.basquetcatala.cat/club/2423
+CLUB BASQUET REIXAC | https://www.basquetcatala.cat/club/2429
+CLUB BASQUET CALAFELL-SEGUR | https://www.basquetcatala.cat/club/2438
+CLUB CICLISTA LA POBLA DE MONTORNES | https://www.basquetcatala.cat/club/2437
+SECCIO ESPORTIVA DE L'ASSOCIACIO CONSELL LOCAL D'ESPORTS DE GUISSONA | https://www.basquetcatala.cat/club/2439
+CLUB BASQUET TORREFARRERA | https://www.basquetcatala.cat/club/2440
+CLUB BASQUETBOL VILASSAR DE DALT | https://www.basquetcatala.cat/club/2446
+CLUB BASQUET ALTA RIBAGORCA | https://www.basquetcatala.cat/club/2452
+CLUB BASQUET ALPICAT | https://www.basquetcatala.cat/club/2451
+CEIP BAGES | https://www.basquetcatala.cat/club/2450
+BIGUES I RIELLS | https://www.basquetcatala.cat/club/2449
+CLUB ESPORTIU SANTA PERPETUA | https://www.basquetcatala.cat/club/2456
+CLUB BASQUET PONTS | https://www.basquetcatala.cat/club/2453
+UNIVERSITAT ABAT OLIBA CEU | https://www.basquetcatala.cat/club/2454
+CLUB BASQUET JOVENTUT CASTELLDEFELS | https://www.basquetcatala.cat/club/2457
+UNI GIRONA CLUB DE BASQUET | https://www.basquetcatala.cat/club/2458
+CLUB BASQUET SANT SADURNI | https://www.basquetcatala.cat/club/2459
+U.E. CANTONIGROS | https://www.basquetcatala.cat/club/2460
+CLUB ESPORTIU SANT ESTEVE D'EN BAS | https://www.basquetcatala.cat/club/2461
+U.E. HOSTALETS DE BAS | https://www.basquetcatala.cat/club/2462
+COL·LEGI SAGRAT COR DIPUTACIO-F.E. SOFIA BARAT | https://www.basquetcatala.cat/club/2467
+C. ATLETIC SANT VICENC DE CASTELLET | https://www.basquetcatala.cat/club/2464
+CLUB BASQUET ANGLES | https://www.basquetcatala.cat/club/2466
+C.B. MIRA-SOL | https://www.basquetcatala.cat/club/2468
+C.B. SAGRADA FAMILIA | https://www.basquetcatala.cat/club/2471
+CLUB BASQUET TORA | https://www.basquetcatala.cat/club/2472
+C.E. AVENC | https://www.basquetcatala.cat/club/2470
+APA E. GRADUADA BORGES CAMP (ROCABRUNA) | https://www.basquetcatala.cat/club/2475
+BASQUET SA GRADUADA | https://www.basquetcatala.cat/club/2474
+A. B. E. E. C. | https://www.basquetcatala.cat/club/2481
+CLUB BASQUET SORT-PALLARS SOBIRA | https://www.basquetcatala.cat/club/2477
+ASSOCIACIO ESPORTIVA CIUTAT VELLA | https://www.basquetcatala.cat/club/2480
+CLUB ESPORTIU PROMOBASQUET CIUTAT VELLA | https://www.basquetcatala.cat/club/2482
+COL·LEGI JESUS-MARIA CLAUDINA | https://www.basquetcatala.cat/club/2483
+AMPA COL·LEGI JESUS, MARIA I JOSEP DE BARCELONA | https://www.basquetcatala.cat/club/2484
+ASSOCIACIO ESPORTIVA DISCTRICTE IX SANT ANDREU | https://www.basquetcatala.cat/club/2485
+ASSOCIACIO BASQUET BADALONA 2005 | https://www.basquetcatala.cat/club/2486
+AGRUPACIO ESPORTIVA CLUBS ALT MARESME | https://www.basquetcatala.cat/club/2490
+CLUB BASQUET CALONGE-ST ANTONI | https://www.basquetcatala.cat/club/2491
+CLUB BASQUET BALSARENY 2006 | https://www.basquetcatala.cat/club/2492
+CLUB NATACIO BADALONA | https://www.basquetcatala.cat/club/2495
+ESPORTIU CLUB PIERA | https://www.basquetcatala.cat/club/2494
+ASSOCIACIO ESPORTIVA RAMON SICART | https://www.basquetcatala.cat/club/2499
+C.B. LA SENIA | https://www.basquetcatala.cat/club/2497
+ASSOCIACIO ESPORTIVA BASKET PALLEJA | https://www.basquetcatala.cat/club/2502
+ASSOCIACIO CITY LEAGUE | https://www.basquetcatala.cat/club/2500
+CLUB BASQUET SANTA BARBARA | https://www.basquetcatala.cat/club/2504
+CLUB BASQUET LA RAPITA | https://www.basquetcatala.cat/club/2498
+PATRONAT MUNICIPAL D'ESPORTS DE VALLS | https://www.basquetcatala.cat/club/2501
+ASSOCIACIO ESPORTIVA ESCOLAR IES MARTI DOT | https://www.basquetcatala.cat/club/2510
+CAMPUS | https://www.basquetcatala.cat/club/2511
+AMPA CEIP JOAQUIM GIFRE (B.GARRIGUELLA) | https://www.basquetcatala.cat/club/2512
+CLUB ESPORTIU BASQUET LA MINA | https://www.basquetcatala.cat/club/2516
+CLUB ESPORTIU MONTIGALA-BADALONA | https://www.basquetcatala.cat/club/2514
+GRAMENET BASQUET CLUB | https://www.basquetcatala.cat/club/2515
+UNIO BASQUET SANT ADRIA | https://www.basquetcatala.cat/club/2517
+CLUB BASQUET ALCARRAS | https://www.basquetcatala.cat/club/2518
+CLUB BASQUET UNIFICAT LLORET | https://www.basquetcatala.cat/club/2520
+CLUB BASQUET HORTONENC | https://www.basquetcatala.cat/club/2519
+C.F. SALA SPINOLA | https://www.basquetcatala.cat/club/2522
+CLUB ESPORTIU EUROPA SPORTS CENTER | https://www.basquetcatala.cat/club/2523
+CLUB ESPORTIU DESPERTAFERRO | https://www.basquetcatala.cat/club/2525
+A.P.A. COL. SAGRADA FAMILIA GAVA | https://www.basquetcatala.cat/club/2521
+C.B. BREDA | https://www.basquetcatala.cat/club/2527
+ASSOCIACIO BASQUET CUNIT | https://www.basquetcatala.cat/club/2524
+CLUB BASQUET CASTELLO | https://www.basquetcatala.cat/club/2526
+ESCOLA PIA BALMES | https://www.basquetcatala.cat/club/2529
+FUNDACIO PRIVADA CATALANA ESPORTIVA BEGUR | https://www.basquetcatala.cat/club/2530
+L'AGRUPACIO ESPORTIVA LES BOTIGUES DE SITGES | https://www.basquetcatala.cat/club/2531
+ASSOCIACIO PARES ALUMNES COL·LEGI CANIGO | https://www.basquetcatala.cat/club/2528
+PATRONAT MUNICIPAL TURISME I ESPORTS DE L'AMPOLLA | https://www.basquetcatala.cat/club/2533
+ASSOCIACIO ESPORTIVA CERVANTES-CASC ANTIC | https://www.basquetcatala.cat/club/2534
+CLUB BASQUET SANT POL 07 | https://www.basquetcatala.cat/club/2535
+CLUB ESPORTIU TERRA NEGRA | https://www.basquetcatala.cat/club/2536
+AMPA EUGENI D'ORS | https://www.basquetcatala.cat/club/2538
+AMPA CEIP CESAR AUGUST | https://www.basquetcatala.cat/club/2539
+COL·LEGI MARE DE DEU DEL CARME | https://www.basquetcatala.cat/club/2537
+AMPA MARE DE DEU DE L'ASSUMPCIO | https://www.basquetcatala.cat/club/2544
+ASOCIACION URUGUAYOS EN CATALUNYA | https://www.basquetcatala.cat/club/2549
+OLIVELLA ESPORTIVA | https://www.basquetcatala.cat/club/2548
+BDR BOLIVIA | https://www.basquetcatala.cat/club/2550
+ASSOCIACIO ESPORTIVA CASA NOSTRA DEL PLA DE L'ESTANY | https://www.basquetcatala.cat/club/2547
+CLUB BASQUET VILA DE MONTORNES | https://www.basquetcatala.cat/club/2552
+CLUB BASQUET NOU ESPLUGUES | https://www.basquetcatala.cat/club/2553
+CLUB ESPORTIU LA MARINA DE BARCELONA | https://www.basquetcatala.cat/club/2543
+CLUB BASQUET GARROTXA | https://www.basquetcatala.cat/club/2555
+CLUB ESPORTIU CRISTINENC | https://www.basquetcatala.cat/club/2545
+CLUB BASQUET TIANA | https://www.basquetcatala.cat/club/2554
+RT GIRONA REBUTS | https://www.basquetcatala.cat/club/2559
+FUNDACIO PRIVADA F.C. BARCELONA | https://www.basquetcatala.cat/club/2556
+CLUB BASQUET LA MERCE | https://www.basquetcatala.cat/club/2558
+A.E. ELVIRA LA SALLE | https://www.basquetcatala.cat/club/2561
+CLUB BASQUET LES FRANQUESES | https://www.basquetcatala.cat/club/2557
+CLUB BASQUET NOU BADIA | https://www.basquetcatala.cat/club/2562
+CLUB BASQUET KLIMA | https://www.basquetcatala.cat/club/2563
+AMPOLLA CLUB DE BASQUET | https://www.basquetcatala.cat/club/2564
+ATLETIC CLUB BASQUET FONTCOBERTA | https://www.basquetcatala.cat/club/2567
+C.B. THE SAND | https://www.basquetcatala.cat/club/2568
+CLUB BASQUET TERMENS | https://www.basquetcatala.cat/club/2570
+SANT GERVASI FEMENI | https://www.basquetcatala.cat/club/2569
+AMPA CEIP JOC DE LA BOLA | https://www.basquetcatala.cat/club/2571
+CLUB ESPORTIU VILA OLIMPICA | https://www.basquetcatala.cat/club/2572
+PARTITS PROVA RTLL | https://www.basquetcatala.cat/club/2579
+EQUIP LOCAL | https://www.basquetcatala.cat/club/2578
+CLUB BASQUET VILANOVENCA | https://www.basquetcatala.cat/club/2577
+LLEURE BARCELONES NORD | https://www.basquetcatala.cat/club/2580
+AMPA SANT JAUME | https://www.basquetcatala.cat/club/2585
+AEE ZER RIU AVALL (TI3ENYS-BITEM) | https://www.basquetcatala.cat/club/2584
+AMPA COL·LEGI SANT JOSEP DE REUS | https://www.basquetcatala.cat/club/2582
+AMPA CEIP MARIA GARCIA CABANES | https://www.basquetcatala.cat/club/2587
+CB AMPA MIQUEL BARO-SEROS | https://www.basquetcatala.cat/club/2586
+CLUB BASQUET DOSRIUS | https://www.basquetcatala.cat/club/2589
+CLUB BASQUET SANT QUIRZE DE BESORA | https://www.basquetcatala.cat/club/2588
+AMPA LLACUNALBA CEIP ST NICOLAU | https://www.basquetcatala.cat/club/2590
+AMPA CEIP PORT RODO | https://www.basquetcatala.cat/club/2591
+ASSOCIACIO ESPORTIVA ESCOLA C.D. MARE DE DEU DEL LLEDO DE VALLS | https://www.basquetcatala.cat/club/2592
+AMPA CEIP NOSTRA LLAR | https://www.basquetcatala.cat/club/2597
+MERI NORD BASQUET CLUB | https://www.basquetcatala.cat/club/2596
+A.E. PROMOSPORT BCN | https://www.basquetcatala.cat/club/2595
+CLUB VOLEI PEGASO | https://www.basquetcatala.cat/club/2599
+ASSOCIACIO ESPOTIVA GAVA ESPORT | https://www.basquetcatala.cat/club/2600
+AMPA CEIP GAUDI | https://www.basquetcatala.cat/club/2603
+AMPA ARENAL DE LLEVANT | https://www.basquetcatala.cat/club/2604
+FUNDACION EMVIPI | https://www.basquetcatala.cat/club/2601
+AMPA CEIP L'OLIVERA | https://www.basquetcatala.cat/club/2602
+AMPA CEIP RAIERS LA POBLA | https://www.basquetcatala.cat/club/2598
+TORREDEMBARRA BASQUET CLUB | https://www.basquetcatala.cat/club/2611
+CLUB BASQUET OSONA SUD | https://www.basquetcatala.cat/club/2615
+ASSOCIACIO ESPORTIVA ESCOLAR JOAN XXIII DE BONAVISTA | https://www.basquetcatala.cat/club/2612
+CLUB BASQUET LA ROCA | https://www.basquetcatala.cat/club/2617
+CLUB ESPORTIU JOVENTUT L'HOSPITALET | https://www.basquetcatala.cat/club/2618
+ASSOCIACIO ESPORTIVA BASQUET ESCOLAR SARRIA-SANT GERVASI | https://www.basquetcatala.cat/club/2614
+CLUB BASQUET TORRES DE SEGRE | https://www.basquetcatala.cat/club/2622
+SIRIUS BASQUET CLUB | https://www.basquetcatala.cat/club/2616
+E.B. SARRAL | https://www.basquetcatala.cat/club/2623
+CLUB BASQUET LA VALL D'EN BAS | https://www.basquetcatala.cat/club/2624
+ASSOCIACIO ESPORTIVA ESCOLA PIA NOSTRA SENYORA | https://www.basquetcatala.cat/club/2630
+FREE BASQUET LLORET | https://www.basquetcatala.cat/club/2625
+CAFE VANDELLOS I L'HOSPITALET INFANT | https://www.basquetcatala.cat/club/2627
+CLUB ESPORTIU BASQUET BIR | https://www.basquetcatala.cat/club/2628
+C.B. 11 DE SETEMBRE | https://www.basquetcatala.cat/club/2626
+CLUB BASQUET VILADRAU | https://www.basquetcatala.cat/club/2629
+INSTITUT MUNICIPAL D'ESPORTS D'ULLDECONA | https://www.basquetcatala.cat/club/2633
+S.E. L'AMPA MARTI POCH | https://www.basquetcatala.cat/club/2634
+PENYA BARCELONISTA LLORET | https://www.basquetcatala.cat/club/2635
+AMPA PUIGCERVER DE REUS | https://www.basquetcatala.cat/club/2636
+AMPA ESCOLA PUIG CAVALLER | https://www.basquetcatala.cat/club/2646
+AMPA CEIP LA FONT | https://www.basquetcatala.cat/club/2642
+AMPA REINAXENCA | https://www.basquetcatala.cat/club/2643
+AMPA CEIP LA SEQUIA | https://www.basquetcatala.cat/club/2641
+UNIO ESPORTIVA GURB | https://www.basquetcatala.cat/club/2645
+AMPA MONTOLIU DE LA RIERA DE GAIA | https://www.basquetcatala.cat/club/2647
+AMPA PUIGBERENGUER | https://www.basquetcatala.cat/club/2644
+AMPA CEIP MATAGALLS | https://www.basquetcatala.cat/club/2652
+CLUB DE BASQUET VALLBONA D'ANOIA | https://www.basquetcatala.cat/club/2653
+AMPA CEIP JAUME SERRA I HUNTER | https://www.basquetcatala.cat/club/2656
+AMPA ESCOLA SANT IGNASI | https://www.basquetcatala.cat/club/2657
+UNIO ESPORTIVA TORRELLES | https://www.basquetcatala.cat/club/2655
+A. JUGADORES B. BAIX LLOBREGAT | https://www.basquetcatala.cat/club/2651
+FUNDACION PRIVADA PADRE DAMIAN | https://www.basquetcatala.cat/club/2659
+CENT PER CENT BASQUET CLUB | https://www.basquetcatala.cat/club/2654
+AMPA ESCOLA SANTA ANNA DE CASTELVELL | https://www.basquetcatala.cat/club/2658
+CLUB ESPORTIU MENENDEZ Y PELAYO | https://www.basquetcatala.cat/club/2660
+ABCCE ASOCIACION BOLIVIANOS CRUCENOS EN CATALUNA | https://www.basquetcatala.cat/club/2661
+ASSOCIACIO ESPORTIVA LA SENIA | https://www.basquetcatala.cat/club/2662
+AMPA COL. MARE DEU DEL ROSER | https://www.basquetcatala.cat/club/2664
+AMPA ESCOLA ROSER CAPDEVILA | https://www.basquetcatala.cat/club/2663
+ASSOCIACIO ESPORTIVA ESCOLAR CENTRE DOCENT SAGRADA FAMILIA DE TORTOSA | https://www.basquetcatala.cat/club/2666
+CEIP LA ROSELLA-ROSELLO BASQUET | https://www.basquetcatala.cat/club/2669
+CLUB ESPORTIU L'AMETLLA DE MAR | https://www.basquetcatala.cat/club/2665
+AMPA COL·LEGI PAU DELCLOS DE TARRAGNA | https://www.basquetcatala.cat/club/2667
+CLUB DE BASQUET TORDERA | https://www.basquetcatala.cat/club/2673
+CEIP AMPA FONT MARTINA | https://www.basquetcatala.cat/club/2668
+CLUB BASQUET SAFA ESTRAC | https://www.basquetcatala.cat/club/2670
+CLUB BASQUET MONTBLANC | https://www.basquetcatala.cat/club/2674
+CLUB BASQUET BESALU VILA COMTAL | https://www.basquetcatala.cat/club/2675
+PENA RECREATIVA SANT FELIU LLOBREGAT | https://www.basquetcatala.cat/club/2677
+ODENA CLUB BASQUET | https://www.basquetcatala.cat/club/2678
+CLUB ESPORTIU VEDRUNA BALAGUER | https://www.basquetcatala.cat/club/2676
+CLUB ESPORTIU DMS | https://www.basquetcatala.cat/club/2680
+CLUB BASQUET MATADEPERA | https://www.basquetcatala.cat/club/2681
+BASQUET BUCANERS BADALONA | https://www.basquetcatala.cat/club/2682
+CLUB ESPORTIU PARC GUELL | https://www.basquetcatala.cat/club/2687
+CLUB ESPORTIU DIAGONAL MAR | https://www.basquetcatala.cat/club/2679
+REUS ESPORT I LLEURE S.A. | https://www.basquetcatala.cat/club/2685
+SALO DE LA INFANCIA | https://www.basquetcatala.cat/club/2686
+AMPA PRACTIQUES II | https://www.basquetcatala.cat/club/2690
+CLUB VALLCARCA NORD | https://www.basquetcatala.cat/club/2688
+S.E. CASAL CATALA | https://www.basquetcatala.cat/club/2689
+ASSOCIACIO VILABASQUET | https://www.basquetcatala.cat/club/2693
+CLUB BASQUET BASCARA | https://www.basquetcatala.cat/club/2691
+ASSOCIACIO ESPORTIVA ESCOLA MARIA CORTINA DE REUS | https://www.basquetcatala.cat/club/2692
+CLUB BASQUET ALTAFULLA | https://www.basquetcatala.cat/club/2708
+ASSOCIACIO DE MARES I PARES D'ALUMNES DE L'ESCOLA ORLANDAI | https://www.basquetcatala.cat/club/2714
+R.T. TARRAGONA | https://www.basquetcatala.cat/club/2705
+CLUB BASQUET SEROS | https://www.basquetcatala.cat/club/2711
+CLUB ESPORTIU I SOCIAL DE SANT ANDREU | https://www.basquetcatala.cat/club/2713
+VILANOVA DEL CAMI BASQUET CLUB ENDAVANT | https://www.basquetcatala.cat/club/2716
+CLUB ESPORTIU CALAFELL 2011 | https://www.basquetcatala.cat/club/2712
+CLUB DEPORTIVO BALONCESTO BINEFAR | https://www.basquetcatala.cat/club/2717
+CLUB ATLETIC SANT JOAN | https://www.basquetcatala.cat/club/2715
+FUNDACIO PRIVADA BETANIA PATMOS | https://www.basquetcatala.cat/club/2720
+CLUB BASQUET ANTONI BRUSI | https://www.basquetcatala.cat/club/2724
+A.E.E. IES PALAMOS DE PALAMOS | https://www.basquetcatala.cat/club/2725
+FEMENI MARESME BASQUET CLUB | https://www.basquetcatala.cat/club/2728
+R.T. LLEIDA | https://www.basquetcatala.cat/club/2731
+CENTRE DE TECNIFICACIO ESPORTIU ILLES BALEARS | https://www.basquetcatala.cat/club/2732
+CLUB BASQUET PERALADA | https://www.basquetcatala.cat/club/2729
+ASSOCIACIO ESPORTIVA POBLA DE MAFUMET | https://www.basquetcatala.cat/club/2736
+CLUB BASQUET FEMENI OSONA | https://www.basquetcatala.cat/club/2734
+FORCA LLEIDA CLUB ESPORTIU | https://www.basquetcatala.cat/club/2735
+CLUB BASQUET VILABLAREIX | https://www.basquetcatala.cat/club/2733
+CLUB DE BASQUET CABRILS | https://www.basquetcatala.cat/club/2738
+ESCOLA PIA SARRIA | https://www.basquetcatala.cat/club/2739
+CLUB BASQUET 3 VILES | https://www.basquetcatala.cat/club/2737
+CLUB BASQUET NOU BARRIS | https://www.basquetcatala.cat/club/2740
+CLUB BASQUETBOL CONSTANTI | https://www.basquetcatala.cat/club/2742
+CLUB BASQUET ALCOLETGE | https://www.basquetcatala.cat/club/2744
+CLUB BASQUET OLYMPIC GOODFELLAS | https://www.basquetcatala.cat/club/2741
+ASSOCIACIO VEINS BALAFIA | https://www.basquetcatala.cat/club/2743
+AEE COL·LEGI SANT PAU APOSTOL | https://www.basquetcatala.cat/club/2747
+CLUB ESCOLA DE BASQUET GIRONA CENTRE | https://www.basquetcatala.cat/club/2745
+BASQUET TORRELLES | https://www.basquetcatala.cat/club/2748
+A.E. BASQUETBOL MALGRAT 2000 | https://www.basquetcatala.cat/club/2749
+ASSOCIACIO ESPORTIVA XARXA | https://www.basquetcatala.cat/club/2750
+CLUB BASQUET BASE TARRACO | https://www.basquetcatala.cat/club/2746
+ASSOCIACIO SUPORT SABADELL BASQUET | https://www.basquetcatala.cat/club/2754
+FUNDACIO PRIVADA PER L'ESPORT EDUC. BARCELONA | https://www.basquetcatala.cat/club/2752
+Q BASQUET CLUB | https://www.basquetcatala.cat/club/2753
+ASSOCIACIO ESPORTIVA NOU BASQUET OLESA 2013 | https://www.basquetcatala.cat/club/2751
+CLUB ESPORTIU FRANCISCANS | https://www.basquetcatala.cat/club/2757
+CLUB DE FUTBOL CASTELLVI DE LA MARCA | https://www.basquetcatala.cat/club/2759
+CLUB ESPORTIU ESCOLA DE BASQUET TORDERA 2013 | https://www.basquetcatala.cat/club/2756
+CLUB BASQUET MIR | https://www.basquetcatala.cat/club/2758
+CLUB BASQUET VIELHA | https://www.basquetcatala.cat/club/2770
+CLUB FUTBOL RACING SARRIA | https://www.basquetcatala.cat/club/2772
+AMPA C.P. ROSELLA | https://www.basquetcatala.cat/club/2775
+PLAY-OFF CONSULTING, S.L. | https://www.basquetcatala.cat/club/2776
+ESPORT BASE DEL PAPIOL | https://www.basquetcatala.cat/club/2774
+CLUB ESPORTIU BASQUET EL PAPIOL | https://www.basquetcatala.cat/club/2771
+AJUNTAMENT DE BADALONA | https://www.basquetcatala.cat/club/2777
+AMPA CPEC LA SALLE CASSA DE LA SELVA | https://www.basquetcatala.cat/club/2773
+AJUNTAMENT DE CASTELL-PLATJA D'ARO | https://www.basquetcatala.cat/club/2780
+AJUNTAMENT DE CASTELLAR DEL VALLES | https://www.basquetcatala.cat/club/2779
+MICFOOTBALL | https://www.basquetcatala.cat/club/2778
+UNIVERSITAT DE GIRONA | https://www.basquetcatala.cat/club/2788
+CB MIFAS | https://www.basquetcatala.cat/club/2787
+AMPA ESCOLA LA PORTALADA | https://www.basquetcatala.cat/club/2789
+AEE IES COLLBLANC | https://www.basquetcatala.cat/club/2793
+AEE INSTITUT ELS PALLARESOS | https://www.basquetcatala.cat/club/2791
+APA ESCOLA SANT SEBASTIA | https://www.basquetcatala.cat/club/2792
+ESCOLES RODA DE BARA | https://www.basquetcatala.cat/club/2797
+AMPA ESCOLA LA CANONJA | https://www.basquetcatala.cat/club/2794
+COL·LEGI TURO | https://www.basquetcatala.cat/club/2790
+INSTITUCION FAMILIAR DE EDUCACION, S.A. | https://www.basquetcatala.cat/club/2795
+AJUNTAMENT POBLA DE MAFUMET | https://www.basquetcatala.cat/club/2796
+AEE INSTITUT MARTI I FRANQUES | https://www.basquetcatala.cat/club/2800
+APA COL·LEGI SAGRAT COR | https://www.basquetcatala.cat/club/2802
+AEE INSTITUT COMTE DE RIUS | https://www.basquetcatala.cat/club/2799
+AEE ELISABETH | https://www.basquetcatala.cat/club/2798
+AEE INSTITUT SANT PERE I SANT PAU | https://www.basquetcatala.cat/club/2801
+AMPA ESCOLA MARCEL·LI DOMINGO | https://www.basquetcatala.cat/club/2807
+AMPA ESCOLA PRACTIQUES | https://www.basquetcatala.cat/club/2809
+AMPA ESCOLA L'ARRABASSADA | https://www.basquetcatala.cat/club/2806
+AMPA ESCOLA PAX | https://www.basquetcatala.cat/club/2808
+AMPA COL·LEGI TERESIANES | https://www.basquetcatala.cat/club/2803
+COL·LEGI MARE NOSTRUM | https://www.basquetcatala.cat/club/2811
+HOSPITAL SANT PAU I SANTA TECLA | https://www.basquetcatala.cat/club/2812
+UMPA CEIP PAU DELCLOS | https://www.basquetcatala.cat/club/2813
+AMPA ESCOLA SANT PERE I SANT PAU | https://www.basquetcatala.cat/club/2810
+AMPA ESCOLA GUAL VILLALBI | https://www.basquetcatala.cat/club/2805
+AEE LA SALLE TORREFORTA | https://www.basquetcatala.cat/club/2817
+AMPA DE L'ESCOLA ANTONI ROIG | https://www.basquetcatala.cat/club/2814
+AMPA ESCOLA CESAR AUGUST | https://www.basquetcatala.cat/club/2804
+AMPA ESCOLA L'ANTINA | https://www.basquetcatala.cat/club/2815
+APA ESCOLA MOLI DE VENT | https://www.basquetcatala.cat/club/2816
+FED. CAT. D'ESPORTS PER A P.D.I. - ACELL | https://www.basquetcatala.cat/club/2819
+AFA ELS ANGELS | https://www.basquetcatala.cat/club/2818
+CONSELL ESPORTIU DEL TARRAGONES | https://www.basquetcatala.cat/club/2823
+REUS ESPORT I LLEURE, S.A. | https://www.basquetcatala.cat/club/2822
+CLUB BASQUET ROSSELLO | https://www.basquetcatala.cat/club/2821
+FUNDACIO PRIVADA JOVENTUT | https://www.basquetcatala.cat/club/2824
+INTERNATIONAL AUSTRAL SPORT SA | https://www.basquetcatala.cat/club/2820
+CLUB BASQUET LA POBLA DE SEGUR | https://www.basquetcatala.cat/club/2827
+CLUB CEM HOSPITALET | https://www.basquetcatala.cat/club/2826
+COL·LEGI MARIA ROSA MOLAS | https://www.basquetcatala.cat/club/2831
+UNES | https://www.basquetcatala.cat/club/2829
+UNIO ESPORTIVA CADAQUES | https://www.basquetcatala.cat/club/2828
+ESCOLA ELS AMETLLERS | https://www.basquetcatala.cat/club/2825
+AMPA CEIP ELS PALLARESOS | https://www.basquetcatala.cat/club/2832
+FORMACION, EQUIPO, MOTIVACION S.L. | https://www.basquetcatala.cat/club/2830
+VALENCIA SPORT PROMOCIONES DEPORTIVAS, S.L | https://www.basquetcatala.cat/club/2835
+AJUNTAMENT D'ULLDECONA | https://www.basquetcatala.cat/club/2836
+MARENOSTRUMCUP 2013 SL | https://www.basquetcatala.cat/club/2833
+AD GURE SPORT | https://www.basquetcatala.cat/club/2834
+MATE S.A.U. | https://www.basquetcatala.cat/club/2841
+THE SEAGULL SPORTIVE S.L. | https://www.basquetcatala.cat/club/2839
+FEDERACIO CATALANA D'ESPORTS PER A DISCAPACITATS FISICS | https://www.basquetcatala.cat/club/2837
+CLUB BASQUET JOVENT D'ALAIOR | https://www.basquetcatala.cat/club/2840
+ASSOCIACIO MAS SPORT | https://www.basquetcatala.cat/club/2838
+UNIO DE CONSELLS ESPORTIUS DE CATALUNYA | https://www.basquetcatala.cat/club/2842
+CONSELL ESPORTIU DE L'ALT CAMP | https://www.basquetcatala.cat/club/2843
+TELEVISIO DE CATALUNYA, S.A. | https://www.basquetcatala.cat/club/2845
+SPORT AND LEISSURE BARCELONA | https://www.basquetcatala.cat/club/2844
+PUTXET SPORTS AIE | https://www.basquetcatala.cat/club/2847
+FUNDACIO DEL BASQUET CATALA | https://www.basquetcatala.cat/club/2846
+AVANTGRUP SL | https://www.basquetcatala.cat/club/2848
+ENEIDA TOURS | https://www.basquetcatala.cat/club/2849
+AS CAT D'INTEGRACIO DESENVOLUPAMENT HUMA | https://www.basquetcatala.cat/club/2850
+FEDERACIO CATALANA D'HIPICA | https://www.basquetcatala.cat/club/2854
+BAC DE RODA SPORT, AIE | https://www.basquetcatala.cat/club/2852
+CEM PARC DEL GARRAF | https://www.basquetcatala.cat/club/2853
+CONSELL ESPORTIU DEL SEGRIA | https://www.basquetcatala.cat/club/2855
+U1ST SPORTS MARKETING SL | https://www.basquetcatala.cat/club/2860
+SUMINISTRES INDUSTRIALS FORTUNAT GUASH | https://www.basquetcatala.cat/club/2857
+UNIVERSITAT INTERNACIONAL DE CATALUNYA FP | https://www.basquetcatala.cat/club/2851
+NOVABROCK CORREDURIA DE SEGUROS SL | https://www.basquetcatala.cat/club/2859
+ATENEU LES BASES AIE | https://www.basquetcatala.cat/club/2858
+IBERCAJA BANCO | https://www.basquetcatala.cat/club/2861
+AJUNTAMENT DE CASTELLDEFELS | https://www.basquetcatala.cat/club/2862
+INTITUT ALEXANDRE SATORRAS | https://www.basquetcatala.cat/club/2869
+INSTITUT JAUME CALLIS | https://www.basquetcatala.cat/club/2863
+CONSELL CATALA DE L'ESPORT | https://www.basquetcatala.cat/club/2867
+AJUNTAMENT DE BEGUES | https://www.basquetcatala.cat/club/2864
+CLUB ESPORTIU HORITZO | https://www.basquetcatala.cat/club/2865
+ZONA RECREATIVA DEL KARTING S.L. | https://www.basquetcatala.cat/club/2872
+IES MILA I FONTANALS | https://www.basquetcatala.cat/club/2868
+FEDERACIO CATALANA DE FUTBOL SALA | https://www.basquetcatala.cat/club/2871
+IES QUERCUS | https://www.basquetcatala.cat/club/2870
+CENTRE D'ALT RENDIMENT ESPORTIU | https://www.basquetcatala.cat/club/2866
+IGNACIO SOLOZABAL IGARTUA | https://www.basquetcatala.cat/club/2874
+JUAN CARLOS MITJANA LECHUGA | https://www.basquetcatala.cat/club/2875
+SERVEIS ODONTOLOGICS GENSANA TALARN S.L. | https://www.basquetcatala.cat/club/2873
+MONTSERRAT MARTI BENET | https://www.basquetcatala.cat/club/2876
+FELIX LOPEZ CAMACHO | https://www.basquetcatala.cat/club/2879
+CLUB DE BASQUET BELLVEI | https://www.basquetcatala.cat/club/2882
+EUROPEAN EVENTS | https://www.basquetcatala.cat/club/2877
+CLUB BASQUET GIRONA 2014 | https://www.basquetcatala.cat/club/2881
+ASSOCIACIO ESPORTIVA PALAFOLLS | https://www.basquetcatala.cat/club/2883
+AJUNTAMENT DE SANT ADRIA | https://www.basquetcatala.cat/club/2878
+IES PERE ALSIUS I TORRENT | https://www.basquetcatala.cat/club/2884
+SABADELL SUD CLUB BASQUET | https://www.basquetcatala.cat/club/2880
+UHLSPORT IBERICA 2006, S.A | https://www.basquetcatala.cat/club/2885
+ASSOCIACIO PEDAGOGICA STUCOM | https://www.basquetcatala.cat/club/2887
+CLUB NOU BASQUET VILANOVA 2013 | https://www.basquetcatala.cat/club/2886
+CASA DE RUBI COLEGIO REGINA CARMELI | https://www.basquetcatala.cat/club/2888
+ASSOCIACIO ESPORTIVA ESCOLAR ESCOLA VEDRUNA DE GIRONA | https://www.basquetcatala.cat/club/2890
+AJUNTAMENT DE TONA | https://www.basquetcatala.cat/club/2892
+PELEGRIMAU, S.L. | https://www.basquetcatala.cat/club/2893
+AEE INS JOAN D'AUSTRIA | https://www.basquetcatala.cat/club/2894
+FUTUR 16 SL | https://www.basquetcatala.cat/club/2891
+CLUB BASQUET ALBERA-PERALADA | https://www.basquetcatala.cat/club/2889
+CLUB BASQUET TREVOL | https://www.basquetcatala.cat/club/2895
+COL.LEGI SANTA DOROTEA, SALESIANES | https://www.basquetcatala.cat/club/2897
+UNIO ESPORTIVA SANT ANDREU DEL PALOMAR | https://www.basquetcatala.cat/club/2896
+PROMOSPORT AND TOURS, S.L. | https://www.basquetcatala.cat/club/2898
+AJUNTAMENT CABRILS | https://www.basquetcatala.cat/club/2900
+ASSOCIACIO ESPORTIVA LES CORTS | https://www.basquetcatala.cat/club/2901
+CLUB DE BASQUET FENIX ANDREUENC | https://www.basquetcatala.cat/club/2899
+C.D.B. SEVILLA S.A.D. | https://www.basquetcatala.cat/club/2903
+GIPUZKOA BASKET | https://www.basquetcatala.cat/club/2906
+BALONCESTO FUENLABRADA | https://www.basquetcatala.cat/club/2902
+CLUB DEPORTIVO BASKET BILBAO BERRI SAD | https://www.basquetcatala.cat/club/2904
+HERBALIFE GRAN CANARIA | https://www.basquetcatala.cat/club/2907
+IBEROSTAR TENERIFE | https://www.basquetcatala.cat/club/2908
+BASKET ZARAGOZA 2002 S.A.D. | https://www.basquetcatala.cat/club/2905
+RIO NATURA MONBUS OBRADOIRO | https://www.basquetcatala.cat/club/2911
+LABORAL KUTXA BASKONIA | https://www.basquetcatala.cat/club/2909
+REAL MADRID | https://www.basquetcatala.cat/club/2910
+CLUB ESTUDIANTES | https://www.basquetcatala.cat/club/2912
+UNICAJA S.A.D | https://www.basquetcatala.cat/club/2913
+VALENCIA B.C. S.A.D. | https://www.basquetcatala.cat/club/2915
+C.B. BREOGAN LUGO | https://www.basquetcatala.cat/club/2916
+FORD BURGOS | https://www.basquetcatala.cat/club/2917
+UNIVERSIDAD CATOLICA DE MURCIA | https://www.basquetcatala.cat/club/2914
+BALONCESTO CIUDAD DE VALLADOLID | https://www.basquetcatala.cat/club/2919
+LEYMA BASQUET CORUNA | https://www.basquetcatala.cat/club/2921
+PENAS HUESCA | https://www.basquetcatala.cat/club/2918
+INSTITUTO DE FERTILIDAD CLINI | https://www.basquetcatala.cat/club/2922
+REDSPORT PROCLUB, S.L. | https://www.basquetcatala.cat/club/2920
+COCINAS.COM | https://www.basquetcatala.cat/club/2925
+CLUB MELILLA BALONCESTO | https://www.basquetcatala.cat/club/2923
+CLUB OURENSE BALONCESTO | https://www.basquetcatala.cat/club/2924
+CANARIAS BASKETBALL ACADEMY | https://www.basquetcatala.cat/club/2931
+OVIEDO CLUB BALONCESTO | https://www.basquetcatala.cat/club/2928
+PALMA AIR EUROPA | https://www.basquetcatala.cat/club/2926
+MARIN PEIXEGALEGO | https://www.basquetcatala.cat/club/2930
+AZPEITIA AZKOITIA ISB | https://www.basquetcatala.cat/club/2929
+PLANASA NAVARRA | https://www.basquetcatala.cat/club/2927
+ARABERRI BASKET CLUB | https://www.basquetcatala.cat/club/2932
+XUVEN CAMBADOS | https://www.basquetcatala.cat/club/2933
+ZORNOTZA SASKIBALOI TALDEA | https://www.basquetcatala.cat/club/2936
+GRUPO EULEN CARREFOUR EL BUELVARD | https://www.basquetcatala.cat/club/2940
+CLUB AMICS DEL BASQUET | https://www.basquetcatala.cat/club/2937
+CACERES PATRIMONIO DE LA HUMANIDAD | https://www.basquetcatala.cat/club/2935
+FUNDACION BALONCESTO FUENLABRADA | https://www.basquetcatala.cat/club/2934
+CEBA GUADALAJARA | https://www.basquetcatala.cat/club/2938
+LUNCETUM ALICANTE | https://www.basquetcatala.cat/club/2939
+CLUB BALONCESTO AVENIDA | https://www.basquetcatala.cat/club/2944
+C.B. AL-QAZERES EXTREMADURA | https://www.basquetcatala.cat/club/2942
+GRAN CANARIA 2014 | https://www.basquetcatala.cat/club/2941
+EMBUTIDOS PAJARIEL BEMBIBRE PD | https://www.basquetcatala.cat/club/2945
+UNIVERSITARIO FERROL | https://www.basquetcatala.cat/club/2943
+CAMPUS PROMETE | https://www.basquetcatala.cat/club/2946
+ZAMARAT | https://www.basquetcatala.cat/club/2951
+GIPUZKOA UPV | https://www.basquetcatala.cat/club/2949
+GERNIKA BIZKAIA | https://www.basquetcatala.cat/club/2950
+PLENILUNIO D.O. | https://www.basquetcatala.cat/club/2953
+CLUB BALONCESTO CONQUERO | https://www.basquetcatala.cat/club/2948
+MANN-FILTER | https://www.basquetcatala.cat/club/2947
+RIVAS ECOPOLIS | https://www.basquetcatala.cat/club/2952
+CIUDAD DE LOS ADELANTADOS | https://www.basquetcatala.cat/club/2957
+UCAM JAIRIS | https://www.basquetcatala.cat/club/2954
+INSTITUTO FERTILIDAD AIR EUROPA | https://www.basquetcatala.cat/club/2955
+C.B. ANDRATX | https://www.basquetcatala.cat/club/2956
+FUNDAL ALCOBENDAS | https://www.basquetcatala.cat/club/2960
+GRUPO EM LEGANES | https://www.basquetcatala.cat/club/2959
+C.R.E.F. ¡HOLA! | https://www.basquetcatala.cat/club/2958
+C.B. ALMERIA | https://www.basquetcatala.cat/club/2961
+CLUB ESTUDIANTES LUGO | https://www.basquetcatala.cat/club/2963
+PARC DEL SEGRE, S.A. | https://www.basquetcatala.cat/club/2967
+EL OLIVAR | https://www.basquetcatala.cat/club/2964
+FEDERACION ESPANOLA DE BALONCESTO | https://www.basquetcatala.cat/club/2966
+FUNDACIO CATALUNYA LA PEDRERA | https://www.basquetcatala.cat/club/2969
+ASSOCIACIO BASQUET SANT JULIA DE VILATORTA | https://www.basquetcatala.cat/club/2971
+LUDITERRANEA GESTION SL | https://www.basquetcatala.cat/club/2972
+ARAMIS (ASSOCIACIO DE PERSONES AMB DISCAPACITAT FISICA DE SANT BOI) | https://www.basquetcatala.cat/club/2970
+ASSOCIACIO ESPORTIVA I EDUCATIVA SENIAESPORT | https://www.basquetcatala.cat/club/2968
+AJUNTAMENT D'ALPICAT | https://www.basquetcatala.cat/club/2965
+GETAFE | https://www.basquetcatala.cat/club/2975
+PANATHINAIKOS ATHENS | https://www.basquetcatala.cat/club/2978
+FC BAYERN MUNICH | https://www.basquetcatala.cat/club/2976
+OPENTACH BASQUET PLA | https://www.basquetcatala.cat/club/2974
+PGE TUROW ZGORZELEC | https://www.basquetcatala.cat/club/2977
+FENERBAHCE ULKER ISTANBUL | https://www.basquetcatala.cat/club/2980
+AJUNTAMENT DE BARCELONA - DISTRICTE DE GRACIA | https://www.basquetcatala.cat/club/2983
+PROGESS, S.L. | https://www.basquetcatala.cat/club/2985
+DISTRICTE D'HORTA-GUINARDO | https://www.basquetcatala.cat/club/2982
+ABASIC S.L.U. | https://www.basquetcatala.cat/club/2984
+RIVAS ECOPOLIS | https://www.basquetcatala.cat/club/2986
+EA7 EMPORIO ARMANI MILAN | https://www.basquetcatala.cat/club/2979
+EUROLEAGUE | https://www.basquetcatala.cat/club/2981
+GRAN CANARIA 2014 | https://www.basquetcatala.cat/club/2987
+GERNIKA BIZKAIA | https://www.basquetcatala.cat/club/2988
+ZAMARAT | https://www.basquetcatala.cat/club/2989
+CAMPOS PROMETE | https://www.basquetcatala.cat/club/2992
+PERFUMERIAS AVENIDA | https://www.basquetcatala.cat/club/2994
+FUNDACION GRUPO NORTE | https://www.basquetcatala.cat/club/2998
+GIPUZKOA UPV | https://www.basquetcatala.cat/club/2991
+ADEMI TENERIFE | https://www.basquetcatala.cat/club/3000
+UNIVERSITARIO FERROL | https://www.basquetcatala.cat/club/2997
+MANN FILTER | https://www.basquetcatala.cat/club/2993
+MIDEBA EXTREMADURA | https://www.basquetcatala.cat/club/2999
+CB AL-QAZERES EXTREMADURA | https://www.basquetcatala.cat/club/2996
+EMBUTIDOS PAJARIEL BEMBIBRE PDM | https://www.basquetcatala.cat/club/2995
+CB CONQUERO | https://www.basquetcatala.cat/club/2990
+CB MIFAS VALIDA SIN BARRERAS | https://www.basquetcatala.cat/club/3002
+CB SURESTE GC SANTA LUCIA | https://www.basquetcatala.cat/club/3004
+CLUB ESPORTIU BCR CEM | https://www.basquetcatala.cat/club/3003
+UNES FC BARCELONA | https://www.basquetcatala.cat/club/3001
+QUESOS CERRATO PALENCIA | https://www.basquetcatala.cat/club/3007
+CE SANT NICOLAU | https://www.basquetcatala.cat/club/3006
+CAI PROMESAS ZARAGOZA | https://www.basquetcatala.cat/club/3005
+AMPA ESCOLA ANTONI ROIG | https://www.basquetcatala.cat/club/3008
+CREATIVOS MAR S.L. | https://www.basquetcatala.cat/club/3012
+CONSELL MUNICIPAL DE L'ESPORT ESCOLA I LLEURE | https://www.basquetcatala.cat/club/3010
+ACTIUS IMMOBILIARIS FUNDACIO ESCOLA INTERNACIONAL DEL CAMP, SLU | https://www.basquetcatala.cat/club/3009
+DIPUTACIO DE BARCELONA | https://www.basquetcatala.cat/club/3011
+BIDAIDEAK BILBAO BSR | https://www.basquetcatala.cat/club/3013
+REHAB EUROPA, S.L. | https://www.basquetcatala.cat/club/3015
+CLINICAS RINCON AMIVEL | https://www.basquetcatala.cat/club/3014
+GRUPO EULEN CARREFOUR "EL BULEVAR" DE AVILA | https://www.basquetcatala.cat/club/3019
+CRVENA ZVEZDA TELEKOM BELGRADE | https://www.basquetcatala.cat/club/3021
+GIRAVOLT BAIX CAMP S.L | https://www.basquetcatala.cat/club/3016
+DYNA TECH 2012 SCP | https://www.basquetcatala.cat/club/3017
+CUCURULL PASCUAL SA | https://www.basquetcatala.cat/club/3018
+MACCABI ELECTRA TEL AVIV | https://www.basquetcatala.cat/club/3020
+GALATASARAY LIV HOSPITAL ISTANBUL | https://www.basquetcatala.cat/club/3023
+ZALGIRIS KAUNAS | https://www.basquetcatala.cat/club/3022
+ALBA BERLIN | https://www.basquetcatala.cat/club/3024
+MARC GUASCH FERRANDO | https://www.basquetcatala.cat/club/3026
+GRUP MES SPORT I SERVEIS, S.C.P. | https://www.basquetcatala.cat/club/3027
+INSTITUT JOAN ORO | https://www.basquetcatala.cat/club/3025
+OLYMPIACOS | https://www.basquetcatala.cat/club/3030
+NORWEGIAN BASKETBALL ASSOCIATION | https://www.basquetcatala.cat/club/3028
+UTE DC | https://www.basquetcatala.cat/club/3031
+ABECONSA BASKETMI FERROL | https://www.basquetcatala.cat/club/3029
+MARISTES SANTS LES CORTS FUND. CHAMPAGNAT FP | https://www.basquetcatala.cat/club/3033
+BLATUSA, S.L. | https://www.basquetcatala.cat/club/3034
+CONVENTIA SPAIN S,L. | https://www.basquetcatala.cat/club/3036
+CAMBRILS PARK RESORT, S.L.U. | https://www.basquetcatala.cat/club/3035
+COOPERATIVA DC | https://www.basquetcatala.cat/club/3032
+BADALONA BASQUET BASE | https://www.basquetcatala.cat/club/3037
+CLUB BALONCESTO TIZONA SAD | https://www.basquetcatala.cat/club/3041
+AJUNTAMENT DE LLEIDA - (REGIDORIA DE JOVENTUT) | https://www.basquetcatala.cat/club/3038
+CANTERBURY SCHOOL OF G.C., S.L. | https://www.basquetcatala.cat/club/3039
+EASO SASKIBALOI TALDEA | https://www.basquetcatala.cat/club/3040
+ENRIQUE SOLER | https://www.basquetcatala.cat/club/3044
+FUNDACION CLUB BALONCESTO LEON | https://www.basquetcatala.cat/club/3042
+REAL GRUPO CULTURA COVADONGA | https://www.basquetcatala.cat/club/3043
+FUNDACION EDUCACION E DEPORTE DE SANTIAGO - FEDESA | https://www.basquetcatala.cat/club/3046
+CLUB BALONCESTO MURCIA S.A.D. | https://www.basquetcatala.cat/club/3047
+BILBOKO UNAMUNOSASKIBALOI KLUBA | https://www.basquetcatala.cat/club/3048
+CLUB BALONCESTO IMPRENTA BAHIA | https://www.basquetcatala.cat/club/3053
+C.P. SAN ANTONIO | https://www.basquetcatala.cat/club/3049
+C.B. ROBARI | https://www.basquetcatala.cat/club/3054
+CENTRO NATACION HELIOS | https://www.basquetcatala.cat/club/3050
+C.B. LUCENTUM-ALICANTE SAD | https://www.basquetcatala.cat/club/3052
+CLUB BALONCESTO CLAVIJO | https://www.basquetcatala.cat/club/3056
+C.B. UCA | https://www.basquetcatala.cat/club/3051
+AGRUPACION DEPORTIVA CANTBASKET 04 | https://www.basquetcatala.cat/club/3055
+UNION LINENSE DE BALONCESTO | https://www.basquetcatala.cat/club/3045
+CHINESE BASKETBALL ASSOCIATION | https://www.basquetcatala.cat/club/3058
+ESCUELAS BALONCESTO ALBACETE | https://www.basquetcatala.cat/club/3057
+CLUB DEPORTIVO SAN IGNACIO (SECCION BALONCESTO) | https://www.basquetcatala.cat/club/3059
+CLUB DE BASQUET POBLENOU BARCELONA | https://www.basquetcatala.cat/club/3060
+CLUB BASQUET MANRESA 2015 | https://www.basquetcatala.cat/club/3062
+CLUB BASQUET JOVENTUT DE VALLS | https://www.basquetcatala.cat/club/3063
+ASSOCIACIO BASQUET PER A TOTHOM | https://www.basquetcatala.cat/club/3065
+CLUB BASQUETBOL MOLINS DE REI 2015 | https://www.basquetcatala.cat/club/3061
+MANUEL COLOMA LAMIGUEIRO | https://www.basquetcatala.cat/club/3066
+LIBERTY SEGUROS, S.A. | https://www.basquetcatala.cat/club/3064
+VIROLAI ESPORTIU CLUB BARCELONA | https://www.basquetcatala.cat/club/3069
+GERB BASQUET CLUB | https://www.basquetcatala.cat/club/3067
+FEDERACIO ESPORTIVA DE SORDS DE CATALUNYA | https://www.basquetcatala.cat/club/3068
+ASSOCIACIO BASQUET GORNAL | https://www.basquetcatala.cat/club/3070
+ACEITUNAS FRAGATA MORON | https://www.basquetcatala.cat/club/3073
+COVIRAN GRANADA | https://www.basquetcatala.cat/club/3072
+CLUB BASQUET L'ESQUIROL | https://www.basquetcatala.cat/club/3074
+PICKEN CLARET | https://www.basquetcatala.cat/club/3077
+LET'S GO TO SPAIN, S.L. | https://www.basquetcatala.cat/club/3071
+ESCOLA PIA IGUALADA | https://www.basquetcatala.cat/club/3075
+GERARD SOLE SERRA | https://www.basquetcatala.cat/club/3076
+GRUPO JUANEDA MIRAMAR | https://www.basquetcatala.cat/club/3079
+CCE SANT LLUIS | https://www.basquetcatala.cat/club/3080
+OLIMPICO 64 COLEGIO SANTA GEMA | https://www.basquetcatala.cat/club/3078
+AMPA COL·LEGI AURA | https://www.basquetcatala.cat/club/3083
+CE GLOBAL BASKET VALLES | https://www.basquetcatala.cat/club/3081
+WISLA CAN-PACK | https://www.basquetcatala.cat/club/3086
+ASSOCIACIO ESPORTIVA ESCOLAR LA SALLE DE PALAMOS | https://www.basquetcatala.cat/club/3082
+UMMC EKATERINBURG | https://www.basquetcatala.cat/club/3087
+AJUNTAMENT DE SANT FRUITOS DE BAGES | https://www.basquetcatala.cat/club/3085
+CASTORS BRAINE | https://www.basquetcatala.cat/club/3090
+CLUB DE BASQUETBOL ROSELLA | https://www.basquetcatala.cat/club/3084
+AGU SPOR | https://www.basquetcatala.cat/club/3091
+BOURGES BASKET | https://www.basquetcatala.cat/club/3088
+NADEZHDA | https://www.basquetcatala.cat/club/3089
+ZVVZ USK PRAHA | https://www.basquetcatala.cat/club/3092
+AJUNTAMENT DE GRANOLLERS | https://www.basquetcatala.cat/club/3093
+TEAM SPORTS MANAGEMENT S.L. | https://www.basquetcatala.cat/club/3094
+BSR ACE GRAN CANARIA | https://www.basquetcatala.cat/club/3095
+PINAR KARSIYAKA IZMIR | https://www.basquetcatala.cat/club/3099
+STELMET ZIELONA GORA | https://www.basquetcatala.cat/club/3097
+BSR AMIAB ALBACETE | https://www.basquetcatala.cat/club/3096
+LOKOMOTIV KUBAN KRASNODAR | https://www.basquetcatala.cat/club/3098
+FUNDACIO PER A LA UNIVERSITAT OBERTA DE CATALUNYA | https://www.basquetcatala.cat/club/3100
+CB SURESTE GRAN CANARIA SANTA LUCIA | https://www.basquetcatala.cat/club/3101
+AJUNTAMENT DE MANRESA | https://www.basquetcatala.cat/club/3104
+AMPA SALLE TORREFORTA | https://www.basquetcatala.cat/club/3103
+NOU IDIOMES S.L. (KIDS&US - ST MARTI) | https://www.basquetcatala.cat/club/3102
+KHINKI MOSCOW REGION | https://www.basquetcatala.cat/club/3105
+ABECONSA BASKETMI FERROL | https://www.basquetcatala.cat/club/3108
+AJUTAMENT DE BALSARENY | https://www.basquetcatala.cat/club/3106
+CONSELL ESPORTIU DEL MONTSIA | https://www.basquetcatala.cat/club/3110
+GLOBASKET S.L. | https://www.basquetcatala.cat/club/3113
+BROSE BASKETS | https://www.basquetcatala.cat/club/3114
+ACIDH | https://www.basquetcatala.cat/club/3117
+AMPA INSTITUT COLLBLANC | https://www.basquetcatala.cat/club/3111
+AJUNTAMENT DE VILADECANS | https://www.basquetcatala.cat/club/3109
+CD AMFIV | https://www.basquetcatala.cat/club/3107
+AJUNTAMENT DE BANYOLES | https://www.basquetcatala.cat/club/3118
+CSKA MOSCOW | https://www.basquetcatala.cat/club/3112
+UNIVERSITAT DE BARCELONA (SERVEI D'ESPORTS) | https://www.basquetcatala.cat/club/3116
+CLUB BASQUET CIUTADELLA | https://www.basquetcatala.cat/club/3115
+LABORATORIOS DIAFARM, S.A | https://www.basquetcatala.cat/club/3119
+CB BOSCOS CIUTADELLA | https://www.basquetcatala.cat/club/3122
+HILED QUESO ZAMORANO | https://www.basquetcatala.cat/club/3121
+CLUB BALONCESTO ZARAGOZA | https://www.basquetcatala.cat/club/3123
+FUNDACION BASKET ZARAGOZA 2002 | https://www.basquetcatala.cat/club/3124
+GLOBALCAJA QUINTANAR | https://www.basquetcatala.cat/club/3120
+REAL CANOE NATACION CLUB | https://www.basquetcatala.cat/club/3127
+ASOCIACION DEPORTIVO SANLUQUENA-80 | https://www.basquetcatala.cat/club/3128
+FUNDACION ANDALUZA PARA LA PROMOCION BALONCESTO ARO | https://www.basquetcatala.cat/club/3126
+ESCOLA BASKET XIRIA | https://www.basquetcatala.cat/club/3129
+CLUB DE BASQUET TERRA L'ALFAS DEL PI | https://www.basquetcatala.cat/club/3130
+FEDERACION EXTREMENA DE BALONCESTO | https://www.basquetcatala.cat/club/3125
+CONSELL ESPORTIU DE LA RIBERA D'EBRE | https://www.basquetcatala.cat/club/3131
+AGRUPACION DEPORTIVA MEDIO CUDEYO - RAMON PELAYO | https://www.basquetcatala.cat/club/3132
+CB SANIGNACIO | https://www.basquetcatala.cat/club/3135
+FUNDACION 5+11 FUNDAZIOA | https://www.basquetcatala.cat/club/3133
+FUNDACION LUCENTUM BALONCESTO ALICANTE | https://www.basquetcatala.cat/club/3136
+CLUB BASQUET RAPITENC DELS ALFACS | https://www.basquetcatala.cat/club/3137
+CLUB DE BASKET I RECREATIU LA PALMA | https://www.basquetcatala.cat/club/3138
+CLUB BASQUET VALLROMANES | https://www.basquetcatala.cat/club/3139
+FUNDACIO LLOR | https://www.basquetcatala.cat/club/3141
+CLUB BASQUET CAN PARELLADA | https://www.basquetcatala.cat/club/3140
+CLUB BALONCESTO MYRTIA MURCIA | https://www.basquetcatala.cat/club/3134
+POP IN GROUP S.L. | https://www.basquetcatala.cat/club/3143
+ASSOCIACIO ESPORTIVA ESCOLAR ELISABETH DE SALOU | https://www.basquetcatala.cat/club/3145
+LABORATORIOS HEEL ESPANA, S.A.U. | https://www.basquetcatala.cat/club/3142
+CLUB ESPORTIU FORUM BASQUET LA MINA | https://www.basquetcatala.cat/club/3144
+AJUNTAMENT DE RUBI | https://www.basquetcatala.cat/club/3147
+ASSOCIACIO ESPORTIVA ESCOLAR COL·LEGI LA SEDA DE BARCELONA | https://www.basquetcatala.cat/club/3149
+CLUB ESPORTIU SUBIRATS | https://www.basquetcatala.cat/club/3150
+AGRUPACIO ESPORTIVA CORNELLA DE TERRI | https://www.basquetcatala.cat/club/3148
+A.E.MIREIA-MONTGAT | https://www.basquetcatala.cat/club/3151
+GDKO IBAIZABAL | https://www.basquetcatala.cat/club/3153
+MERKARGI S.L | https://www.basquetcatala.cat/club/3152
+CB GANDIA | https://www.basquetcatala.cat/club/3159
+ADBA | https://www.basquetcatala.cat/club/3156
+CUATRECASAS GONCALVES PEREIRA, S.L.U | https://www.basquetcatala.cat/club/3157
+ALCAZAR BASKET | https://www.basquetcatala.cat/club/3155
+CB ARASKI | https://www.basquetcatala.cat/club/3158
+CB AGUSTINOS | https://www.basquetcatala.cat/club/3160
+RC CELTA ZORKA | https://www.basquetcatala.cat/club/3154
+CB AVILES | https://www.basquetcatala.cat/club/3161
+CLUB ESPORTIU XARXA DE PROMOCIO | https://www.basquetcatala.cat/club/3146
+CB LEON | https://www.basquetcatala.cat/club/3162
+ENSINO LUGO CB | https://www.basquetcatala.cat/club/3163
+AE MURO | https://www.basquetcatala.cat/club/3168
+AJUNTAMENT DE L'ARBOC | https://www.basquetcatala.cat/club/3166
+CB ARXIL | https://www.basquetcatala.cat/club/3164
+CLUB ESPORTIU FERRO | https://www.basquetcatala.cat/club/3165
+CB CALVIA | https://www.basquetcatala.cat/club/3167
+MAMMA TEAM PRODUCTIONS, S.L. | https://www.basquetcatala.cat/club/3169
+FUNDACIO INSTITUT GUTTMANN | https://www.basquetcatala.cat/club/3173
+ROTARY CLUB DE BLANES COSTA BRAVA SUD | https://www.basquetcatala.cat/club/3171
+XARXA AUDIOVISUAL LOCAL, S.L. | https://www.basquetcatala.cat/club/3172
+MARSOPA, S.L. | https://www.basquetcatala.cat/club/3170
+FUNDACIO PRIVADA UNIVERSITARIA ABAT OLIBA CEU | https://www.basquetcatala.cat/club/3177
+BAFSCOM | https://www.basquetcatala.cat/club/3174
+FUNDACIO PRIVADA LAIES | https://www.basquetcatala.cat/club/3175
+NESTLE ESPANA, S.A. | https://www.basquetcatala.cat/club/3176
+ASSOCIACIO ESPORTIVA ESCOLAR IES MOIANES | https://www.basquetcatala.cat/club/3179
+FRANCESC ESCOLA SOLA | https://www.basquetcatala.cat/club/3182
+ASSOCIACIO EUROPROBASKET | https://www.basquetcatala.cat/club/3178
+SERVAUTO CONCESIONARI, S.L. | https://www.basquetcatala.cat/club/3181
+FUNDACION SPECIAL OLYMPICS ESPANA | https://www.basquetcatala.cat/club/3180
+FEDERACIO CATALANA DE PETANCA | https://www.basquetcatala.cat/club/3183
+VALENTIN GARCIA, OSCAR | https://www.basquetcatala.cat/club/3184
+TORNEIG DE CLOENDA 2017 | https://www.basquetcatala.cat/club/3187
+TROPS, SCCL | https://www.basquetcatala.cat/club/3185
+CLUB BASQUET CRISTINENC | https://www.basquetcatala.cat/club/3190
+ASSOCIACIO ESPORTIVA MANYANET MOLINS | https://www.basquetcatala.cat/club/3188
+AMPA ESCOLA ARQUITECTE JUJOL | https://www.basquetcatala.cat/club/3196
+ASSOCIACIO ESPORTIVA BASQUETBOL LA PALMA DE CERVELLO | https://www.basquetcatala.cat/club/3189
+AFA ESCOLA LA CANALETA | https://www.basquetcatala.cat/club/3195
+AMPA ESCOLA DOMINIQUES DE L'ENSENYAMENT | https://www.basquetcatala.cat/club/3191
+CLUB BASQUET KOBRAS | https://www.basquetcatala.cat/club/3192
+UNIVERSITAT POLITECNICA DE CATALUNYA (SERVEI D'ESPORTS) | https://www.basquetcatala.cat/club/3198
+CLUB JOVENTUT BADALONA SAD | https://www.basquetcatala.cat/club/3194
+ASSOCIACIO DE MARES I PARES D'ALUMNES DEL COL·LEGI SAGRAT COR SARRIA | https://www.basquetcatala.cat/club/3193
+AMPA ESCOLA TARRAGONA | https://www.basquetcatala.cat/club/3197
+GOOGLE IRELAND LTD | https://www.basquetcatala.cat/club/3200
+3 POC CONSULTING S.L. | https://www.basquetcatala.cat/club/3201
+AMPA COL·LEGI SANT DOMENECH DE GUZMAN | https://www.basquetcatala.cat/club/3199
+A.PEREZ Y CIA., S.L | https://www.basquetcatala.cat/club/3203
+OZONE BOWLING LLEIDA, S.L. | https://www.basquetcatala.cat/club/3207
+TELE RADIO TAXI LLEIDA SCCL | https://www.basquetcatala.cat/club/3205
+OBRADOIRO CAB S.A.D. | https://www.basquetcatala.cat/club/3202
+FED. D'ASSOC. DE COMERC. DE L'EIX COMERCIAL DE LLEIDA | https://www.basquetcatala.cat/club/3204
+GALERIA ESPAI CAVALLERS | https://www.basquetcatala.cat/club/3206
+CONSELL ESPORTIU DE LA GARROTXA | https://www.basquetcatala.cat/club/3208
+MORA BONJORN, S.L. | https://www.basquetcatala.cat/club/3210
+CB L'HORTA GODELLA | https://www.basquetcatala.cat/club/3212
+CD GRUPO 76 - ALKAZAR | https://www.basquetcatala.cat/club/3211
+ASOCIACION BALONCESTO QUINTILIANO | https://www.basquetcatala.cat/club/3209
+CDE DOCTOR AZUA | https://www.basquetcatala.cat/club/3213
+CLUB BALONCESTO EL PALO | https://www.basquetcatala.cat/club/3214
+ASSOCIACIO ESPORTIVA DE BASQUET LA SALLE PALMA | https://www.basquetcatala.cat/club/3216
+OBRADOIRO CLUB AMIGOS DEL BALONCESTO (CAB) | https://www.basquetcatala.cat/club/3215
+CLUB DEPORTIVO MUTILBASKET | https://www.basquetcatala.cat/club/3218
+C.B.1939 CANARIA SAB | https://www.basquetcatala.cat/club/3219
+CLUB DEPORTIVO SDC - SANTO DOMINGO TENERIFE | https://www.basquetcatala.cat/club/3220
+SOCIEDAD DEPORTIVA TUI | https://www.basquetcatala.cat/club/3217
+UNIVERSITAT DE LLEIDA (AREA DE COMUNICACIO I REL. INSTITUCIONALS) | https://www.basquetcatala.cat/club/3229
+BARCINO SOLUCIONS GRAFIQUES, S.L. | https://www.basquetcatala.cat/club/3225
+AJUNTAMENT DE GIRONA | https://www.basquetcatala.cat/club/3227
+SERVICIOS COMPLEMENTARIOS DE ENSENANZA | https://www.basquetcatala.cat/club/3221
+ANGR BASKET CAFE, S.L. | https://www.basquetcatala.cat/club/3223
+ASD EUROSPORTEVENTS | https://www.basquetcatala.cat/club/3226
+FUNDACIO ESCOLAPIES | https://www.basquetcatala.cat/club/3224
+PODOACTIVA, S.L. | https://www.basquetcatala.cat/club/3228
+TORNEIG DE CLOENDA 2018 | https://www.basquetcatala.cat/club/3222
+AJUNTAMENT DEL MASNOU | https://www.basquetcatala.cat/club/3230
+PLATAFORMA PRO SELECCIONS ESPORTIVES CATALANES | https://www.basquetcatala.cat/club/3231
+JOCVIU ASSOCIACIO | https://www.basquetcatala.cat/club/3232
+EL MUNDO DEPORTIVO, S.A.U. | https://www.basquetcatala.cat/club/3234
+AJUNTAMENT DE REUS - REGIDORIA D'ESPORTS | https://www.basquetcatala.cat/club/3235
+INSTITUT BARCELONA ESPORTS | https://www.basquetcatala.cat/club/3233
+REPLAY IMATGE I TELEVISIO S.L. | https://www.basquetcatala.cat/club/3237
+CLUB ESPORTIU LES PANTERES GROGUES | https://www.basquetcatala.cat/club/3236
+ASSOCIACIO DE VEINS DE L'EIXAMPLE DE SABADELL | https://www.basquetcatala.cat/club/3239
+GRUP CORACHAN, AIE | https://www.basquetcatala.cat/club/3238
+GANG EVENTS AND INVESTMENTS, S.L. | https://www.basquetcatala.cat/club/3240
+COMPANIA TRANSMEDITERRANEA. S.A. | https://www.basquetcatala.cat/club/3241
+HOSPIBARNA SPORTS EVENTS, S.L. | https://www.basquetcatala.cat/club/3242
+UNIO D'ENTITATS LA MARINA | https://www.basquetcatala.cat/club/3244
+BASKET SCHOOL | https://www.basquetcatala.cat/club/3250
+FEDERACION ARAGONESA DE BALONCESTO | https://www.basquetcatala.cat/club/3243
+CIUDAD MOLINA BASKET | https://www.basquetcatala.cat/club/3248
+CLUB MELILLA BALONCESTO | https://www.basquetcatala.cat/club/3253
+CLUB LOIOLA INDAUTXU (BALONCESTO) | https://www.basquetcatala.cat/club/3252
+LARRAONA CLARET | https://www.basquetcatala.cat/club/3249
+AD BOSCO | https://www.basquetcatala.cat/club/3247
+CB SOLARES | https://www.basquetcatala.cat/club/3251
+BASQUET MANACOR | https://www.basquetcatala.cat/club/3246
+AJUNTAMENT DE LLEIDA | https://www.basquetcatala.cat/club/3254
+EV MMC SPAIN, S.L.U. | https://www.basquetcatala.cat/club/3245
+ACEB S.A. UNIPERSONAL | https://www.basquetcatala.cat/club/3259
+UNIFEDESPORT, CORREDURIA D'ASSEGURANCES S.A. | https://www.basquetcatala.cat/club/3263
+CASINO DEL MASNOU | https://www.basquetcatala.cat/club/3258
+AJUNTAMENT DE TORREFARRERA | https://www.basquetcatala.cat/club/3255
+GESTION COMERCIAL NECASER S.L. | https://www.basquetcatala.cat/club/3261
+ACTIVIDADES DE OCIO Y EDUCACION | https://www.basquetcatala.cat/club/3257
+CLUB DEPORTIVO BASKET LEON 2015 | https://www.basquetcatala.cat/club/3260
+SM GENOMICS S.L. | https://www.basquetcatala.cat/club/3262
+GLOBALIA CORPORATE TRAVEL, SLU | https://www.basquetcatala.cat/club/3266
+FEDERACIO DE BASQUET DE LES ILLES BALEARS | https://www.basquetcatala.cat/club/3256
+DIAGNOSIS, S.A. | https://www.basquetcatala.cat/club/3265
+PATRONAT DE TURISME COSTA BRAVA GIRONA S.A | https://www.basquetcatala.cat/club/3271
+FUNDACIO SANT NICOLAU | https://www.basquetcatala.cat/club/3268
+AON GIL Y CARVAJAL S.A.CORRED.DE SEGUROS | https://www.basquetcatala.cat/club/3264
+FUNDACION SPECIAL OLYMPICS ESPANA | https://www.basquetcatala.cat/club/3270
+FEDERACIO TAULA D'ESPORTS DE LA MARINA | https://www.basquetcatala.cat/club/3267
+C.E. MAGICS | https://www.basquetcatala.cat/club/3269
+VALLDOREIX FUTBOL CLUB | https://www.basquetcatala.cat/club/3273
+CLUB BASQUET LA LLAGOSTA 2017 | https://www.basquetcatala.cat/club/3275
+FUNDACIO PRIVADA SANT GERVASI | https://www.basquetcatala.cat/club/3274
+FUNDACIO AULA ESCOLA EUROPEA | https://www.basquetcatala.cat/club/3272
+ASSOCIACIO BASQUET RONCANA 2018 | https://www.basquetcatala.cat/club/3277
+CLUB ESPORTIU FEM ESPORT MATARO | https://www.basquetcatala.cat/club/3278
+CLUB DEPORTIU ESPANYOL SENTIMENT PERICO | https://www.basquetcatala.cat/club/3276
+FOMENT ESPORTIU CORNELLA DEL TERRI | https://www.basquetcatala.cat/club/3283
+FUNDACIO TARRAGONA 2017 | https://www.basquetcatala.cat/club/3279
+CLUB BASQUET L'AMETLLA DE MAR | https://www.basquetcatala.cat/club/3281
+CLUB ESPORTIU JESUITES EL CLOT | https://www.basquetcatala.cat/club/3280
+CLUB BASQUET ESPORTIU VEDRUNA PALAMOS | https://www.basquetcatala.cat/club/3282
+CLUB ESPORTIU LYCEE FRANCAIS GAVA BON SOLEIL | https://www.basquetcatala.cat/club/3285
+FUNDACIO PRIVADA AMICS DEL COL·LEGI MARE NOSTRUM | https://www.basquetcatala.cat/club/3284
+ACEB, S.A.U. | https://www.basquetcatala.cat/club/3286
+FIBA | https://www.basquetcatala.cat/club/3287
+MVM SPORTS GROUP SL | https://www.basquetcatala.cat/club/3288
+RODI METRO S.L. | https://www.basquetcatala.cat/club/3294
+BAC DE RODA SPORT, S.L. | https://www.basquetcatala.cat/club/3293
+CE COSTA DAURADA | https://www.basquetcatala.cat/club/3289
+BAMESAD | https://www.basquetcatala.cat/club/3291
+COMKEDEM | https://www.basquetcatala.cat/club/3290
+MASTERS FCEDF | https://www.basquetcatala.cat/club/3292
+COL·LEGI MARE DE DEU DEL CARME | https://www.basquetcatala.cat/club/3295
+BAHIA DE CADIZ | https://www.basquetcatala.cat/club/3297
+CB MENORCA | https://www.basquetcatala.cat/club/3298
+LEGABASKET FUNDACION DEPORTE INTEGRA LAS ROZAS | https://www.basquetcatala.cat/club/3296
+CLUB ELIMINATORIAS LOCAL | https://www.basquetcatala.cat/club/3302
+COL·LEGI BADALONES | https://www.basquetcatala.cat/club/3299
+AJUNTAMENT D'IGUALADA | https://www.basquetcatala.cat/club/3300
+CB BSR VISTAZUL | https://www.basquetcatala.cat/club/3301
+CLUB ELIMINATORIAS VISITANTE | https://www.basquetcatala.cat/club/3303
+TECNIFUTBOL 2010, SL | https://www.basquetcatala.cat/club/3306
+SANCHEZ DOMENECH, JOAQUIM | https://www.basquetcatala.cat/club/3305
+CSM TERRES DE LLEIDA S.L. | https://www.basquetcatala.cat/club/3308
+OSCAR PEDROCHE CASADO | https://www.basquetcatala.cat/club/3304
+TORNEIG CLOENDA | https://www.basquetcatala.cat/club/3307
+NAYOX 2000, S.L. | https://www.basquetcatala.cat/club/3309
+CAFES PONT, S.L. | https://www.basquetcatala.cat/club/3310
+HOTEL ZENIT LERIDA C.B. | https://www.basquetcatala.cat/club/3311
+CLUB ESPORTIU SFERIC BASQUET | https://www.basquetcatala.cat/club/3313
+GIMNAS LLEIDA S.L. | https://www.basquetcatala.cat/club/3312
+MARTIN DE SOTO MORENO, ANGEL | https://www.basquetcatala.cat/club/3315
+CLUB DE FUTBOL MEDIONA | https://www.basquetcatala.cat/club/3317
+CLUB BASQUET ALCOVER | https://www.basquetcatala.cat/club/3318
+SECCIO ESPORTIVA ESPORTXTOTHOM-CANYELLES | https://www.basquetcatala.cat/club/3314
+AJUNTAMENT DE PALAMOS | https://www.basquetcatala.cat/club/3319
+A.E.E. INSTITUT MONTSERRAT | https://www.basquetcatala.cat/club/3321
+CLUB DE FUTBOL TURO-MONTROIG | https://www.basquetcatala.cat/club/3320
+DHD SPORTS FIXTURES | https://www.basquetcatala.cat/club/3316
+ASSOCIACIO ESPORTIVA XAVI ESTRADA | https://www.basquetcatala.cat/club/3324
+AULA32 CONSULTING SL | https://www.basquetcatala.cat/club/3322
+UNIVERSITAT AUTONOMA DE BARCELONA | https://www.basquetcatala.cat/club/3323
+FEDERACIO CATALANA DE PETANCA | https://www.basquetcatala.cat/club/3325
+CLINICA GIRONA | https://www.basquetcatala.cat/club/3328
+AQUADIRECT BLUE PLANET S.L. | https://www.basquetcatala.cat/club/3326
+AJUNTAMENT DE SALT | https://www.basquetcatala.cat/club/3327
+CLUB ESPORTIU ROCABRUNA | https://www.basquetcatala.cat/club/3330
+ASSOCIACIO ESPORTIVA NOU BASQUET SANT SADURNI 2020 | https://www.basquetcatala.cat/club/3331
+CLUB BASQUET LLORENC | https://www.basquetcatala.cat/club/3333
+CLUB BALONCESTO ISLAS CANARIAS | https://www.basquetcatala.cat/club/3334
+CLUB ESPORTIU SALESIANS SABADELL | https://www.basquetcatala.cat/club/3337
+SPORTS CUP BASKET 2020, SL. | https://www.basquetcatala.cat/club/3329
+ASSOCIACIO EIXIC LLEURE I ESPORT | https://www.basquetcatala.cat/club/3336
+CLUB BASQUET BELLVITGE 2018 | https://www.basquetcatala.cat/club/3332
+UNIO DE FEDERACIONS ESPORTIVES DE CATALUNYA | https://www.basquetcatala.cat/club/3335
+TUTELLUS TECHNOLOGIES, SL | https://www.basquetcatala.cat/club/3341
+CLUB DE BASQUET TURO DE LA PEIRA | https://www.basquetcatala.cat/club/3340
+OPTIMA SPORT MEDIA | https://www.basquetcatala.cat/club/3339
+CORPORACION DE RADIO Y TELEVISION ESPANOLA SA SME | https://www.basquetcatala.cat/club/3345
+FUNDACIO ILURO | https://www.basquetcatala.cat/club/3342
+EUNCET FORMACIO, S.L. | https://www.basquetcatala.cat/club/3338
+ASSOCIACIO CATALANA DE PITCH&PUTT | https://www.basquetcatala.cat/club/3344
+BANCO BILBAO VIZCAYA ARGENTARIA | https://www.basquetcatala.cat/club/3346
+FEDERACIO CATALANA DE PITCH&PUTT | https://www.basquetcatala.cat/club/3343
+FUNDACIO UBAE | https://www.basquetcatala.cat/club/3347
+INSTITUCIO TARRAGONA | https://www.basquetcatala.cat/club/3348
+AJUNTAMENT DE L'HOSPITALET - SERVEI D'ESPORT I JOVENTUT | https://www.basquetcatala.cat/club/3350
+ALDAMA CAPARROS, FRANCISCO | https://www.basquetcatala.cat/club/3351
+CD AMIGOS DE BALONCESTO ESTEPONA | https://www.basquetcatala.cat/club/3349
+ILAB17 LABORATORI DENTAL S.L. (SPORTBUC) | https://www.basquetcatala.cat/club/3353
+ASSOCIACIO ESPORTIVA DE FUTBOL EN MARXA | https://www.basquetcatala.cat/club/3352
+DIPUTACIO DE LLEIDA | https://www.basquetcatala.cat/club/3355
+MANRESA CLUB BASQUET FEMENI 2021 | https://www.basquetcatala.cat/club/3356
+AUTOBUSOS DE LLEIDA SA - GRUP MOVENTIS | https://www.basquetcatala.cat/club/3354
+FUNDACION VALENCIA BASQUET 2000 | https://www.basquetcatala.cat/club/3359
+CONSELL COMARCAL DEL SEGRIA | https://www.basquetcatala.cat/club/3358
+CENTRO NATACION HELIOS (SECCION DE BALONCESTO) | https://www.basquetcatala.cat/club/3357
+CLUB BALONCESTO FEMENINO LEON | https://www.basquetcatala.cat/club/3361
+CLUB DEPORTIVO PONCE VALLADOLID BTO | https://www.basquetcatala.cat/club/3360
+FUNDACION JESUS MARIA - EL SALVADOR | https://www.basquetcatala.cat/club/3363
+CLUB DEPORTIVO BASICO LA SALLE EL CARMEN MELILLA | https://www.basquetcatala.cat/club/3365
+LK LAGUNA | https://www.basquetcatala.cat/club/3367
+CLUB DEPORTIVO BOSCO | https://www.basquetcatala.cat/club/3364
+UNITS PEL BASQUET GANDIA | https://www.basquetcatala.cat/club/3368
+FUNDACION SAN FERNANDO | https://www.basquetcatala.cat/club/3370
+FUNDACION PROMETE | https://www.basquetcatala.cat/club/3369
+CLUB DEPORTIVO BALONCESTO AROS | https://www.basquetcatala.cat/club/3362
+CP AGUSTINOS | https://www.basquetcatala.cat/club/3371
+EB CRIPTANA | https://www.basquetcatala.cat/club/3372
+CLUB DE BASQUET TURO DE LA PEIRA | https://www.basquetcatala.cat/club/3373
+SECCIO ESPORTIVA FEC VALL DEL TER DE LA FUNDACIO ESPORTIVA CAMPRODON | https://www.basquetcatala.cat/club/3376
+AJUNTAMENT DE BALAGUER | https://www.basquetcatala.cat/club/3377
+SECCIO ESPORTIVA ESCOLA PIA SANT ANTONI | https://www.basquetcatala.cat/club/3375
+AGRUPACION DEPORTIVA BALONCESTO AVILES | https://www.basquetcatala.cat/club/3378
+FEDERACIO ANDORRANA DE BASQUETBOL | https://www.basquetcatala.cat/club/3380
+AJUNTAMENT DE CALLUS | https://www.basquetcatala.cat/club/3374
+CLUB BASQUET VALL DEL TERRI | https://www.basquetcatala.cat/club/3382
+GERNIKA KESB | https://www.basquetcatala.cat/club/3366
+C.B. BON PASTOR-FPBC | https://www.basquetcatala.cat/club/3381
+AJUNTAMENT DE TORELLO | https://www.basquetcatala.cat/club/3379
+CLUB SARROCA BASQUET | https://www.basquetcatala.cat/club/3384
+S.A DAMM | https://www.basquetcatala.cat/club/3386
+BASQUET CLUB ENCAMP | https://www.basquetcatala.cat/club/3390
+FEDERACIO CATALANA DE GOLF | https://www.basquetcatala.cat/club/3388
+COLLA VELLA DELS XIQUETS DE VALLS | https://www.basquetcatala.cat/club/3391
+MOTORSOL, S.A | https://www.basquetcatala.cat/club/3393
+FEDERACIO CATALANA DE PIRAGUISME | https://www.basquetcatala.cat/club/3387
+FARLAWSPORTS BASKET TEAM TARRACONENSIS CLUB DE BASQUET | https://www.basquetcatala.cat/club/3383
+FEDERACIO DE COLLES DE SANT MEDIR | https://www.basquetcatala.cat/club/3394
+AMPA COL·LEGI AURA | https://www.basquetcatala.cat/club/3392
+TRANSPORTS GENERALS D'OLESA, SAU | https://www.basquetcatala.cat/club/3395
+CLUB ESPORTIU ELS PALLARESOS ES MOU | https://www.basquetcatala.cat/club/3396
+CLUB EQUIPS FICTICIS | https://www.basquetcatala.cat/club/3397
+UNITED SPORTS BRANDS EUROPE | https://www.basquetcatala.cat/club/3389
+ALLIANZ SE | https://www.basquetcatala.cat/club/3400
+AJUNTAMENT DE CALDES DE MALAVELLA | https://www.basquetcatala.cat/club/3402
+TIM ANDORRA ABRIL 2022 | https://www.basquetcatala.cat/club/3404
+PORT AVENTURA ENTERTAINMENT SAU | https://www.basquetcatala.cat/club/3399
+TROBADA SEA | https://www.basquetcatala.cat/club/3403
+TELECYL, S.A | https://www.basquetcatala.cat/club/3406
+COMU D'ANDORRA LA VELLA (DEPARTAMENT D'ESPORTS) | https://www.basquetcatala.cat/club/3405
+UNIVERSITAT RAMON LLULL FUNDACIO | https://www.basquetcatala.cat/club/3398
+TORNEIG DE CASTELLDEFELS | https://www.basquetcatala.cat/club/3401
+AJUNTAMENT DE MANLLEU | https://www.basquetcatala.cat/club/3407
+AJUNTAMENT DE LLICA D'AMUNT | https://www.basquetcatala.cat/club/3408
+CDF LIONESS BASKETBAL | https://www.basquetcatala.cat/club/3409
+CB AL-QZERES | https://www.basquetcatala.cat/club/3410
+CLUB NRTA. SRA. DEL BUEN CONSEJO | https://www.basquetcatala.cat/club/3412
+CD SAN BLAS | https://www.basquetcatala.cat/club/3411
+CLUB DEPORTIVO CALASANZ | https://www.basquetcatala.cat/club/3414
+CB CEI TOLEDO UNIVERSIDAD LABORAL | https://www.basquetcatala.cat/club/3416
+CLUB CIUDAD MOLINA BASKET | https://www.basquetcatala.cat/club/3418
+FUNDACION NAVARRA BALONCESTO ARDOI | https://www.basquetcatala.cat/club/3417
+AD TORRELODONES | https://www.basquetcatala.cat/club/3413
+CB CLARINOS DE LA LAGUNA | https://www.basquetcatala.cat/club/3415
+CD BALONCESTO SEVILLA FEMENINO | https://www.basquetcatala.cat/club/3419
+OCTAVIO MARIN BADIA | https://www.basquetcatala.cat/club/3422
+APOLLONIA TOPCO, S.L.U | https://www.basquetcatala.cat/club/3420
+ESCUELAS SALESIANAS SAN JOSE | https://www.basquetcatala.cat/club/3425
+INVALCOR | https://www.basquetcatala.cat/club/3421
+CLUB ESPORTIU JESUITES GRACIA-KOSTKA | https://www.basquetcatala.cat/club/3427
+CLUB ESPORTIU SAGRAT COR DIPUTACIO | https://www.basquetcatala.cat/club/3426
+CLUB DEPORTIVO BASKET ZARAGOZA | https://www.basquetcatala.cat/club/3423
+CLUB BASQUET L'ALDEA | https://www.basquetcatala.cat/club/3424
+ASSOCIACIO ESPORTIVA SANT NICOLAU CANYELLES | https://www.basquetcatala.cat/club/3428
+DREAM TEAM ITALY, SRL | https://www.basquetcatala.cat/club/3429
+NOMADBALL | https://www.basquetcatala.cat/club/3430
+ASOCIACIO CLUBS DE BALONCESTO | https://www.basquetcatala.cat/club/3431
+ASOCIACION CULTURAL DEL COLEGIO ALEMAN SAN ALBERTO MAGNO | https://www.basquetcatala.cat/club/3434
+MEDIAPRODUCCION S.L.U | https://www.basquetcatala.cat/club/3437
+AJUNTAMENT DE TIANA | https://www.basquetcatala.cat/club/3432
+CLUB DEPORTIVO AYR TARRAGONA | https://www.basquetcatala.cat/club/3433
+AJUNTAMENT DE SABADELL | https://www.basquetcatala.cat/club/3435
+BASQUET FPBC | https://www.basquetcatala.cat/club/3436
+AJUNTAMENT DE MATARO | https://www.basquetcatala.cat/club/3438
+AJUNTAMENT DE VIC | https://www.basquetcatala.cat/club/3439
+PANINI ESPANA, S.A. | https://www.basquetcatala.cat/club/3440
+AJUNTAMENT DE TARRAGONA | https://www.basquetcatala.cat/club/3441
+FUNDACIO AITO GARCIA RENESES | https://www.basquetcatala.cat/club/3445
+EUSEBI FRANCH ARNAU | https://www.basquetcatala.cat/club/3447
+HC2M BUSINESS SLU | https://www.basquetcatala.cat/club/3446
+CAMBRILS PARK RESORT S.L.U | https://www.basquetcatala.cat/club/3443
+ASSOCIACIO DE COMERCIANTS I EMPRESARIS EL COR DE LES CORTS | https://www.basquetcatala.cat/club/3442
+FUNDACION BALONCESTO COLEGIAL | https://www.basquetcatala.cat/club/3450
+CONSELL ESPORTIU DE L'ALT EMPORDA | https://www.basquetcatala.cat/club/3448
+ASSOCIACIO DE JOVES DIRIGENTS CATALANS | https://www.basquetcatala.cat/club/3451
+CLUB BASKET BALAFIA | https://www.basquetcatala.cat/club/3449
+AJUNTAMENT DEL VENDRELL | https://www.basquetcatala.cat/club/3444
+ACEBSA | https://www.basquetcatala.cat/club/3454
+IACCES IBERIA S.L. | https://www.basquetcatala.cat/club/3453
+W2M CORPORATE S.L.U | https://www.basquetcatala.cat/club/3456
+CLUB ESPORTIU MOSSOS D'ESQUADRA | https://www.basquetcatala.cat/club/3455
+HUDSON CAPITAL, SLU | https://www.basquetcatala.cat/club/3452
+CLUB NAUTIC EL BALIS | https://www.basquetcatala.cat/club/3457
+ESQUERRA REPUBLICANA DE CATALUNYA | https://www.basquetcatala.cat/club/3460
+ASSOCIACIO FAMILIA I SALUT MENTAL DE GIRONA I COMARQUES | https://www.basquetcatala.cat/club/3461
+CAIXABANK, S.A. | https://www.basquetcatala.cat/club/3459
+S.E. ESCUELAS SALESIANAS SAN JUAN BOSCO | https://www.basquetcatala.cat/club/3462
+AJUNTAMENT DE SALOU | https://www.basquetcatala.cat/club/3458
+FUNDACIO VEDRUNA CATALUNYA EDUCACIO | https://www.basquetcatala.cat/club/3464
+ASSOCIACIO ESPORTIVA ARRAHONA | https://www.basquetcatala.cat/club/3463
+MOTOR MUNICH CADI S.L. | https://www.basquetcatala.cat/club/3466
+DE LA VEGA PERNAS, ALEJANDRO | https://www.basquetcatala.cat/club/3467
+AJUNTAMENT DE PIERA | https://www.basquetcatala.cat/club/3468
+MADBASKET STORE S.L. | https://www.basquetcatala.cat/club/3469
+MOTOR MUNICH, S.A. | https://www.basquetcatala.cat/club/3465
+TALLERS BALLUS, S.L. | https://www.basquetcatala.cat/club/3471
+CLUB BASQUET COSTA DAURADA | https://www.basquetcatala.cat/club/3470
+BASQUET FPBC | https://www.basquetcatala.cat/club/3472
+SALAS GARCIA, FRANCISCO | https://www.basquetcatala.cat/club/3473
+CLUB DE BASQUET OLIANA | https://www.basquetcatala.cat/club/3475
+ASSOCIACIO ESPORTIVA BELLCAIRE D'URGELL 2023 | https://www.basquetcatala.cat/club/3474
+UNION DEPORTIVA SAN MAURO | https://www.basquetcatala.cat/club/3476
+CLUB IMPORTACIONES FEB | https://www.basquetcatala.cat/club/3477
+3X3 CAMBRILS | https://www.basquetcatala.cat/club/3478
+COMITE TERRITORIAL AUDE PYRENEES ORIENTALES BASKETBALL | https://www.basquetcatala.cat/club/3479
+FUNDACIO BARCELONA PROMOCIO | https://www.basquetcatala.cat/club/3481
+ASSOCIACIO DE VEINS MOLINS-TORNER-PRIMER DE MAIG | https://www.basquetcatala.cat/club/3480
+AJUNTAMENT DE LES BORGES BLANQUES | https://www.basquetcatala.cat/club/3482
+23 BASKETBALL SL | https://www.basquetcatala.cat/club/3484
+AFA AURO | https://www.basquetcatala.cat/club/3485
+MARTINEZ ROMERA, ANGEL MANUEL | https://www.basquetcatala.cat/club/3483
+ESTUDIANTES | https://www.basquetcatala.cat/club/3487
+TORNEIG CIUTAT DE L'HOSPITALET | https://www.basquetcatala.cat/club/3486
+MOLINET | https://www.basquetcatala.cat/club/3488
+EDUCESA, S.L. | https://www.basquetcatala.cat/club/3491
+INSTITUT FERRAN TALLADA BARCELONA | https://www.basquetcatala.cat/club/3492
+VELERO AZUL, S.A. | https://www.basquetcatala.cat/club/3490
+FUTSAL EVENTS, S.L. | https://www.basquetcatala.cat/club/3489
+INSTITUT CAR SANT CUGAT | https://www.basquetcatala.cat/club/3493
+GENERALITAT DE CATALUNYA (DEPARTAMENT D'IGUALTAT I FENINISMES) | https://www.basquetcatala.cat/club/3494
+LOTERIES DE CATALUNYA, SAU | https://www.basquetcatala.cat/club/3495
+ASOCIACION BALONCESTO 3X3 | https://www.basquetcatala.cat/club/3497
+UNIVERSITAT POMPEU FABRA | https://www.basquetcatala.cat/club/3496
+IQS - CETS FUNDACION PRIVADA | https://www.basquetcatala.cat/club/3498
+EUROLEAGUE ENTERTAINMENT & SERVICES | https://www.basquetcatala.cat/club/3499
+PATRONAT MUNICIPAL D'ESPORTS DE LES FRANQUESES DEL VALLES | https://www.basquetcatala.cat/club/3501
+TWENTYFOUR SEVEN GROUP S.L. | https://www.basquetcatala.cat/club/3502
+VALORUS SPORTS, S.L. | https://www.basquetcatala.cat/club/3500
+INSTITUT PALLEJA | https://www.basquetcatala.cat/club/3505
+PROACTIV S.L. | https://www.basquetcatala.cat/club/3503
+SECCIO ESPORTIVA COMUNIDAD LA SALLE BONANOVA | https://www.basquetcatala.cat/club/3504
+AJUNTAMENT TORRE-SERONA | https://www.basquetcatala.cat/club/3507
+GRUP MEDIAPRO, S.L.U. | https://www.basquetcatala.cat/club/3508
+ARTALEJO SOLUTIONS, S.L. | https://www.basquetcatala.cat/club/3509
+INSTITUT PREMIA DE MAR | https://www.basquetcatala.cat/club/3506
+ASSOCIACIO TRIPLE | https://www.basquetcatala.cat/club/3510
+FUNDACIO PRIVADA ESPORTIVA C.E. LAIETA | https://www.basquetcatala.cat/club/3512
+CLUB ESPORTIU ELS PALLARESOS ES MOU | https://www.basquetcatala.cat/club/3511
+CLUB BASQUET GIRONA 2014 SAD | https://www.basquetcatala.cat/club/3513
+CENTRE CULTURAL I RECREATIU DE CASTELLDEFELS | https://www.basquetcatala.cat/club/3514
+REED & MACKAY ESPANA SAU | https://www.basquetcatala.cat/club/3518
+AJUNTAMENT DE CUBELLES | https://www.basquetcatala.cat/club/3516
+ASPROSEAT ASSOCIACIO | https://www.basquetcatala.cat/club/3517
+CLUB BASQUET RIUDOMS | https://www.basquetcatala.cat/club/3520
+ASSOCIACIO ESPORTIVA CASTELLVI DE LA MARCA | https://www.basquetcatala.cat/club/3521
+LATVIAN BASKETBALL ASSOCIATION | https://www.basquetcatala.cat/club/3519
+TALENT & SOLIDARITY GROUP SL | https://www.basquetcatala.cat/club/3515
+CLUB DE BASQUET SANT GABRIEL DE RIPOLLET | https://www.basquetcatala.cat/club/3522
+CENTRAL DE PROYECTOS 3X3 | https://www.basquetcatala.cat/club/3524
+FUNDACIO BASQUET GIRONA | https://www.basquetcatala.cat/club/3523
+FRANCESCO ALFIER | https://www.basquetcatala.cat/club/3528
+PATRONAT DE TURISME DIPUTACIO DE TARRAGONA | https://www.basquetcatala.cat/club/3530
+AJUNTAMENT DE SANT HILARI DE SACALM | https://www.basquetcatala.cat/club/3526
+FOREIGN MAGIC TOURS LIMITED | https://www.basquetcatala.cat/club/3525
+ASSOCIACIO FOMENT BASQUET PINYAR CASTELLAR | https://www.basquetcatala.cat/club/3533
+ALANNIA SALOU, S.L. | https://www.basquetcatala.cat/club/3531
+JOLSSEN EVENTS, S.L. | https://www.basquetcatala.cat/club/3527
+ROJAS SOTO, ANGEL | https://www.basquetcatala.cat/club/3532
+AJUNTAMENT DE LLINARS DEL VALLES | https://www.basquetcatala.cat/club/3529
+ASSOCIACIO CATALANA DE BASQUETBOL COL·LEGIAL | https://www.basquetcatala.cat/club/3534
+TRES EMES MIGUEL MARTIN MARTOS S.L. | https://www.basquetcatala.cat/club/3535
+IGUALADA CITY 2023 CLUB ESPORTIU | https://www.basquetcatala.cat/club/3542
+UNIVERSITAT ROVIRA I VIRGILI | https://www.basquetcatala.cat/club/3536
+A.E. 3X3 BARCELONA | https://www.basquetcatala.cat/club/3543
+BBALL C3NT3R SD | https://www.basquetcatala.cat/club/3544
+NEUS PADILLA JUST | https://www.basquetcatala.cat/club/3540
+CLUB PATINATGE ARTISTIC SILS | https://www.basquetcatala.cat/club/3538
+CLUB DEPORTIVO FEDERADO VALLADOLID 3X3 | https://www.basquetcatala.cat/club/3545
+CLUB BASQUET MATARO ESPORTIVA SOMGROCS | https://www.basquetcatala.cat/club/3541
+SERVEIS I L'ESPECTACLE FOCUS S.A. | https://www.basquetcatala.cat/club/3539
+FEDERACIO ESPANOLA DE DEPORTES PARA PERSONAS CON DISCAPACIDAD INTELECTUAL (FEDDI) | https://www.basquetcatala.cat/club/3546
+JOAQUIN ALVAREZ SPORTOP SL | https://www.basquetcatala.cat/club/3548
+CLUB ESPORTIU INFANT JESUS | https://www.basquetcatala.cat/club/3549
+SECCIO ESPORTIVA DE LA FUNDACIO ESCOLES FAMILIARS RURALS DEL PENEDES | https://www.basquetcatala.cat/club/3550
+DARIO COACH ACADEMY SL | https://www.basquetcatala.cat/club/3552
+CLUB ESPORTIU BASQUET BADIA 2025 | https://www.basquetcatala.cat/club/3551
+JOSEP CORNELLA I BOADA | https://www.basquetcatala.cat/club/3555
+VICTORIA VYSOKOSKOLSKE SPORTOVNI CENTRUM MSMT | https://www.basquetcatala.cat/club/3553
+CLUB DEPORTIVO BALONCESTO VOLCAN GRAN CANARIA | https://www.basquetcatala.cat/club/3554
+SIROKO SOLUTIONS SL | https://www.basquetcatala.cat/club/3556
+CLUB BALONCESTO ANDRATX | https://www.basquetcatala.cat/club/3557
+CA SPORTS MARKETING SL | https://www.basquetcatala.cat/club/3547
+AS SCANWELD | https://www.basquetcatala.cat/club/3558
+INSTITUT DE FORMACIO CONTINUA IL3-UB | https://www.basquetcatala.cat/club/3559
+AJUNTAMENT DE CENTELLES | https://www.basquetcatala.cat/club/3561
+GUISSONA BASQUETBOL CLUB 2025 | https://www.basquetcatala.cat/club/3562
+ARGOS 3X3 SLU | https://www.basquetcatala.cat/club/3560
+CLUB DEPORTIVO UNION BALONCESTO VINAS LOGRONO | https://www.basquetcatala.cat/club/3563
+C.D. BALONCESTO ADAREVA | https://www.basquetcatala.cat/club/3565
+CLUB NOU BASQUET PATERNA | https://www.basquetcatala.cat/club/3566
+NOU BASQUET FEMENI CASTELLO | https://www.basquetcatala.cat/club/3564
+CLUB BASQUET SANT ANTONI | https://www.basquetcatala.cat/club/3569
+IRAURGI   S.B. | https://www.basquetcatala.cat/club/3567
+ASOC. CLUB JAIRIS | https://www.basquetcatala.cat/club/3571
+C.B. GETAFE C.D.E. | https://www.basquetcatala.cat/club/3574
+CLUB DEPORTIVO ALBACETE BASKET | https://www.basquetcatala.cat/club/3573
+IBAETA C.D. | https://www.basquetcatala.cat/club/3572
+FUNDACION CLUB BALONCESTO MALLORCA | https://www.basquetcatala.cat/club/3568
+C.D. MAGEC TIAS | https://www.basquetcatala.cat/club/3578
+FEMENINO ALCORCON | https://www.basquetcatala.cat/club/3577
+BALONCESTO LEGANES C.D.E. | https://www.basquetcatala.cat/club/3570
+CD GRANADA MAS BALONCESTO | https://www.basquetcatala.cat/club/3576
+ELITE INTERNATIONAL SCHOOL C.D.E | https://www.basquetcatala.cat/club/3575
+C.P. MIRALVALLE | https://www.basquetcatala.cat/club/3581
+C. B. ROQUE ADAMEN | https://www.basquetcatala.cat/club/3580
+DISTRITO OLIMPICO | https://www.basquetcatala.cat/club/3582
+A.D. CORTEGADA | https://www.basquetcatala.cat/club/3588
+OINTXE SASKIBALOI KLUBA | https://www.basquetcatala.cat/club/3585
+GIJON BASKETBALL 2025 | https://www.basquetcatala.cat/club/3584
+CIUDAD DE MOSTOLES C.B. | https://www.basquetcatala.cat/club/3583
+CLUB ESPORTIU BASQUET SA REAL | https://www.basquetcatala.cat/club/3590
+BARAKALDO EMAKUMEEN S.T | https://www.basquetcatala.cat/club/3587
+CLUB BASQUET SA CREU CIUTAT D'INCA | https://www.basquetcatala.cat/club/3589
+C.B. MARISTAS | https://www.basquetcatala.cat/club/3586
+A.D. COMPANIA DE MARIA | https://www.basquetcatala.cat/club/3591
+CLARET-BENIMACLET | https://www.basquetcatala.cat/club/3579
+CLUB BALONCESTO COSTA CALVIA | https://www.basquetcatala.cat/club/3592
+C.B. ES CASTELL (CLUB DE BASQUET ES CASTELL) | https://www.basquetcatala.cat/club/3594
+UNION BASKET BARBASTRO 2018 | https://www.basquetcatala.cat/club/3593
+CLUB ESPORTIU GUARDIA URBANA DE BARCELONA (CEGUB) | https://www.basquetcatala.cat/club/3596
+CLUB BALONCESTO ANDRATX | https://www.basquetcatala.cat/club/3597
+C.B. CUARTE DE HUERVA | https://www.basquetcatala.cat/club/3595
+BASQUET ELS PALLARESOS | https://www.basquetcatala.cat/club/3600
+STAGE DEPORTIVO S.L. | https://www.basquetcatala.cat/club/3598
+SAN PABLO BURGOS S.A.D. | https://www.basquetcatala.cat/club/3602
+TIMECHAMBER SL | https://www.basquetcatala.cat/club/3599
+CD GRANADA POR EL BALONCESTO | https://www.basquetcatala.cat/club/3601
+FLEXICAR INTERNACIONA S.L. | https://www.basquetcatala.cat/club/3604
+DIXON SPORT ACADEMY BRANT LAKE CAPITAL, SLU | https://www.basquetcatala.cat/club/3603
+ASSOCIACIO ESPORTIVA ALBATARREC | https://www.basquetcatala.cat/club/3606
+ASSOCIACIO DE MARES I PARES DEL D’ALUMNES DEL COL·LEGI BON SALVADOR | https://www.basquetcatala.cat/club/3605
+FUNDACIO BADALONA CAPITAL EUROPEA DEL BASQUET | https://www.basquetcatala.cat/club/3610
+GENERALITAT DE CATALUNYA (DEPARTAMENT AGRICULTURA, RAMADERIA, PESCA I ALIMENTACIO) | https://www.basquetcatala.cat/club/3608
+FUNDACIO UNIVERSITARIA BALMES | https://www.basquetcatala.cat/club/3613
+FUNDACION EDUCATIVA JESUITAS CENTRO-ESTE | https://www.basquetcatala.cat/club/3609
+FUNDACION EDUCATIVA CARMELITAS MISIONERAS TERESIANAS | https://www.basquetcatala.cat/club/3611
+AUTO1 EUROPEAN CARS B.V. | https://www.basquetcatala.cat/club/3607
+ROFES CESPEDES JOSEP Mª | https://www.basquetcatala.cat/club/3614
+CBEF CLUB BASQUET L'ESPLUGA DE FRANCOLI | https://www.basquetcatala.cat/club/3612
+PENSI TEXTIL S.L. | https://www.basquetcatala.cat/club/3616
+RODRIGUEZ TIERNO XAVIER | https://www.basquetcatala.cat/club/3617
+RT GIRONA (AMISTOSOS) | https://www.basquetcatala.cat/club/3615
+FUNDACION ACB | https://www.basquetcatala.cat/club/3618
