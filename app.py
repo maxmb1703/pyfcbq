@@ -18,10 +18,10 @@ def treure_accents(text):
 
 def llegir_base_dades(nom_club_buscat):
     nom_club_net = treure_accents(nom_club_buscat.upper())
-    arxiu = "clubs_catalunya.txt"
+    arxiu = os.path.join(os.path.dirname(os.path.abspath(__file__)), "clubs_catalunya.txt")
     
     if not os.path.exists(arxiu):
-        return None, f"❌ ERROR: No s'ha trobat l'arxiu '{arxiu}'. Executa l'script recol·lector primer per crear la base de dades."
+        return None, f"❌ ERROR: No s'ha trobat l'arxiu 'clubs_catalunya.txt'. Assegura't que està al mateix repositori que app.py."
         
     with open(arxiu, "r", encoding="utf-8") as f:
         for linia in f:
