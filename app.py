@@ -90,6 +90,10 @@ def treure_accents(text):
     if not text: return ""
     return ''.join(c for c in unicodedata.normalize('NFD', str(text)) if unicodedata.category(c) != 'Mn')
 
+def netejar_puntuacio(text):
+    """Elimina punts, guions i caràcters estranys per evitar errors per culpa d'abreviatures"""
+    return re.sub(r'[^A-Z0-9\s]', '', text.upper())
+
 def obtenir_color_equip(equip):
     color = equip.get('colorRgb') or equip.get('primaryColor')
     nom_net = treure_accents(equip.get('name', '')).upper()
@@ -129,14 +133,17 @@ def generar_arxiu_pdf(df, titol, es_partit=False):
         try: return f"{float(x):.1f}%"
         except: return str(x)
         
-    def format_ppp(x):
+    def format_ppp_mpp(x):
         try: return f"{float(x):.1f}"
         except: return str(x)
 
     if '% TL' in df_pdf.columns:
         df_pdf['% TL'] = df_pdf['% TL'].apply(format_pct)
     if 'PPP' in df_pdf.columns:
-        df_pdf['PPP'] = df_pdf['PPP'].apply(format_ppp)
+        df_pdf['PPP'] = df_pdf['PPP'].apply(format_ppp_mpp)
+    # FORMAT PER LA NOVA COLUMNA AL PDF
+    if 'MPP' in df_pdf.columns:
+        df_pdf['MPP'] = df_pdf['MPP'].apply(format_ppp_mpp)
 
     data = []
     col_names = [unicodedata.normalize('NFKD', str(col)).encode('latin-1', 'ignore').decode('latin-1') for col in df_pdf.columns]
@@ -166,10 +173,8 @@ def generar_arxiu_pdf(df, titol, es_partit=False):
     try: col_f = df_pdf.columns.to_list().index('F')
     except: col_f = -1
 
-    # SOLUCIÓ: Fer servir un comptador absolut (num_fila) en lloc de l'índex trencat de Pandas
     for num_fila, (index_pandas, row) in enumerate(df_pdf.iterrows()):
-        r = num_fila + 1 # +1 perquè la fila 0 de la taula PDF són les capçaleres
-        
+        r = num_fila + 1 
         if col_pm != -1:
             try:
                 v = float(row['+/-'])
@@ -248,14 +253,20 @@ def processar_estadistiques_a_dataframe(diccionari_stats):
     df.rename(columns={'index': 'Jugadora', 'dorsal': 'Dor', 'pj': 'PJ', 'min': 'Min', 'pts': 'PTS', 
                        't2': 'T2', 't3': 'T3', 'tlt': 'TLT', 'tla': 'TLA', 'f': 'F', 'val': 'Val', 'mas_menos': '+/-'}, inplace=True)
     
+    # Càlcul de PPP i TL
     df['PPP'] = (df['PTS'] / df['PJ']).round(1).fillna(0)
+    
+    # NOU CÀLCUL: Minuts per partit (MPP)
+    df['MPP'] = (df['Min'] / df['PJ']).round(1).fillna(0)
+    
     df['TL (A/T)'] = df['TLA'].astype(int).astype(str) + '/' + df['TLT'].astype(int).astype(str)
     df['% TL'] = df.apply(lambda row: round((row['TLA'] / row['TLT'] * 100), 1) if row['TLT'] > 0 else 0.0, axis=1)
     
     df['DOR_NUM'] = pd.to_numeric(df['Dor'], errors='coerce').fillna(999)
     df = df.sort_values(by='DOR_NUM').drop(columns=['DOR_NUM'])
     
-    columnes_ordre = ['Dor', 'Jugadora', 'PJ', 'Min', 'PTS', 'PPP', 'Val', '+/-', 'TL (A/T)', '% TL', 'T2', 'T3', 'F']
+    # NOVA ORDENACIÓ: MPP entre Min i PTS
+    columnes_ordre = ['Dor', 'Jugadora', 'PJ', 'Min', 'MPP', 'PTS', 'PPP', 'Val', '+/-', 'TL (A/T)', '% TL', 'T2', 'T3', 'F']
     return df[columnes_ordre]
 
 def formatar_dataframe_boxscore(diccionari_stats):
@@ -265,6 +276,7 @@ def formatar_dataframe_boxscore(diccionari_stats):
     df.rename(columns={'index': 'Jugadora'}, inplace=True)
     df['DOR_NUM'] = pd.to_numeric(df['Dor'], errors='coerce').fillna(999)
     df = df.sort_values(by='DOR_NUM').drop(columns=['DOR_NUM'])
+    # Al BoxScore (un sol partit) no té sentit parlar de MPP o PPP, només els totals del dia
     columnes_ordre = ['Dor', 'Jugadora', 'Min', 'PTS', 'Val', '+/-', 'TL (A/T)', '% TL', 'T2', 'T3', 'F']
     return df[columnes_ordre]
 
@@ -274,6 +286,9 @@ def estilitzar_taula(df, es_partit=False):
         format_dict['% TL'] = "{:.1f}%"
     if 'PPP' in df.columns:
         format_dict['PPP'] = "{:.1f}"
+    # NOVA FORMATACIÓ VISUAL
+    if 'MPP' in df.columns:
+        format_dict['MPP'] = "{:.1f}"
         
     def pintar_pos_neg(val):
         try:
@@ -366,7 +381,7 @@ with st.container():
 st.write("") 
 
 # ========================================================
-# CÀRREGA DE DADES
+# CÀRREGA DE DADES AMB SISTEMA FAIL-SAFE INCORPORAT
 # ========================================================
 if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     if equip_seleccionat == "Cap equip actiu trobat amb aquests filtres":
@@ -376,6 +391,13 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     dades_equip = equips_disponibles[equip_seleccionat]
     url_equip_final = dades_equip['url']
     nom_curt_api = dades_equip['nom_curt']  
+    equip_id_matricula = url_equip_final.rstrip('/').split('/')[-1]
+    
+    # Neteja de text extrema
+    nom_c = netejar_puntuacio(treure_accents(nom_curt_api))
+    paraula_clau_club_neta = netejar_puntuacio(treure_accents(club_seleccionat))
+    paraules_equip = [p for p in nom_c.split() if p not in ["CLUB", "BASQUET", "ASSOCIACIO", "ESPORTIVA", "BOL", "CB", "BC", "CE", "AE"] and len(p) > 2]
+    paraula_json_final = " ".join([p for p in paraula_clau_club_neta.split() if p not in ["CLUB", "BASQUET", "ASSOCIACIO", "ESPORTIVA", "BOL", "CB", "BC", "CE", "AE"] and len(p) > 2])
     
     amb_progres = st.status(f"📡 Connectant directament amb l'equip...", expanded=True)
     
@@ -390,7 +412,7 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
             st.error("L'equip està inscrit però no ha començat la lliga ni té partits.")
             st.stop()
             
-        st.write(f"📥 Descarregant dades amb Motor de Càrrega Ràpida...")
+        st.write(f"📥 Rastrejador Ascendent: Analitzant les capses d'HTML reals...")
         estadistiques_temporada = {}
         taules_fases = {}
         historial_partits_jugadora = {} 
@@ -400,27 +422,70 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
             nom_fase_actual = f"Fase {index}"
             ids_partits_fase = set()
             
-            def buscar_ids_en_jornada(jornada):
+            def buscar_ids_per_capsa(jornada):
                 partits_trobats = []
                 try:
                     r = requests.get(f"{url_fase}/{jornada}", headers=headers, timeout=5)
                     s = BeautifulSoup(r.text, 'html.parser')
+                    
                     for a in s.find_all('a', href=True):
                         if '/estadistiques/' in a['href']:
-                            partits_trobats.append(a['href'].split('/')[-1])
+                            capsa = a.parent
+                            
+                            while capsa and capsa.name not in ['body', 'html']:
+                                if capsa.name == 'tr': 
+                                    break
+                                if len(capsa.find_all('a', href=re.compile(r'/club/|/equip/'))) >= 2:
+                                    break
+                                capsa = capsa.parent
+                                
+                            if capsa:
+                                text_capsa = netejar_puntuacio(treure_accents(capsa.get_text(separator=' ')))
+                                html_capsa = str(capsa)
+                                equip_juga_aqui = False
+                                
+                                if equip_id_matricula and len(equip_id_matricula) > 2 and (f"/{equip_id_matricula}" in html_capsa):
+                                    equip_juga_aqui = True
+                                elif nom_c in text_capsa:
+                                    equip_juga_aqui = True
+                                elif len(paraules_equip) > 0 and all(p in text_capsa for p in paraules_equip):
+                                    equip_juga_aqui = True
+                                elif paraula_json_final and paraula_json_final in text_capsa:
+                                    equip_juga_aqui = True
+                                    
+                                if equip_juga_aqui:
+                                    partits_trobats.append(a['href'].split('/')[-1])
                 except: pass
                 return partits_trobats
 
             with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
-                futurs = [executor.submit(buscar_ids_en_jornada, j) for j in range(1, 36)]
+                futurs = [executor.submit(buscar_ids_per_capsa, j) for j in range(1, 41)]
                 for futur in concurrent.futures.as_completed(futurs):
-                    per_jornada = futur.result()
-                    for id_p in per_jornada:
+                    for id_p in futur.result():
                         ids_partits_fase.add(id_p)
-                    
-            est_fase_actual = {}
-            st.write(f"S'han trobat {len(ids_partits_fase)} actes al Grup {index}. Analitzant...")
             
+            if len(ids_partits_fase) == 0:
+                st.write(f"⚠️ Activant Cerca Profunda d'emergència pel Grup {index}...")
+                def buscar_tots_ids(jornada):
+                    partits_trobats = []
+                    try:
+                        r = requests.get(f"{url_fase}/{jornada}", headers=headers, timeout=5)
+                        s = BeautifulSoup(r.text, 'html.parser')
+                        for a in s.find_all('a', href=True):
+                            if '/estadistiques/' in a['href']:
+                                partits_trobats.append(a['href'].split('/')[-1])
+                    except: pass
+                    return partits_trobats
+                    
+                with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
+                    futurs = [executor.submit(buscar_tots_ids, j) for j in range(1, 36)]
+                    for futur in concurrent.futures.as_completed(futurs):
+                        for id_p in futur.result():
+                            ids_partits_fase.add(id_p)
+                            
+            st.write(f"✅ S'han aïllat {len(ids_partits_fase)} actes al Grup {index}. Processant dades...")
+            
+            est_fase_actual = {}
             for id_partit in ids_partits_fase:
                 try:
                     res_api = requests.get(f"https://msstats.optimalwayconsulting.com/v1/fcbq/getJsonWithMatchStats/{id_partit}?currentSeason=true", headers=headers, timeout=5)
@@ -434,6 +499,9 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
                     nom_local = equip_local.get('name', 'Local')
                     nom_visitant = equip_visitant.get('name', 'Visitant')
                     
+                    nom_local_net = netejar_puntuacio(treure_accents(nom_local))
+                    nom_visitant_net = netejar_puntuacio(treure_accents(nom_visitant))
+                    
                     color_local = obtenir_color_equip(equip_local)
                     color_visitant = obtenir_color_equip(equip_visitant)
                     
@@ -445,12 +513,12 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
                     equip_rival_dades = None
                     equip_rival_nom = ""
                     
-                    if treure_accents(nom_curt_api.upper()) in treure_accents(nom_local.upper()) or treure_accents(paraula_clau_club.upper()) in treure_accents(nom_local.upper()):
+                    if nom_c in nom_local_net or (paraula_json_final and paraula_json_final in nom_local_net):
                         es_local = True
                         equip_nostre_dades = equip_local
                         equip_rival_dades = equip_visitant
                         equip_rival_nom = nom_visitant
-                    elif treure_accents(nom_curt_api.upper()) in treure_accents(nom_visitant.upper()) or treure_accents(paraula_clau_club.upper()) in treure_accents(nom_visitant.upper()):
+                    elif nom_c in nom_visitant_net or (paraula_json_final and paraula_json_final in nom_visitant_net):
                         es_local = False
                         equip_nostre_dades = equip_visitant
                         equip_rival_dades = equip_local
@@ -464,7 +532,6 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
                     est_partit_actual_equip = {} 
                     est_partit_rival = {}
                     
-                    # El Nostre Equip
                     for jug in equip_nostre_dades.get('players', []):
                         nom = jug.get('name', 'Desc')
                         dorsal = jug.get('dorsal', '-')
@@ -517,7 +584,6 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
                             d_stats[nom]['f'] += d_est.get('faults', 0)
                             d_stats[nom]['val'] += d_est.get('valoration', 0)
                             
-                    # El Rival
                     for jug in equip_rival_dades.get('players', []):
                         nom = jug.get('name', 'Desc')
                         dorsal = jug.get('dorsal', '-')
@@ -559,7 +625,7 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
             amb_progres.update(label="⚠️ Hem llegit tots els partits però no hem trobat minuts de les teves jugadores.", state="error", expanded=True)
             st.stop()
         else:
-            amb_progres.update(label="✅ Anàlisi completat amb èxit!", state="complete", expanded=False)
+            amb_progres.update(label="✅ Anàlisi completat a màxima velocitat!", state="complete", expanded=False)
 
         st.session_state.df_total = df_total
         st.session_state.taules_fases = taules_fases
