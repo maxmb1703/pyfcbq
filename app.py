@@ -215,8 +215,8 @@ def carregar_diccionari_clubs():
                     clubs[nom] = url
     return clubs
 
-# NOU: SENSE CACHÉ I AMB USER-AGENT REALISTA ANTI-BLOQUEIG
 def obtenir_tots_els_equips_del_club(url_club):
+    # LA DISFRESSA COMPLETA
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
@@ -226,7 +226,6 @@ def obtenir_tots_els_equips_del_club(url_club):
     try:
         res = requests.get(url_club, headers=headers, timeout=10)
         
-        # Si la web ens ha bloquejat temporalment ho avisem!
         if res.status_code in [403, 429]:
             st.error(f"⚠️ La web de la FCBQ ha bloquejat temporalment l'accés per massa consultes (Error {res.status_code}). Espera uns minuts.")
             return []
@@ -250,7 +249,6 @@ def obtenir_tots_els_equips_del_club(url_club):
                         'url': url_equip
                     })
     except Exception as e:
-        st.error(f"⚠️ Error intentant connectar amb la pàgina del Club: {e}")
         pass
     return equips_club
 
@@ -347,7 +345,7 @@ with st.container():
     equips_disponibles = {}
     
     if url_club and "⚠️" not in club_seleccionat:
-        tots_equips = obtenir_tots_els_equips_del_club(url_club) # Ara crida la funció neta sense caché
+        tots_equips = obtenir_tots_els_equips_del_club(url_club)
         
         dicc_categories = {
             "PRE-MINI": {"inc": ["PRE-MINI", "PREMINI", "PRE MINI"], "exc": []},
@@ -390,7 +388,7 @@ with st.container():
 st.write("") 
 
 # ========================================================
-# CÀRREGA DE DADES
+# CÀRREGA DE DADES AMB SISTEMA FAIL-SAFE INCORPORAT
 # ========================================================
 if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     if equip_seleccionat == "Cap equip actiu trobat amb aquests filtres":
@@ -410,10 +408,19 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     amb_progres = st.status(f"📡 Connectant directament amb l'equip...", expanded=True)
     
     with amb_progres:
+        # AQUÍ HEM AFEGIT LA DISFRESSA COMPLETA PER EVITAR EL BLOQUEIG!
         headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+            "Accept-Language": "ca-ES,ca;q=0.9,es;q=0.8,en;q=0.7"
         }
-        res_fases = requests.get(url_equip_final, headers=headers)
+        res_fases = requests.get(url_equip_final, headers=headers, timeout=10)
+        
+        # EL NOU AVISADOR DE BLOQUEIG
+        if res_fases.status_code in [403, 429]:
+            st.error(f"⚠️ La web de la FCBQ ha bloquejat l'accés a la pàgina de l'equip (Error {res_fases.status_code}). Hem de donar-li un parell de minuts de descans al sistema.")
+            st.stop()
+            
         soup_fases = BeautifulSoup(res_fases.text, 'html.parser')
         urls_fases = [("https://www.basquetcatala.cat" + a['href'] if a['href'].startswith('/') else a['href']) for a in soup_fases.find_all('a', href=True) if '/competicions/resultats/' in a['href']]
         urls_fases = list(dict.fromkeys(urls_fases))
@@ -422,7 +429,7 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
             st.error("L'equip està inscrit però no ha començat la lliga ni té partits.")
             st.stop()
             
-        st.write(f"📥 Rastrejador Ascendent: Analitzant les capses d'HTML reals fins a la jornada 40...")
+        st.write(f"📥 Rastrejador Ascendent: Analitzant les capses d'HTML reals...")
         estadistiques_temporada = {}
         taules_fases = {}
         historial_partits_jugadora = {} 
