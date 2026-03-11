@@ -91,7 +91,6 @@ def treure_accents(text):
     return ''.join(c for c in unicodedata.normalize('NFD', str(text)) if unicodedata.category(c) != 'Mn')
 
 def netejar_puntuacio(text):
-    """Elimina punts, guions i caràcters estranys per evitar errors per culpa d'abreviatures"""
     return re.sub(r'[^A-Z0-9\s]', '', text.upper())
 
 def obtenir_color_equip(equip):
@@ -141,7 +140,6 @@ def generar_arxiu_pdf(df, titol, es_partit=False):
         df_pdf['% TL'] = df_pdf['% TL'].apply(format_pct)
     if 'PPP' in df_pdf.columns:
         df_pdf['PPP'] = df_pdf['PPP'].apply(format_ppp_mpp)
-    # FORMAT PER LA NOVA COLUMNA AL PDF
     if 'MPP' in df_pdf.columns:
         df_pdf['MPP'] = df_pdf['MPP'].apply(format_ppp_mpp)
 
@@ -217,12 +215,22 @@ def carregar_diccionari_clubs():
                     clubs[nom] = url
     return clubs
 
-@st.cache_data(ttl=3600) 
+# NOU: SENSE CACHÉ I AMB USER-AGENT REALISTA ANTI-BLOQUEIG
 def obtenir_tots_els_equips_del_club(url_club):
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "ca-ES,ca;q=0.9,es;q=0.8,en;q=0.7"
+    }
     equips_club = []
     try:
-        res = requests.get(url_club, headers=headers, timeout=5)
+        res = requests.get(url_club, headers=headers, timeout=10)
+        
+        # Si la web ens ha bloquejat temporalment ho avisem!
+        if res.status_code in [403, 429]:
+            st.error(f"⚠️ La web de la FCBQ ha bloquejat temporalment l'accés per massa consultes (Error {res.status_code}). Espera uns minuts.")
+            return []
+            
         if res.status_code == 200:
             soup = BeautifulSoup(res.text, 'html.parser')
             for a in soup.find_all('a', href=True):
@@ -241,7 +249,8 @@ def obtenir_tots_els_equips_del_club(url_club):
                         'linia_mostrar': linia_original,
                         'url': url_equip
                     })
-    except:
+    except Exception as e:
+        st.error(f"⚠️ Error intentant connectar amb la pàgina del Club: {e}")
         pass
     return equips_club
 
@@ -253,19 +262,14 @@ def processar_estadistiques_a_dataframe(diccionari_stats):
     df.rename(columns={'index': 'Jugadora', 'dorsal': 'Dor', 'pj': 'PJ', 'min': 'Min', 'pts': 'PTS', 
                        't2': 'T2', 't3': 'T3', 'tlt': 'TLT', 'tla': 'TLA', 'f': 'F', 'val': 'Val', 'mas_menos': '+/-'}, inplace=True)
     
-    # Càlcul de PPP i TL
     df['PPP'] = (df['PTS'] / df['PJ']).round(1).fillna(0)
-    
-    # NOU CÀLCUL: Minuts per partit (MPP)
     df['MPP'] = (df['Min'] / df['PJ']).round(1).fillna(0)
-    
     df['TL (A/T)'] = df['TLA'].astype(int).astype(str) + '/' + df['TLT'].astype(int).astype(str)
     df['% TL'] = df.apply(lambda row: round((row['TLA'] / row['TLT'] * 100), 1) if row['TLT'] > 0 else 0.0, axis=1)
     
     df['DOR_NUM'] = pd.to_numeric(df['Dor'], errors='coerce').fillna(999)
     df = df.sort_values(by='DOR_NUM').drop(columns=['DOR_NUM'])
     
-    # NOVA ORDENACIÓ: MPP entre Min i PTS
     columnes_ordre = ['Dor', 'Jugadora', 'PJ', 'Min', 'MPP', 'PTS', 'PPP', 'Val', '+/-', 'TL (A/T)', '% TL', 'T2', 'T3', 'F']
     return df[columnes_ordre]
 
@@ -276,7 +280,6 @@ def formatar_dataframe_boxscore(diccionari_stats):
     df.rename(columns={'index': 'Jugadora'}, inplace=True)
     df['DOR_NUM'] = pd.to_numeric(df['Dor'], errors='coerce').fillna(999)
     df = df.sort_values(by='DOR_NUM').drop(columns=['DOR_NUM'])
-    # Al BoxScore (un sol partit) no té sentit parlar de MPP o PPP, només els totals del dia
     columnes_ordre = ['Dor', 'Jugadora', 'Min', 'PTS', 'Val', '+/-', 'TL (A/T)', '% TL', 'T2', 'T3', 'F']
     return df[columnes_ordre]
 
@@ -286,7 +289,6 @@ def estilitzar_taula(df, es_partit=False):
         format_dict['% TL'] = "{:.1f}%"
     if 'PPP' in df.columns:
         format_dict['PPP'] = "{:.1f}"
-    # NOVA FORMATACIÓ VISUAL
     if 'MPP' in df.columns:
         format_dict['MPP'] = "{:.1f}"
         
@@ -345,7 +347,7 @@ with st.container():
     equips_disponibles = {}
     
     if url_club and "⚠️" not in club_seleccionat:
-        tots_equips = obtenir_tots_els_equips_del_club(url_club)
+        tots_equips = obtenir_tots_els_equips_del_club(url_club) # Ara crida la funció neta sense caché
         
         dicc_categories = {
             "PRE-MINI": {"inc": ["PRE-MINI", "PREMINI", "PRE MINI"], "exc": []},
@@ -367,7 +369,14 @@ with st.container():
         
         for eq in tots_equips:
             text_linia = eq['linia_cerca']
-            if any(variant in text_linia for variant in variants_cat) and not any(exc in text_linia for exc in exclusions_cat) and any(variant in text_linia for variant in variants_gen):
+            te_categoria = any(variant in text_linia for variant in variants_cat)
+            if te_categoria and exclusions_cat:
+                if any(exc in text_linia for exc in exclusions_cat):
+                    te_categoria = False
+                    
+            te_genere = any(variant in text_linia for variant in variants_gen)
+            
+            if te_categoria and te_genere:
                 equips_disponibles[eq['linia_mostrar']] = {'url': eq['url'], 'nom_curt': eq['nom_curt']}
 
     noms_filtrats = list(equips_disponibles.keys())
@@ -381,7 +390,7 @@ with st.container():
 st.write("") 
 
 # ========================================================
-# CÀRREGA DE DADES AMB SISTEMA FAIL-SAFE INCORPORAT
+# CÀRREGA DE DADES
 # ========================================================
 if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     if equip_seleccionat == "Cap equip actiu trobat amb aquests filtres":
@@ -393,7 +402,6 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     nom_curt_api = dades_equip['nom_curt']  
     equip_id_matricula = url_equip_final.rstrip('/').split('/')[-1]
     
-    # Neteja de text extrema
     nom_c = netejar_puntuacio(treure_accents(nom_curt_api))
     paraula_clau_club_neta = netejar_puntuacio(treure_accents(club_seleccionat))
     paraules_equip = [p for p in nom_c.split() if p not in ["CLUB", "BASQUET", "ASSOCIACIO", "ESPORTIVA", "BOL", "CB", "BC", "CE", "AE"] and len(p) > 2]
@@ -402,7 +410,9 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
     amb_progres = st.status(f"📡 Connectant directament amb l'equip...", expanded=True)
     
     with amb_progres:
-        headers = {"User-Agent": "Mozilla/5.0"}
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+        }
         res_fases = requests.get(url_equip_final, headers=headers)
         soup_fases = BeautifulSoup(res_fases.text, 'html.parser')
         urls_fases = [("https://www.basquetcatala.cat" + a['href'] if a['href'].startswith('/') else a['href']) for a in soup_fases.find_all('a', href=True) if '/competicions/resultats/' in a['href']]
@@ -412,7 +422,7 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
             st.error("L'equip està inscrit però no ha començat la lliga ni té partits.")
             st.stop()
             
-        st.write(f"📥 Rastrejador Ascendent: Analitzant les capses d'HTML reals...")
+        st.write(f"📥 Rastrejador Ascendent: Analitzant les capses d'HTML reals fins a la jornada 40...")
         estadistiques_temporada = {}
         taules_fases = {}
         historial_partits_jugadora = {} 
@@ -478,7 +488,7 @@ if st.button("📊 GENERAR INFORME ESTADÍSTIC", type="primary"):
                     return partits_trobats
                     
                 with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
-                    futurs = [executor.submit(buscar_tots_ids, j) for j in range(1, 36)]
+                    futurs = [executor.submit(buscar_tots_ids, j) for j in range(1, 41)]
                     for futur in concurrent.futures.as_completed(futurs):
                         for id_p in futur.result():
                             ids_partits_fase.add(id_p)
